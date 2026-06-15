@@ -1,0 +1,5042 @@
+[
+  {
+    "frame": 7,
+    "object_top": "Car1",
+    "object_right": "Parked_01",
+    "dist_m": 5.33,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.29,
+    "err_right": 1.51,
+    "margin_top": 0.621,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641545,
+      -122.140163
+    ],
+    "pred_right": [
+      47.641591,
+      -122.140185
+    ]
+  },
+  {
+    "frame": 8,
+    "object_top": "Parked_01",
+    "object_right": "Parked_01B",
+    "dist_m": 2.56,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.16,
+    "err_right": 2.42,
+    "margin_top": 0.621,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.641594,
+      -122.140163
+    ],
+    "pred_right": [
+      47.641587,
+      -122.140131
+    ]
+  },
+  {
+    "frame": 8,
+    "object_top": "Parked_01",
+    "object_right": "Car1",
+    "dist_m": 2.93,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.16,
+    "err_right": 1.35,
+    "margin_top": 0.621,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.641594,
+      -122.140163
+    ],
+    "pred_right": [
+      47.641568,
+      -122.140164
+    ]
+  },
+  {
+    "frame": 8,
+    "object_top": "Parked_01B",
+    "object_right": "Parked_01",
+    "dist_m": 6.31,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.64,
+    "err_right": 0.26,
+    "margin_top": 0.621,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.641595,
+      -122.140078
+    ],
+    "pred_right": [
+      47.641594,
+      -122.140162
+    ]
+  },
+  {
+    "frame": 8,
+    "object_top": "Parked_01B",
+    "object_right": "Car1",
+    "dist_m": 7.15,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.64,
+    "err_right": 1.35,
+    "margin_top": 0.621,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.641595,
+      -122.140078
+    ],
+    "pred_right": [
+      47.641568,
+      -122.140164
+    ]
+  },
+  {
+    "frame": 9,
+    "object_top": "Car1",
+    "object_right": "Parked_01",
+    "dist_m": 3.42,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.12,
+    "err_right": 0.31,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.64158,
+      -122.140128
+    ],
+    "pred_right": [
+      47.641593,
+      -122.140169
+    ]
+  },
+  {
+    "frame": 9,
+    "object_top": "Car1",
+    "object_right": "Parked_01B",
+    "dist_m": 3.3,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.12,
+    "err_right": 1.74,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.64158,
+      -122.140128
+    ],
+    "pred_right": [
+      47.641607,
+      -122.140109
+    ]
+  },
+  {
+    "frame": 9,
+    "object_top": "Parked_01",
+    "object_right": "Car1",
+    "dist_m": 1.78,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.25,
+    "err_right": 1.8,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641592,
+      -122.140168
+    ],
+    "pred_right": [
+      47.641591,
+      -122.140144
+    ]
+  },
+  {
+    "frame": 9,
+    "object_top": "Parked_01",
+    "object_right": "Parked_01B",
+    "dist_m": 4.74,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.25,
+    "err_right": 1.74,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641592,
+      -122.140168
+    ],
+    "pred_right": [
+      47.641607,
+      -122.140109
+    ]
+  },
+  {
+    "frame": 9,
+    "object_top": "Parked_01B",
+    "object_right": "Car1",
+    "dist_m": 4.49,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.11,
+    "err_right": 1.8,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641592,
+      -122.140085
+    ],
+    "pred_right": [
+      47.641591,
+      -122.140144
+    ]
+  },
+  {
+    "frame": 9,
+    "object_top": "Parked_01B",
+    "object_right": "Parked_01",
+    "dist_m": 6.35,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.11,
+    "err_right": 0.31,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641592,
+      -122.140085
+    ],
+    "pred_right": [
+      47.641593,
+      -122.140169
+    ]
+  },
+  {
+    "frame": 10,
+    "object_top": "Parked_01",
+    "object_right": "Parked_01B",
+    "dist_m": 5.53,
+    "threshold": 7.506,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.89,
+    "err_right": 0.59,
+    "margin_top": 0.618,
+    "margin_right": 0.491,
+    "pred_top": [
+      47.641594,
+      -122.140177
+    ],
+    "pred_right": [
+      47.641597,
+      -122.140103
+    ]
+  },
+  {
+    "frame": 10,
+    "object_top": "Parked_01B",
+    "object_right": "Parked_01",
+    "dist_m": 5.39,
+    "threshold": 7.506,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.66,
+    "err_right": 1.04,
+    "margin_top": 0.618,
+    "margin_right": 0.491,
+    "pred_top": [
+      47.641595,
+      -122.140107
+    ],
+    "pred_right": [
+      47.641593,
+      -122.140179
+    ]
+  },
+  {
+    "frame": 11,
+    "object_top": "Parked_01",
+    "object_right": "Parked_01B",
+    "dist_m": 4.56,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.8,
+    "err_right": 1.18,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641594,
+      -122.140176
+    ],
+    "pred_right": [
+      47.641593,
+      -122.140115
+    ]
+  },
+  {
+    "frame": 11,
+    "object_top": "Parked_01B",
+    "object_right": "Parked_01",
+    "dist_m": 5.25,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.19,
+    "err_right": 1.48,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641594,
+      -122.140115
+    ],
+    "pred_right": [
+      47.641593,
+      -122.140185
+    ]
+  },
+  {
+    "frame": 12,
+    "object_top": "Parked_01",
+    "object_right": "Parked_01B",
+    "dist_m": 1.6,
+    "threshold": 7.501,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.01,
+    "err_right": 2.35,
+    "margin_top": 0.615,
+    "margin_right": 0.489,
+    "pred_top": [
+      47.641593,
+      -122.140152
+    ],
+    "pred_right": [
+      47.641591,
+      -122.140131
+    ]
+  },
+  {
+    "frame": 12,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_02",
+    "dist_m": 5.84,
+    "threshold": 7.501,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.49,
+    "err_right": 3.73,
+    "margin_top": 0.615,
+    "margin_right": 0.489,
+    "pred_top": [
+      47.641611,
+      -122.139852
+    ],
+    "pred_right": [
+      47.641642,
+      -122.139914
+    ]
+  },
+  {
+    "frame": 12,
+    "object_top": "Parked_16",
+    "object_right": "Parked_02",
+    "dist_m": 5.27,
+    "threshold": 7.501,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.73,
+    "err_right": 3.73,
+    "margin_top": 0.615,
+    "margin_right": 0.489,
+    "pred_top": [
+      47.641663,
+      -122.139852
+    ],
+    "pred_right": [
+      47.641642,
+      -122.139914
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_02",
+    "object_right": "Parked_02B",
+    "dist_m": 4.15,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.96,
+    "err_right": 2.65,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641615,
+      -122.139888
+    ],
+    "pred_right": [
+      47.641634,
+      -122.13984
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_02",
+    "dist_m": 6.44,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.89,
+    "err_right": 2.16,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641613,
+      -122.13982
+    ],
+    "pred_right": [
+      47.64163,
+      -122.139902
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_16",
+    "dist_m": 6.34,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.89,
+    "err_right": 1.79,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641613,
+      -122.13982
+    ],
+    "pred_right": [
+      47.64167,
+      -122.139821
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_16B",
+    "dist_m": 6.73,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.89,
+    "err_right": 2.35,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641613,
+      -122.13982
+    ],
+    "pred_right": [
+      47.64167,
+      -122.139789
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_16",
+    "object_right": "Parked_02",
+    "dist_m": 7.28,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.3,
+    "err_right": 2.16,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641664,
+      -122.139819
+    ],
+    "pred_right": [
+      47.64163,
+      -122.139902
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_16",
+    "object_right": "Parked_02B",
+    "dist_m": 3.65,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.3,
+    "err_right": 2.65,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641664,
+      -122.139819
+    ],
+    "pred_right": [
+      47.641634,
+      -122.13984
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_16",
+    "object_right": "Parked_16B",
+    "dist_m": 2.38,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.3,
+    "err_right": 2.35,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641664,
+      -122.139819
+    ],
+    "pred_right": [
+      47.64167,
+      -122.139789
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_16B",
+    "object_right": "Parked_02B",
+    "dist_m": 5.22,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.49,
+    "err_right": 2.65,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641661,
+      -122.139783
+    ],
+    "pred_right": [
+      47.641634,
+      -122.13984
+    ]
+  },
+  {
+    "frame": 13,
+    "object_top": "Parked_16B",
+    "object_right": "Parked_16",
+    "dist_m": 2.96,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.49,
+    "err_right": 1.79,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641661,
+      -122.139783
+    ],
+    "pred_right": [
+      47.64167,
+      -122.139821
+    ]
+  },
+  {
+    "frame": 14,
+    "object_top": "Parked_02",
+    "object_right": "Parked_02B",
+    "dist_m": 4.62,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.72,
+    "err_right": 1.64,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641615,
+      -122.139906
+    ],
+    "pred_right": [
+      47.641622,
+      -122.139845
+    ]
+  },
+  {
+    "frame": 14,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_02",
+    "dist_m": 5.67,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.45,
+    "err_right": 0.69,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641613,
+      -122.139826
+    ],
+    "pred_right": [
+      47.641616,
+      -122.139902
+    ]
+  },
+  {
+    "frame": 14,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_16",
+    "dist_m": 6.11,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.45,
+    "err_right": 1.42,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641613,
+      -122.139826
+    ],
+    "pred_right": [
+      47.641668,
+      -122.139827
+    ]
+  },
+  {
+    "frame": 14,
+    "object_top": "Parked_16",
+    "object_right": "Parked_02B",
+    "dist_m": 4.84,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.04,
+    "err_right": 1.64,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641664,
+      -122.139826
+    ],
+    "pred_right": [
+      47.641622,
+      -122.139845
+    ]
+  },
+  {
+    "frame": 14,
+    "object_top": "Parked_16",
+    "object_right": "Parked_16B",
+    "dist_m": 3.52,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.04,
+    "err_right": 3.01,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641664,
+      -122.139826
+    ],
+    "pred_right": [
+      47.641679,
+      -122.139785
+    ]
+  },
+  {
+    "frame": 14,
+    "object_top": "Parked_16B",
+    "object_right": "Parked_02B",
+    "dist_m": 6.91,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.53,
+    "err_right": 1.64,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641659,
+      -122.13977
+    ],
+    "pred_right": [
+      47.641622,
+      -122.139845
+    ]
+  },
+  {
+    "frame": 14,
+    "object_top": "Parked_16B",
+    "object_right": "Parked_16",
+    "dist_m": 4.32,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.53,
+    "err_right": 1.42,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.641659,
+      -122.13977
+    ],
+    "pred_right": [
+      47.641668,
+      -122.139827
+    ]
+  },
+  {
+    "frame": 15,
+    "object_top": "Parked_16",
+    "object_right": "Parked_16B",
+    "dist_m": 4.97,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.64,
+    "err_right": 1.36,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641661,
+      -122.139832
+    ],
+    "pred_right": [
+      47.641668,
+      -122.139766
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_02",
+    "object_right": "Parked_02B",
+    "dist_m": 4.03,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.18,
+    "err_right": 0.75,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641601,
+      -122.139893
+    ],
+    "pred_right": [
+      47.641607,
+      -122.13984
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_02",
+    "dist_m": 6.7,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 2.24,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641609,
+      -122.139839
+    ],
+    "pred_right": [
+      47.641608,
+      -122.139928
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_16",
+    "dist_m": 5.74,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 0.94,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641609,
+      -122.139839
+    ],
+    "pred_right": [
+      47.641661,
+      -122.139842
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_02B",
+    "object_right": "Car1",
+    "dist_m": 4.86,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 1.34,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641609,
+      -122.139839
+    ],
+    "pred_right": [
+      47.64162,
+      -122.139776
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_16",
+    "object_right": "Parked_02B",
+    "dist_m": 5.97,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.81,
+    "err_right": 0.75,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641661,
+      -122.139839
+    ],
+    "pred_right": [
+      47.641607,
+      -122.13984
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_16",
+    "object_right": "Parked_16B",
+    "dist_m": 5.7,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.81,
+    "err_right": 0.46,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641661,
+      -122.139839
+    ],
+    "pred_right": [
+      47.64166,
+      -122.139763
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_16",
+    "object_right": "Car1",
+    "dist_m": 6.56,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.81,
+    "err_right": 1.34,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.641661,
+      -122.139839
+    ],
+    "pred_right": [
+      47.64162,
+      -122.139776
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_16B",
+    "object_right": "Parked_16",
+    "dist_m": 5.83,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.44,
+    "err_right": 0.94,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.64166,
+      -122.139764
+    ],
+    "pred_right": [
+      47.641661,
+      -122.139842
+    ]
+  },
+  {
+    "frame": 16,
+    "object_top": "Parked_16B",
+    "object_right": "Car1",
+    "dist_m": 4.49,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.44,
+    "err_right": 1.34,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.64166,
+      -122.139764
+    ],
+    "pred_right": [
+      47.64162,
+      -122.139776
+    ]
+  },
+  {
+    "frame": 17,
+    "object_top": "Parked_02",
+    "object_right": "Parked_02B",
+    "dist_m": 2.5,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.62,
+    "err_right": 1.19,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641595,
+      -122.139873
+    ],
+    "pred_right": [
+      47.641609,
+      -122.139847
+    ]
+  },
+  {
+    "frame": 17,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_02",
+    "dist_m": 6.0,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.65,
+    "err_right": 1.72,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.64161,
+      -122.13984
+    ],
+    "pred_right": [
+      47.641617,
+      -122.13992
+    ]
+  },
+  {
+    "frame": 17,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_16",
+    "dist_m": 5.85,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.65,
+    "err_right": 1.48,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.64161,
+      -122.13984
+    ],
+    "pred_right": [
+      47.641662,
+      -122.139849
+    ]
+  },
+  {
+    "frame": 17,
+    "object_top": "Parked_16",
+    "object_right": "Parked_02B",
+    "dist_m": 5.73,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.47,
+    "err_right": 1.19,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641659,
+      -122.139829
+    ],
+    "pred_right": [
+      47.641609,
+      -122.139847
+    ]
+  },
+  {
+    "frame": 17,
+    "object_top": "Parked_16",
+    "object_right": "Parked_16B",
+    "dist_m": 4.4,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.47,
+    "err_right": 0.69,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641659,
+      -122.139829
+    ],
+    "pred_right": [
+      47.641661,
+      -122.139771
+    ]
+  },
+  {
+    "frame": 17,
+    "object_top": "Parked_16B",
+    "object_right": "Parked_16",
+    "dist_m": 5.99,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.68,
+    "err_right": 1.48,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641661,
+      -122.139769
+    ],
+    "pred_right": [
+      47.641662,
+      -122.139849
+    ]
+  },
+  {
+    "frame": 17,
+    "object_top": "Parked_16B",
+    "object_right": "Car1",
+    "dist_m": 6.33,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.68,
+    "err_right": 1.38,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641661,
+      -122.139769
+    ],
+    "pred_right": [
+      47.641611,
+      -122.13973
+    ]
+  },
+  {
+    "frame": 18,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_16",
+    "dist_m": 7.42,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.29,
+    "err_right": 2.2,
+    "margin_top": 0.623,
+    "margin_right": 0.496,
+    "pred_top": [
+      47.641603,
+      -122.139818
+    ],
+    "pred_right": [
+      47.641665,
+      -122.139858
+    ]
+  },
+  {
+    "frame": 18,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_16B",
+    "dist_m": 7.17,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.29,
+    "err_right": 1.33,
+    "margin_top": 0.623,
+    "margin_right": 0.496,
+    "pred_top": [
+      47.641603,
+      -122.139818
+    ],
+    "pred_right": [
+      47.641662,
+      -122.13978
+    ]
+  },
+  {
+    "frame": 18,
+    "object_top": "Parked_02B",
+    "object_right": "Parked_02",
+    "dist_m": 7.17,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.29,
+    "err_right": 1.74,
+    "margin_top": 0.623,
+    "margin_right": 0.496,
+    "pred_top": [
+      47.641603,
+      -122.139818
+    ],
+    "pred_right": [
+      47.641624,
+      -122.139909
+    ]
+  },
+  {
+    "frame": 18,
+    "object_top": "Parked_16",
+    "object_right": "Parked_02B",
+    "dist_m": 5.77,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.02,
+    "err_right": 1.78,
+    "margin_top": 0.623,
+    "margin_right": 0.496,
+    "pred_top": [
+      47.641651,
+      -122.139806
+    ],
+    "pred_right": [
+      47.641612,
+      -122.139855
+    ]
+  },
+  {
+    "frame": 18,
+    "object_top": "Parked_16",
+    "object_right": "Parked_16B",
+    "dist_m": 2.3,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.02,
+    "err_right": 1.33,
+    "margin_top": 0.623,
+    "margin_right": 0.496,
+    "pred_top": [
+      47.641651,
+      -122.139806
+    ],
+    "pred_right": [
+      47.641662,
+      -122.13978
+    ]
+  },
+  {
+    "frame": 18,
+    "object_top": "Parked_16B",
+    "object_right": "Parked_16",
+    "dist_m": 7.23,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.45,
+    "err_right": 2.2,
+    "margin_top": 0.623,
+    "margin_right": 0.496,
+    "pred_top": [
+      47.641659,
+      -122.139762
+    ],
+    "pred_right": [
+      47.641665,
+      -122.139858
+    ]
+  },
+  {
+    "frame": 21,
+    "object_top": "Car1",
+    "object_right": "Parked_03",
+    "dist_m": 2.8,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.01,
+    "err_right": 1.99,
+    "margin_top": 0.622,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641506,
+      -122.139482
+    ],
+    "pred_right": [
+      47.641482,
+      -122.139492
+    ]
+  },
+  {
+    "frame": 21,
+    "object_top": "Car1",
+    "object_right": "Parked_03B",
+    "dist_m": 6.26,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.01,
+    "err_right": 2.38,
+    "margin_top": 0.622,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641506,
+      -122.139482
+    ],
+    "pred_right": [
+      47.641485,
+      -122.139404
+    ]
+  },
+  {
+    "frame": 21,
+    "object_top": "Parked_03",
+    "object_right": "Car1",
+    "dist_m": 5.95,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.66,
+    "err_right": 1.45,
+    "margin_top": 0.622,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641459,
+      -122.139482
+    ],
+    "pred_right": [
+      47.641513,
+      -122.139486
+    ]
+  },
+  {
+    "frame": 21,
+    "object_top": "Parked_03",
+    "object_right": "Parked_03B",
+    "dist_m": 6.5,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.66,
+    "err_right": 2.38,
+    "margin_top": 0.622,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641459,
+      -122.139482
+    ],
+    "pred_right": [
+      47.641485,
+      -122.139404
+    ]
+  },
+  {
+    "frame": 21,
+    "object_top": "Parked_03B",
+    "object_right": "Parked_03",
+    "dist_m": 6.8,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.78,
+    "err_right": 1.99,
+    "margin_top": 0.622,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.64146,
+      -122.139407
+    ],
+    "pred_right": [
+      47.641482,
+      -122.139492
+    ]
+  },
+  {
+    "frame": 22,
+    "object_top": "Car1",
+    "object_right": "Parked_03",
+    "dist_m": 7.19,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.04,
+    "err_right": 1.21,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641464,
+      -122.139402
+    ],
+    "pred_right": [
+      47.641464,
+      -122.139498
+    ]
+  },
+  {
+    "frame": 22,
+    "object_top": "Car1",
+    "object_right": "Parked_03B",
+    "dist_m": 1.49,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.04,
+    "err_right": 0.56,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641464,
+      -122.139402
+    ],
+    "pred_right": [
+      47.641465,
+      -122.139422
+    ]
+  },
+  {
+    "frame": 22,
+    "object_top": "Parked_03",
+    "object_right": "Car1",
+    "dist_m": 6.55,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.78,
+    "err_right": 1.49,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641465,
+      -122.139492
+    ],
+    "pred_right": [
+      47.641471,
+      -122.139406
+    ]
+  },
+  {
+    "frame": 22,
+    "object_top": "Parked_03",
+    "object_right": "Parked_03B",
+    "dist_m": 5.28,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.78,
+    "err_right": 0.56,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641465,
+      -122.139492
+    ],
+    "pred_right": [
+      47.641465,
+      -122.139422
+    ]
+  },
+  {
+    "frame": 22,
+    "object_top": "Parked_03B",
+    "object_right": "Car1",
+    "dist_m": 1.06,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.26,
+    "err_right": 1.49,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641466,
+      -122.139418
+    ],
+    "pred_right": [
+      47.641471,
+      -122.139406
+    ]
+  },
+  {
+    "frame": 22,
+    "object_top": "Parked_03B",
+    "object_right": "Parked_03",
+    "dist_m": 6.03,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.26,
+    "err_right": 1.21,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641466,
+      -122.139418
+    ],
+    "pred_right": [
+      47.641464,
+      -122.139498
+    ]
+  },
+  {
+    "frame": 23,
+    "object_top": "Parked_03",
+    "object_right": "Parked_03B",
+    "dist_m": 3.32,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.84,
+    "err_right": 1.59,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641452,
+      -122.139467
+    ],
+    "pred_right": [
+      47.641471,
+      -122.139434
+    ]
+  },
+  {
+    "frame": 23,
+    "object_top": "Parked_03B",
+    "object_right": "Parked_03",
+    "dist_m": 6.69,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.39,
+    "err_right": 2.04,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641467,
+      -122.139419
+    ],
+    "pred_right": [
+      47.64147,
+      -122.139508
+    ]
+  },
+  {
+    "frame": 24,
+    "object_top": "Parked_06",
+    "object_right": "Car1",
+    "dist_m": 6.97,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.63,
+    "err_right": 1.48,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641329,
+      -122.139275
+    ],
+    "pred_right": [
+      47.641389,
+      -122.139249
+    ]
+  },
+  {
+    "frame": 25,
+    "object_top": "Parked_06",
+    "object_right": "Parked_06B",
+    "dist_m": 5.03,
+    "threshold": 7.51,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.38,
+    "err_right": 1.94,
+    "margin_top": 0.621,
+    "margin_right": 0.492,
+    "pred_top": [
+      47.641336,
+      -122.139289
+    ],
+    "pred_right": [
+      47.641345,
+      -122.139223
+    ]
+  },
+  {
+    "frame": 25,
+    "object_top": "Parked_06B",
+    "object_right": "Parked_06",
+    "dist_m": 5.88,
+    "threshold": 7.51,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.2,
+    "err_right": 1.56,
+    "margin_top": 0.621,
+    "margin_right": 0.492,
+    "pred_top": [
+      47.641342,
+      -122.139214
+    ],
+    "pred_right": [
+      47.641334,
+      -122.139292
+    ]
+  },
+  {
+    "frame": 25,
+    "object_top": "Parked_07",
+    "object_right": "Parked_07B",
+    "dist_m": 5.78,
+    "threshold": 7.51,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.87,
+    "err_right": 1.5,
+    "margin_top": 0.621,
+    "margin_right": 0.492,
+    "pred_top": [
+      47.641392,
+      -122.139055
+    ],
+    "pred_right": [
+      47.641392,
+      -122.138978
+    ]
+  },
+  {
+    "frame": 25,
+    "object_top": "Parked_07B",
+    "object_right": "Parked_07",
+    "dist_m": 5.1,
+    "threshold": 7.51,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.41,
+    "err_right": 1.2,
+    "margin_top": 0.621,
+    "margin_right": 0.492,
+    "pred_top": [
+      47.641392,
+      -122.13898
+    ],
+    "pred_right": [
+      47.641391,
+      -122.139048
+    ]
+  },
+  {
+    "frame": 26,
+    "object_top": "Parked_06",
+    "object_right": "Parked_06B",
+    "dist_m": 3.49,
+    "threshold": 7.523,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.6,
+    "err_right": 2.77,
+    "margin_top": 0.626,
+    "margin_right": 0.5,
+    "pred_top": [
+      47.641321,
+      -122.139261
+    ],
+    "pred_right": [
+      47.641347,
+      -122.139234
+    ]
+  },
+  {
+    "frame": 26,
+    "object_top": "Parked_06B",
+    "object_right": "Parked_06",
+    "dist_m": 6.75,
+    "threshold": 7.523,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.65,
+    "err_right": 1.4,
+    "margin_top": 0.626,
+    "margin_right": 0.5,
+    "pred_top": [
+      47.641334,
+      -122.139198
+    ],
+    "pred_right": [
+      47.641339,
+      -122.139288
+    ]
+  },
+  {
+    "frame": 26,
+    "object_top": "Parked_07",
+    "object_right": "Parked_07B",
+    "dist_m": 5.95,
+    "threshold": 7.523,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.94,
+    "err_right": 1.79,
+    "margin_top": 0.626,
+    "margin_right": 0.5,
+    "pred_top": [
+      47.641393,
+      -122.139058
+    ],
+    "pred_right": [
+      47.641396,
+      -122.138979
+    ]
+  },
+  {
+    "frame": 26,
+    "object_top": "Parked_07B",
+    "object_right": "Parked_07",
+    "dist_m": 5.66,
+    "threshold": 7.523,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.37,
+    "err_right": 1.12,
+    "margin_top": 0.626,
+    "margin_right": 0.5,
+    "pred_top": [
+      47.641393,
+      -122.138982
+    ],
+    "pred_right": [
+      47.641395,
+      -122.139057
+    ]
+  },
+  {
+    "frame": 27,
+    "object_top": "Parked_07",
+    "object_right": "Parked_07B",
+    "dist_m": 5.03,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.9,
+    "err_right": 1.94,
+    "margin_top": 0.622,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641393,
+      -122.139058
+    ],
+    "pred_right": [
+      47.641402,
+      -122.138992
+    ]
+  },
+  {
+    "frame": 27,
+    "object_top": "Parked_07B",
+    "object_right": "Parked_07",
+    "dist_m": 5.86,
+    "threshold": 7.513,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.55,
+    "err_right": 1.79,
+    "margin_top": 0.622,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641399,
+      -122.138992
+    ],
+    "pred_right": [
+      47.6414,
+      -122.13907
+    ]
+  },
+  {
+    "frame": 28,
+    "object_top": "Parked_07B",
+    "object_right": "Parked_07",
+    "dist_m": 7.24,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.43,
+    "err_right": 0.95,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641388,
+      -122.138977
+    ],
+    "pred_right": [
+      47.641388,
+      -122.139073
+    ]
+  },
+  {
+    "frame": 29,
+    "object_top": "Parked_11",
+    "object_right": "Parked_11B",
+    "dist_m": 3.76,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.15,
+    "err_right": 1.1,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641167,
+      -122.138873
+    ],
+    "pred_right": [
+      47.641199,
+      -122.13889
+    ]
+  },
+  {
+    "frame": 29,
+    "object_top": "Parked_11B",
+    "object_right": "Parked_11",
+    "dist_m": 1.69,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.33,
+    "err_right": 0.88,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641188,
+      -122.13889
+    ],
+    "pred_right": [
+      47.64119,
+      -122.138867
+    ]
+  },
+  {
+    "frame": 30,
+    "object_top": "Car1",
+    "object_right": "Parked_11",
+    "dist_m": 1.14,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.04,
+    "err_right": 1.37,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641184,
+      -122.138878
+    ],
+    "pred_right": [
+      47.641175,
+      -122.138883
+    ]
+  },
+  {
+    "frame": 30,
+    "object_top": "Car1",
+    "object_right": "Parked_11B",
+    "dist_m": 1.77,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.04,
+    "err_right": 0.49,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641184,
+      -122.138878
+    ],
+    "pred_right": [
+      47.641191,
+      -122.1389
+    ]
+  },
+  {
+    "frame": 30,
+    "object_top": "Parked_11",
+    "object_right": "Car1",
+    "dist_m": 2.33,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.66,
+    "err_right": 1.36,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641171,
+      -122.13888
+    ],
+    "pred_right": [
+      47.641192,
+      -122.13888
+    ]
+  },
+  {
+    "frame": 30,
+    "object_top": "Parked_11",
+    "object_right": "Parked_11B",
+    "dist_m": 2.61,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.66,
+    "err_right": 0.49,
+    "margin_top": 0.621,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.641171,
+      -122.13888
+    ],
+    "pred_right": [
+      47.641191,
+      -122.1389
+    ]
+  },
+  {
+    "frame": 31,
+    "object_top": "Car1",
+    "object_right": "Parked_11",
+    "dist_m": 5.88,
+    "threshold": 7.514,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.03,
+    "err_right": 1.67,
+    "margin_top": 0.622,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.641152,
+      -122.138823
+    ],
+    "pred_right": [
+      47.641176,
+      -122.138894
+    ]
+  },
+  {
+    "frame": 31,
+    "object_top": "Parked_11",
+    "object_right": "Parked_11B",
+    "dist_m": 2.69,
+    "threshold": 7.514,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.35,
+    "err_right": 1.26,
+    "margin_top": 0.622,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.641176,
+      -122.138887
+    ],
+    "pred_right": [
+      47.641196,
+      -122.138908
+    ]
+  },
+  {
+    "frame": 31,
+    "object_top": "Parked_11B",
+    "object_right": "Parked_11",
+    "dist_m": 2.24,
+    "threshold": 7.514,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.89,
+    "err_right": 1.67,
+    "margin_top": 0.622,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.641195,
+      -122.138902
+    ],
+    "pred_right": [
+      47.641176,
+      -122.138894
+    ]
+  },
+  {
+    "frame": 32,
+    "object_top": "Parked_11",
+    "object_right": "Parked_11B",
+    "dist_m": 5.43,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.63,
+    "err_right": 2.06,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641164,
+      -122.138867
+    ],
+    "pred_right": [
+      47.6412,
+      -122.138916
+    ]
+  },
+  {
+    "frame": 32,
+    "object_top": "Parked_11B",
+    "object_right": "Parked_11",
+    "dist_m": 1.29,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.96,
+    "err_right": 1.77,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.641184,
+      -122.138884
+    ],
+    "pred_right": [
+      47.641178,
+      -122.138899
+    ]
+  },
+  {
+    "frame": 35,
+    "object_top": "Parked_04",
+    "object_right": "Parked_04B",
+    "dist_m": 4.35,
+    "threshold": 7.507,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.64,
+    "err_right": 1.85,
+    "margin_top": 0.619,
+    "margin_right": 0.491,
+    "pred_top": [
+      47.640964,
+      -122.138718
+    ],
+    "pred_right": [
+      47.64098,
+      -122.138665
+    ]
+  },
+  {
+    "frame": 35,
+    "object_top": "Parked_04B",
+    "object_right": "Parked_04",
+    "dist_m": 3.54,
+    "threshold": 7.507,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.4,
+    "err_right": 2.15,
+    "margin_top": 0.619,
+    "margin_right": 0.491,
+    "pred_top": [
+      47.640962,
+      -122.138678
+    ],
+    "pred_right": [
+      47.640985,
+      -122.13871
+    ]
+  },
+  {
+    "frame": 35,
+    "object_top": "Parked_04B",
+    "object_right": "Car1",
+    "dist_m": 5.9,
+    "threshold": 7.507,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.4,
+    "err_right": 2.03,
+    "margin_top": 0.619,
+    "margin_right": 0.491,
+    "pred_top": [
+      47.640962,
+      -122.138678
+    ],
+    "pred_right": [
+      47.641002,
+      -122.138626
+    ]
+  },
+  {
+    "frame": 36,
+    "object_top": "Parked_04",
+    "object_right": "Parked_04B",
+    "dist_m": 2.9,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.86,
+    "err_right": 0.76,
+    "margin_top": 0.622,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.640969,
+      -122.138721
+    ],
+    "pred_right": [
+      47.640968,
+      -122.138682
+    ]
+  },
+  {
+    "frame": 36,
+    "object_top": "Parked_04B",
+    "object_right": "Parked_04",
+    "dist_m": 3.29,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.66,
+    "err_right": 1.2,
+    "margin_top": 0.622,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.640968,
+      -122.138681
+    ],
+    "pred_right": [
+      47.640971,
+      -122.138724
+    ]
+  },
+  {
+    "frame": 36,
+    "object_top": "Parked_04B",
+    "object_right": "Car1",
+    "dist_m": 6.18,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.66,
+    "err_right": 1.94,
+    "margin_top": 0.622,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.640968,
+      -122.138681
+    ],
+    "pred_right": [
+      47.640952,
+      -122.138602
+    ]
+  },
+  {
+    "frame": 37,
+    "object_top": "Parked_04B",
+    "object_right": "Parked_04",
+    "dist_m": 4.86,
+    "threshold": 7.504,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.5,
+    "err_right": 2.11,
+    "margin_top": 0.617,
+    "margin_right": 0.49,
+    "pred_top": [
+      47.640968,
+      -122.138669
+    ],
+    "pred_right": [
+      47.640978,
+      -122.138732
+    ]
+  },
+  {
+    "frame": 39,
+    "object_top": "Parked_05",
+    "object_right": "Parked_05B",
+    "dist_m": 6.31,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.09,
+    "err_right": 1.59,
+    "margin_top": 0.623,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.640833,
+      -122.138426
+    ],
+    "pred_right": [
+      47.640819,
+      -122.138344
+    ]
+  },
+  {
+    "frame": 39,
+    "object_top": "Parked_05",
+    "object_right": "Car1",
+    "dist_m": 2.55,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.09,
+    "err_right": 1.23,
+    "margin_top": 0.623,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.640833,
+      -122.138426
+    ],
+    "pred_right": [
+      47.640846,
+      -122.138453
+    ]
+  },
+  {
+    "frame": 39,
+    "object_top": "Parked_05B",
+    "object_right": "Parked_05",
+    "dist_m": 5.86,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.67,
+    "err_right": 0.39,
+    "margin_top": 0.623,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.640809,
+      -122.138353
+    ],
+    "pred_right": [
+      47.640831,
+      -122.138423
+    ]
+  },
+  {
+    "frame": 39,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 5.42,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.75,
+    "err_right": 2.04,
+    "margin_top": 0.623,
+    "margin_right": 0.495,
+    "pred_top": [
+      47.64079,
+      -122.13871
+    ],
+    "pred_right": [
+      47.640814,
+      -122.138648
+    ]
+  },
+  {
+    "frame": 40,
+    "object_top": "Parked_05",
+    "object_right": "Parked_05B",
+    "dist_m": 6.23,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.47,
+    "err_right": 0.5,
+    "margin_top": 0.62,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.640838,
+      -122.138429
+    ],
+    "pred_right": [
+      47.640812,
+      -122.138355
+    ]
+  },
+  {
+    "frame": 40,
+    "object_top": "Parked_05",
+    "object_right": "Car1",
+    "dist_m": 3.66,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.47,
+    "err_right": 1.35,
+    "margin_top": 0.62,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.640838,
+      -122.138429
+    ],
+    "pred_right": [
+      47.640805,
+      -122.138419
+    ]
+  },
+  {
+    "frame": 40,
+    "object_top": "Parked_05B",
+    "object_right": "Parked_05",
+    "dist_m": 6.21,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.41,
+    "err_right": 0.6,
+    "margin_top": 0.62,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.640812,
+      -122.138357
+    ],
+    "pred_right": [
+      47.640839,
+      -122.13843
+    ]
+  },
+  {
+    "frame": 40,
+    "object_top": "Parked_05B",
+    "object_right": "Car1",
+    "dist_m": 4.76,
+    "threshold": 7.511,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.41,
+    "err_right": 1.35,
+    "margin_top": 0.62,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.640812,
+      -122.138357
+    ],
+    "pred_right": [
+      47.640805,
+      -122.138419
+    ]
+  },
+  {
+    "frame": 41,
+    "object_top": "Car1",
+    "object_right": "Parked_05",
+    "dist_m": 6.72,
+    "threshold": 7.506,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.3,
+    "err_right": 1.14,
+    "margin_top": 0.616,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.640784,
+      -122.138449
+    ],
+    "pred_right": [
+      47.640839,
+      -122.138414
+    ]
+  },
+  {
+    "frame": 41,
+    "object_top": "Parked_05",
+    "object_right": "Parked_05B",
+    "dist_m": 6.25,
+    "threshold": 7.506,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.81,
+    "err_right": 1.19,
+    "margin_top": 0.616,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.640841,
+      -122.138426
+    ],
+    "pred_right": [
+      47.640818,
+      -122.13835
+    ]
+  },
+  {
+    "frame": 41,
+    "object_top": "Parked_05B",
+    "object_right": "Parked_05",
+    "dist_m": 5.07,
+    "threshold": 7.506,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.86,
+    "err_right": 1.14,
+    "margin_top": 0.616,
+    "margin_right": 0.493,
+    "pred_top": [
+      47.640817,
+      -122.138355
+    ],
+    "pred_right": [
+      47.640839,
+      -122.138414
+    ]
+  },
+  {
+    "frame": 42,
+    "object_top": "Parked_05",
+    "object_right": "Parked_05B",
+    "dist_m": 6.37,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.73,
+    "err_right": 1.37,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.64084,
+      -122.138424
+    ],
+    "pred_right": [
+      47.640817,
+      -122.138346
+    ]
+  },
+  {
+    "frame": 42,
+    "object_top": "Parked_05B",
+    "object_right": "Parked_05",
+    "dist_m": 5.23,
+    "threshold": 7.518,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.87,
+    "err_right": 1.19,
+    "margin_top": 0.623,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640815,
+      -122.138352
+    ],
+    "pred_right": [
+      47.640839,
+      -122.138413
+    ]
+  },
+  {
+    "frame": 43,
+    "object_top": "Parked_05",
+    "object_right": "Parked_05B",
+    "dist_m": 6.47,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.84,
+    "err_right": 1.72,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.64084,
+      -122.13842
+    ],
+    "pred_right": [
+      47.640817,
+      -122.138341
+    ]
+  },
+  {
+    "frame": 43,
+    "object_top": "Parked_05B",
+    "object_right": "Parked_05",
+    "dist_m": 5.1,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.52,
+    "err_right": 1.23,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640814,
+      -122.138364
+    ],
+    "pred_right": [
+      47.640843,
+      -122.138418
+    ]
+  },
+  {
+    "frame": 44,
+    "object_top": "Parked_05",
+    "object_right": "Parked_05B",
+    "dist_m": 7.06,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.65,
+    "err_right": 1.87,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640839,
+      -122.138424
+    ],
+    "pred_right": [
+      47.640814,
+      -122.138337
+    ]
+  },
+  {
+    "frame": 45,
+    "object_top": "Car1",
+    "object_right": "Parked_08B",
+    "dist_m": 3.02,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.19,
+    "err_right": 1.34,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640768,
+      -122.138615
+    ],
+    "pred_right": [
+      47.640796,
+      -122.138614
+    ]
+  },
+  {
+    "frame": 45,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 6.36,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.63,
+    "err_right": 1.34,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640804,
+      -122.138698
+    ],
+    "pred_right": [
+      47.640796,
+      -122.138614
+    ]
+  },
+  {
+    "frame": 45,
+    "object_top": "Parked_08B",
+    "object_right": "Car1",
+    "dist_m": 5.26,
+    "threshold": 7.521,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.37,
+    "err_right": 1.37,
+    "margin_top": 0.625,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640803,
+      -122.13863
+    ],
+    "pred_right": [
+      47.640758,
+      -122.138609
+    ]
+  },
+  {
+    "frame": 46,
+    "object_top": "Car1",
+    "object_right": "Parked_08",
+    "dist_m": 3.85,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.13,
+    "err_right": 1.19,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640765,
+      -122.138686
+    ],
+    "pred_right": [
+      47.640799,
+      -122.138677
+    ]
+  },
+  {
+    "frame": 46,
+    "object_top": "Car1",
+    "object_right": "Parked_08B",
+    "dist_m": 6.49,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.13,
+    "err_right": 0.79,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640765,
+      -122.138686
+    ],
+    "pred_right": [
+      47.640806,
+      -122.138624
+    ]
+  },
+  {
+    "frame": 46,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 5.29,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.52,
+    "err_right": 0.79,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640804,
+      -122.138695
+    ],
+    "pred_right": [
+      47.640806,
+      -122.138624
+    ]
+  },
+  {
+    "frame": 46,
+    "object_top": "Parked_08B",
+    "object_right": "Parked_08",
+    "dist_m": 3.82,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.5,
+    "err_right": 1.19,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640804,
+      -122.138626
+    ],
+    "pred_right": [
+      47.640799,
+      -122.138677
+    ]
+  },
+  {
+    "frame": 47,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 5.22,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.64,
+    "err_right": 1.2,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640803,
+      -122.138685
+    ],
+    "pred_right": [
+      47.640804,
+      -122.138615
+    ]
+  },
+  {
+    "frame": 47,
+    "object_top": "Parked_08",
+    "object_right": "Car1",
+    "dist_m": 6.75,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.64,
+    "err_right": 1.96,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640803,
+      -122.138685
+    ],
+    "pred_right": [
+      47.640752,
+      -122.138735
+    ]
+  },
+  {
+    "frame": 47,
+    "object_top": "Parked_08B",
+    "object_right": "Parked_08",
+    "dist_m": 4.29,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.38,
+    "err_right": 0.91,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.6408,
+      -122.138625
+    ],
+    "pred_right": [
+      47.640804,
+      -122.138682
+    ]
+  },
+  {
+    "frame": 48,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 5.2,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.88,
+    "err_right": 1.44,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640802,
+      -122.138681
+    ],
+    "pred_right": [
+      47.640803,
+      -122.138612
+    ]
+  },
+  {
+    "frame": 48,
+    "object_top": "Parked_08B",
+    "object_right": "Parked_08",
+    "dist_m": 3.17,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.76,
+    "err_right": 1.16,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640796,
+      -122.138638
+    ],
+    "pred_right": [
+      47.640804,
+      -122.138678
+    ]
+  },
+  {
+    "frame": 49,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 5.29,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.87,
+    "err_right": 1.46,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640804,
+      -122.138683
+    ],
+    "pred_right": [
+      47.640804,
+      -122.138612
+    ]
+  },
+  {
+    "frame": 49,
+    "object_top": "Parked_08B",
+    "object_right": "Parked_08",
+    "dist_m": 2.93,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.94,
+    "err_right": 1.19,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640797,
+      -122.138642
+    ],
+    "pred_right": [
+      47.640806,
+      -122.138679
+    ]
+  },
+  {
+    "frame": 50,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 5.36,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.94,
+    "err_right": 1.62,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640804,
+      -122.138681
+    ],
+    "pred_right": [
+      47.640804,
+      -122.13861
+    ]
+  },
+  {
+    "frame": 51,
+    "object_top": "Parked_08",
+    "object_right": "Parked_08B",
+    "dist_m": 6.08,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.59,
+    "err_right": 1.88,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640804,
+      -122.138687
+    ],
+    "pred_right": [
+      47.640805,
+      -122.138606
+    ]
+  },
+  {
+    "frame": 52,
+    "object_top": "Car1",
+    "object_right": "Parked_09B",
+    "dist_m": 2.78,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.11,
+    "err_right": 1.8,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640765,
+      -122.138862
+    ],
+    "pred_right": [
+      47.640778,
+      -122.138894
+    ]
+  },
+  {
+    "frame": 52,
+    "object_top": "Parked_09",
+    "object_right": "Parked_09B",
+    "dist_m": 7.5,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.06,
+    "err_right": 1.8,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138991
+    ],
+    "pred_right": [
+      47.640778,
+      -122.138894
+    ]
+  },
+  {
+    "frame": 52,
+    "object_top": "Parked_09B",
+    "object_right": "Car1",
+    "dist_m": 6.27,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.69,
+    "err_right": 1.42,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138918
+    ],
+    "pred_right": [
+      47.640755,
+      -122.138855
+    ]
+  },
+  {
+    "frame": 52,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09B",
+    "dist_m": 7.09,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.44,
+    "err_right": 1.8,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138985
+    ],
+    "pred_right": [
+      47.640778,
+      -122.138894
+    ]
+  },
+  {
+    "frame": 53,
+    "object_top": "Parked_09",
+    "object_right": "Parked_09B",
+    "dist_m": 6.72,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.82,
+    "err_right": 0.92,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640791,
+      -122.138989
+    ],
+    "pred_right": [
+      47.640785,
+      -122.138899
+    ]
+  },
+  {
+    "frame": 53,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09B",
+    "dist_m": 6.38,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.33,
+    "err_right": 0.92,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640794,
+      -122.138983
+    ],
+    "pred_right": [
+      47.640785,
+      -122.138899
+    ]
+  },
+  {
+    "frame": 54,
+    "object_top": "Parked_09",
+    "object_right": "Parked_09B",
+    "dist_m": 6.16,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.72,
+    "err_right": 0.42,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138987
+    ],
+    "pred_right": [
+      47.640791,
+      -122.138905
+    ]
+  },
+  {
+    "frame": 54,
+    "object_top": "Parked_09",
+    "object_right": "Car1",
+    "dist_m": 6.94,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.72,
+    "err_right": 1.46,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138987
+    ],
+    "pred_right": [
+      47.640756,
+      -122.138912
+    ]
+  },
+  {
+    "frame": 54,
+    "object_top": "Parked_09B",
+    "object_right": "Car1",
+    "dist_m": 4.04,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.26,
+    "err_right": 1.46,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138911
+    ],
+    "pred_right": [
+      47.640756,
+      -122.138912
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_09",
+    "object_right": "Parked_09B",
+    "dist_m": 5.79,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 0.53,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138984
+    ],
+    "pred_right": [
+      47.640794,
+      -122.138907
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12B",
+    "dist_m": 2.04,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 1.82,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138984
+    ],
+    "pred_right": [
+      47.640781,
+      -122.138963
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_09",
+    "object_right": "Car1",
+    "dist_m": 5.16,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 1.26,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138984
+    ],
+    "pred_right": [
+      47.640758,
+      -122.138938
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_09",
+    "dist_m": 4.79,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.33,
+    "err_right": 1.36,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138907
+    ],
+    "pred_right": [
+      47.640779,
+      -122.138968
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_12B",
+    "dist_m": 4.39,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.33,
+    "err_right": 1.82,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138907
+    ],
+    "pred_right": [
+      47.640781,
+      -122.138963
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_09B",
+    "object_right": "Car1",
+    "dist_m": 4.46,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.33,
+    "err_right": 1.26,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640792,
+      -122.138907
+    ],
+    "pred_right": [
+      47.640758,
+      -122.138938
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_12",
+    "object_right": "Parked_09",
+    "dist_m": 7.46,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.14,
+    "err_right": 1.36,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640778,
+      -122.139068
+    ],
+    "pred_right": [
+      47.640779,
+      -122.138968
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09",
+    "dist_m": 1.98,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.27,
+    "err_right": 1.36,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640794,
+      -122.138982
+    ],
+    "pred_right": [
+      47.640779,
+      -122.138968
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09B",
+    "dist_m": 5.61,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.27,
+    "err_right": 0.53,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640794,
+      -122.138982
+    ],
+    "pred_right": [
+      47.640794,
+      -122.138907
+    ]
+  },
+  {
+    "frame": 55,
+    "object_top": "Parked_12B",
+    "object_right": "Car1",
+    "dist_m": 5.24,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.27,
+    "err_right": 1.26,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640794,
+      -122.138982
+    ],
+    "pred_right": [
+      47.640758,
+      -122.138938
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_09",
+    "object_right": "Parked_09B",
+    "dist_m": 5.93,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.36,
+    "err_right": 0.77,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.13898
+    ],
+    "pred_right": [
+      47.640793,
+      -122.138901
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12",
+    "dist_m": 6.89,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.36,
+    "err_right": 3.05,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.13898
+    ],
+    "pred_right": [
+      47.640753,
+      -122.139051
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12B",
+    "dist_m": 0.87,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.36,
+    "err_right": 0.84,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.13898
+    ],
+    "pred_right": [
+      47.640789,
+      -122.13897
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_09",
+    "object_right": "Car1",
+    "dist_m": 3.71,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.36,
+    "err_right": 1.24,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.13898
+    ],
+    "pred_right": [
+      47.640759,
+      -122.138974
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_09",
+    "dist_m": 5.18,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 0.46,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138903
+    ],
+    "pred_right": [
+      47.640788,
+      -122.138972
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_12B",
+    "dist_m": 5.02,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 0.84,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138903
+    ],
+    "pred_right": [
+      47.640789,
+      -122.13897
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_09B",
+    "object_right": "Car1",
+    "dist_m": 6.47,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.57,
+    "err_right": 1.24,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138903
+    ],
+    "pred_right": [
+      47.640759,
+      -122.138974
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09",
+    "dist_m": 0.97,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.22,
+    "err_right": 0.46,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138981
+    ],
+    "pred_right": [
+      47.640788,
+      -122.138972
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09B",
+    "dist_m": 5.98,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.22,
+    "err_right": 0.77,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138981
+    ],
+    "pred_right": [
+      47.640793,
+      -122.138901
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_12",
+    "dist_m": 7.0,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.22,
+    "err_right": 3.05,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138981
+    ],
+    "pred_right": [
+      47.640753,
+      -122.139051
+    ]
+  },
+  {
+    "frame": 56,
+    "object_top": "Parked_12B",
+    "object_right": "Car1",
+    "dist_m": 3.95,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.22,
+    "err_right": 1.24,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138981
+    ],
+    "pred_right": [
+      47.640759,
+      -122.138974
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Car1",
+    "object_right": "Parked_09",
+    "dist_m": 4.6,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.1,
+    "err_right": 0.57,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640771,
+      -122.139024
+    ],
+    "pred_right": [
+      47.640794,
+      -122.138973
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Car1",
+    "object_right": "Parked_12",
+    "dist_m": 2.61,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.1,
+    "err_right": 1.73,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640771,
+      -122.139024
+    ],
+    "pred_right": [
+      47.640764,
+      -122.139057
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Car1",
+    "object_right": "Parked_12B",
+    "dist_m": 4.46,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.1,
+    "err_right": 0.37,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640771,
+      -122.139024
+    ],
+    "pred_right": [
+      47.640796,
+      -122.138978
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_09",
+    "object_right": "Parked_09B",
+    "dist_m": 5.95,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.4,
+    "err_right": 1.19,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138974
+    ],
+    "pred_right": [
+      47.640793,
+      -122.138895
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12",
+    "dist_m": 7.0,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.4,
+    "err_right": 1.73,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138974
+    ],
+    "pred_right": [
+      47.640764,
+      -122.139057
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12B",
+    "dist_m": 0.53,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.4,
+    "err_right": 0.37,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138974
+    ],
+    "pred_right": [
+      47.640796,
+      -122.138978
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_09",
+    "dist_m": 5.42,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.72,
+    "err_right": 0.57,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138901
+    ],
+    "pred_right": [
+      47.640794,
+      -122.138973
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_12B",
+    "dist_m": 5.79,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.72,
+    "err_right": 0.37,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138901
+    ],
+    "pred_right": [
+      47.640796,
+      -122.138978
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_12",
+    "object_right": "Parked_12B",
+    "dist_m": 7.44,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.35,
+    "err_right": 0.37,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640779,
+      -122.139074
+    ],
+    "pred_right": [
+      47.640796,
+      -122.138978
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09",
+    "dist_m": 0.39,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.21,
+    "err_right": 0.57,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138978
+    ],
+    "pred_right": [
+      47.640794,
+      -122.138973
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09B",
+    "dist_m": 6.27,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.21,
+    "err_right": 1.19,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138978
+    ],
+    "pred_right": [
+      47.640793,
+      -122.138895
+    ]
+  },
+  {
+    "frame": 57,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_12",
+    "dist_m": 6.84,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.21,
+    "err_right": 1.73,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138978
+    ],
+    "pred_right": [
+      47.640764,
+      -122.139057
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_09",
+    "object_right": "Parked_09B",
+    "dist_m": 5.82,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.92,
+    "err_right": 1.64,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138966
+    ],
+    "pred_right": [
+      47.640792,
+      -122.138888
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12B",
+    "dist_m": 0.74,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.92,
+    "err_right": 0.45,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640792,
+      -122.138966
+    ],
+    "pred_right": [
+      47.640795,
+      -122.138974
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_09",
+    "dist_m": 3.36,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.88,
+    "err_right": 1.0,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640793,
+      -122.13892
+    ],
+    "pred_right": [
+      47.640793,
+      -122.138965
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_09B",
+    "object_right": "Parked_12B",
+    "dist_m": 4.06,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.88,
+    "err_right": 0.45,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640793,
+      -122.13892
+    ],
+    "pred_right": [
+      47.640795,
+      -122.138974
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_12",
+    "object_right": "Parked_12B",
+    "dist_m": 7.26,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.14,
+    "err_right": 0.45,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640778,
+      -122.139068
+    ],
+    "pred_right": [
+      47.640795,
+      -122.138974
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09",
+    "dist_m": 0.65,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.47,
+    "err_right": 1.0,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138974
+    ],
+    "pred_right": [
+      47.640793,
+      -122.138965
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09B",
+    "dist_m": 6.4,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.47,
+    "err_right": 1.64,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138974
+    ],
+    "pred_right": [
+      47.640792,
+      -122.138888
+    ]
+  },
+  {
+    "frame": 58,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_12",
+    "dist_m": 7.18,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.47,
+    "err_right": 0.41,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640794,
+      -122.138974
+    ],
+    "pred_right": [
+      47.640775,
+      -122.139065
+    ]
+  },
+  {
+    "frame": 59,
+    "object_top": "Car1",
+    "object_right": "Parked_12",
+    "dist_m": 4.66,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.1,
+    "err_right": 0.38,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640774,
+      -122.139128
+    ],
+    "pred_right": [
+      47.64078,
+      -122.139067
+    ]
+  },
+  {
+    "frame": 59,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12",
+    "dist_m": 6.21,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.7,
+    "err_right": 0.38,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640793,
+      -122.138986
+    ],
+    "pred_right": [
+      47.64078,
+      -122.139067
+    ]
+  },
+  {
+    "frame": 59,
+    "object_top": "Parked_09",
+    "object_right": "Parked_12B",
+    "dist_m": 1.06,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.7,
+    "err_right": 0.59,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640793,
+      -122.138986
+    ],
+    "pred_right": [
+      47.640795,
+      -122.138972
+    ]
+  },
+  {
+    "frame": 59,
+    "object_top": "Parked_12",
+    "object_right": "Car1",
+    "dist_m": 4.56,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.21,
+    "err_right": 1.23,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640778,
+      -122.139067
+    ],
+    "pred_right": [
+      47.640764,
+      -122.139124
+    ]
+  },
+  {
+    "frame": 59,
+    "object_top": "Parked_12",
+    "object_right": "Parked_12B",
+    "dist_m": 7.32,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.21,
+    "err_right": 0.59,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640778,
+      -122.139067
+    ],
+    "pred_right": [
+      47.640795,
+      -122.138972
+    ]
+  },
+  {
+    "frame": 59,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_09",
+    "dist_m": 2.31,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.71,
+    "err_right": 1.52,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640795,
+      -122.138988
+    ],
+    "pred_right": [
+      47.640792,
+      -122.138958
+    ]
+  },
+  {
+    "frame": 59,
+    "object_top": "Parked_12B",
+    "object_right": "Parked_12",
+    "dist_m": 6.09,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.71,
+    "err_right": 0.38,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640795,
+      -122.138988
+    ],
+    "pred_right": [
+      47.64078,
+      -122.139067
+    ]
+  },
+  {
+    "frame": 66,
+    "object_top": "Car1",
+    "object_right": "Parked_13B",
+    "dist_m": 2.54,
+    "threshold": 7.524,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.08,
+    "err_right": 1.37,
+    "margin_top": 0.626,
+    "margin_right": 0.501,
+    "pred_top": [
+      47.640789,
+      -122.139888
+    ],
+    "pred_right": [
+      47.640797,
+      -122.139919
+    ]
+  },
+  {
+    "frame": 66,
+    "object_top": "Parked_13",
+    "object_right": "Parked_13B",
+    "dist_m": 7.21,
+    "threshold": 7.524,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.06,
+    "err_right": 1.37,
+    "margin_top": 0.626,
+    "margin_right": 0.501,
+    "pred_top": [
+      47.64081,
+      -122.140014
+    ],
+    "pred_right": [
+      47.640797,
+      -122.139919
+    ]
+  },
+  {
+    "frame": 67,
+    "object_top": "Parked_13",
+    "object_right": "Parked_13B",
+    "dist_m": 6.04,
+    "threshold": 7.526,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.28,
+    "err_right": 1.07,
+    "margin_top": 0.627,
+    "margin_right": 0.502,
+    "pred_top": [
+      47.640809,
+      -122.139998
+    ],
+    "pred_right": [
+      47.64081,
+      -122.139918
+    ]
+  },
+  {
+    "frame": 67,
+    "object_top": "Parked_13",
+    "object_right": "Car1",
+    "dist_m": 3.86,
+    "threshold": 7.526,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.28,
+    "err_right": 1.16,
+    "margin_top": 0.627,
+    "margin_right": 0.502,
+    "pred_top": [
+      47.640809,
+      -122.139998
+    ],
+    "pred_right": [
+      47.64078,
+      -122.140026
+    ]
+  },
+  {
+    "frame": 67,
+    "object_top": "Parked_13B",
+    "object_right": "Parked_13",
+    "dist_m": 5.73,
+    "threshold": 7.526,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.8,
+    "err_right": 0.5,
+    "margin_top": 0.627,
+    "margin_right": 0.502,
+    "pred_top": [
+      47.640809,
+      -122.139921
+    ],
+    "pred_right": [
+      47.640811,
+      -122.139997
+    ]
+  },
+  {
+    "frame": 68,
+    "object_top": "Parked_13",
+    "object_right": "Parked_13B",
+    "dist_m": 5.94,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.93,
+    "err_right": 1.61,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.640811,
+      -122.139989
+    ],
+    "pred_right": [
+      47.640807,
+      -122.13991
+    ]
+  },
+  {
+    "frame": 68,
+    "object_top": "Parked_13B",
+    "object_right": "Parked_13",
+    "dist_m": 2.41,
+    "threshold": 7.512,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.78,
+    "err_right": 1.67,
+    "margin_top": 0.621,
+    "margin_right": 0.494,
+    "pred_top": [
+      47.640818,
+      -122.139948
+    ],
+    "pred_right": [
+      47.64081,
+      -122.139978
+    ]
+  },
+  {
+    "frame": 70,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.54,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.69,
+    "err_right": 2.07,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640941,
+      -122.140181
+    ],
+    "pred_right": [
+      47.640942,
+      -122.140107
+    ]
+  },
+  {
+    "frame": 70,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.47,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.87,
+    "err_right": 2.14,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.64094,
+      -122.140107
+    ],
+    "pred_right": [
+      47.640945,
+      -122.14018
+    ]
+  },
+  {
+    "frame": 70,
+    "object_top": "Parked_15",
+    "object_right": "Parked_14",
+    "dist_m": 6.49,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.66,
+    "err_right": 2.14,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640996,
+      -122.140138
+    ],
+    "pred_right": [
+      47.640945,
+      -122.14018
+    ]
+  },
+  {
+    "frame": 70,
+    "object_top": "Parked_15",
+    "object_right": "Parked_14B",
+    "dist_m": 6.42,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.66,
+    "err_right": 2.07,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640996,
+      -122.140138
+    ],
+    "pred_right": [
+      47.640942,
+      -122.140107
+    ]
+  },
+  {
+    "frame": 71,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.78,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.5,
+    "err_right": 2.19,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640939,
+      -122.140181
+    ],
+    "pred_right": [
+      47.640942,
+      -122.140104
+    ]
+  },
+  {
+    "frame": 71,
+    "object_top": "Parked_14",
+    "object_right": "Parked_15",
+    "dist_m": 7.28,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.5,
+    "err_right": 2.55,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640939,
+      -122.140181
+    ],
+    "pred_right": [
+      47.640997,
+      -122.140136
+    ]
+  },
+  {
+    "frame": 71,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.53,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.71,
+    "err_right": 1.97,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640938,
+      -122.140106
+    ],
+    "pred_right": [
+      47.640943,
+      -122.14018
+    ]
+  },
+  {
+    "frame": 71,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_15",
+    "dist_m": 6.94,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.71,
+    "err_right": 2.55,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640938,
+      -122.140106
+    ],
+    "pred_right": [
+      47.640997,
+      -122.140136
+    ]
+  },
+  {
+    "frame": 72,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.75,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.56,
+    "err_right": 2.16,
+    "margin_top": 0.625,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.64094,
+      -122.140184
+    ],
+    "pred_right": [
+      47.640943,
+      -122.140107
+    ]
+  },
+  {
+    "frame": 72,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.6,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.71,
+    "err_right": 2.01,
+    "margin_top": 0.625,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640939,
+      -122.140108
+    ],
+    "pred_right": [
+      47.640944,
+      -122.140183
+    ]
+  },
+  {
+    "frame": 72,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_15",
+    "dist_m": 6.92,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.71,
+    "err_right": 2.68,
+    "margin_top": 0.625,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640939,
+      -122.140108
+    ],
+    "pred_right": [
+      47.641,
+      -122.140125
+    ]
+  },
+  {
+    "frame": 73,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.15,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.7,
+    "err_right": 2.27,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640941,
+      -122.140181
+    ],
+    "pred_right": [
+      47.640945,
+      -122.140113
+    ]
+  },
+  {
+    "frame": 73,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 6.14,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.69,
+    "err_right": 2.24,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640938,
+      -122.140107
+    ],
+    "pred_right": [
+      47.640946,
+      -122.140188
+    ]
+  },
+  {
+    "frame": 73,
+    "object_top": "Parked_15",
+    "object_right": "Parked_14",
+    "dist_m": 6.63,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 3.36,
+    "err_right": 2.24,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640991,
+      -122.140131
+    ],
+    "pred_right": [
+      47.640946,
+      -122.140188
+    ]
+  },
+  {
+    "frame": 73,
+    "object_top": "Parked_15",
+    "object_right": "Parked_14B",
+    "dist_m": 5.31,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 3.36,
+    "err_right": 2.27,
+    "margin_top": 0.623,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640991,
+      -122.140131
+    ],
+    "pred_right": [
+      47.640945,
+      -122.140113
+    ]
+  },
+  {
+    "frame": 74,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.36,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.68,
+    "err_right": 0.5,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640941,
+      -122.140186
+    ],
+    "pred_right": [
+      47.640929,
+      -122.140116
+    ]
+  },
+  {
+    "frame": 74,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.66,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.03,
+    "err_right": 1.69,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640934,
+      -122.140119
+    ],
+    "pred_right": [
+      47.640939,
+      -122.140194
+    ]
+  },
+  {
+    "frame": 74,
+    "object_top": "Parked_15",
+    "object_right": "Parked_14",
+    "dist_m": 6.75,
+    "threshold": 7.516,
+    "estimated": true,
+    "actual": false,
+    "err_top": 3.11,
+    "err_right": 1.69,
+    "margin_top": 0.622,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640999,
+      -122.140176
+    ],
+    "pred_right": [
+      47.640939,
+      -122.140194
+    ]
+  },
+  {
+    "frame": 75,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.38,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.28,
+    "err_right": 0.84,
+    "margin_top": 0.624,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640925,
+      -122.140121
+    ],
+    "pred_right": [
+      47.640931,
+      -122.140192
+    ]
+  },
+  {
+    "frame": 76,
+    "object_top": "Parked_13B",
+    "object_right": "Parked_13",
+    "dist_m": 5.86,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.43,
+    "err_right": 1.22,
+    "margin_top": 0.621,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640799,
+      -122.139916
+    ],
+    "pred_right": [
+      47.640797,
+      -122.139994
+    ]
+  },
+  {
+    "frame": 76,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 3.3,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.21,
+    "err_right": 2.65,
+    "margin_top": 0.621,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640935,
+      -122.140192
+    ],
+    "pred_right": [
+      47.640922,
+      -122.140152
+    ]
+  },
+  {
+    "frame": 76,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 6.45,
+    "threshold": 7.515,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.98,
+    "err_right": 1.84,
+    "margin_top": 0.621,
+    "margin_right": 0.497,
+    "pred_top": [
+      47.640933,
+      -122.140118
+    ],
+    "pred_right": [
+      47.640935,
+      -122.140204
+    ]
+  },
+  {
+    "frame": 77,
+    "object_top": "Parked_13",
+    "object_right": "Parked_13B",
+    "dist_m": 2.84,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.14,
+    "err_right": 1.64,
+    "margin_top": 0.622,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640801,
+      -122.139988
+    ],
+    "pred_right": [
+      47.64081,
+      -122.139953
+    ]
+  },
+  {
+    "frame": 77,
+    "object_top": "Parked_13B",
+    "object_right": "Parked_13",
+    "dist_m": 6.04,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.51,
+    "err_right": 0.63,
+    "margin_top": 0.622,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640802,
+      -122.139913
+    ],
+    "pred_right": [
+      47.640804,
+      -122.139993
+    ]
+  },
+  {
+    "frame": 77,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 4.43,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.94,
+    "err_right": 1.28,
+    "margin_top": 0.622,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640932,
+      -122.140192
+    ],
+    "pred_right": [
+      47.640924,
+      -122.140134
+    ]
+  },
+  {
+    "frame": 77,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.66,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.76,
+    "err_right": 1.23,
+    "margin_top": 0.622,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640931,
+      -122.140118
+    ],
+    "pred_right": [
+      47.640935,
+      -122.140193
+    ]
+  },
+  {
+    "frame": 77,
+    "object_top": "Parked_14B",
+    "object_right": "Car1",
+    "dist_m": 5.41,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.76,
+    "err_right": 1.29,
+    "margin_top": 0.622,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640931,
+      -122.140118
+    ],
+    "pred_right": [
+      47.640883,
+      -122.140122
+    ]
+  },
+  {
+    "frame": 77,
+    "object_top": "Parked_15",
+    "object_right": "Parked_14",
+    "dist_m": 6.94,
+    "threshold": 7.517,
+    "estimated": true,
+    "actual": false,
+    "err_top": 3.13,
+    "err_right": 1.23,
+    "margin_top": 0.622,
+    "margin_right": 0.498,
+    "pred_top": [
+      47.640991,
+      -122.140154
+    ],
+    "pred_right": [
+      47.640935,
+      -122.140193
+    ]
+  },
+  {
+    "frame": 78,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.62,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.67,
+    "err_right": 0.44,
+    "margin_top": 0.623,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640929,
+      -122.140192
+    ],
+    "pred_right": [
+      47.640929,
+      -122.140117
+    ]
+  },
+  {
+    "frame": 78,
+    "object_top": "Parked_14",
+    "object_right": "Car1",
+    "dist_m": 5.05,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.67,
+    "err_right": 1.38,
+    "margin_top": 0.623,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640929,
+      -122.140192
+    ],
+    "pred_right": [
+      47.640918,
+      -122.140126
+    ]
+  },
+  {
+    "frame": 78,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.75,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.35,
+    "err_right": 0.85,
+    "margin_top": 0.623,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640928,
+      -122.140118
+    ],
+    "pred_right": [
+      47.640928,
+      -122.140195
+    ]
+  },
+  {
+    "frame": 78,
+    "object_top": "Parked_14B",
+    "object_right": "Car1",
+    "dist_m": 1.25,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.35,
+    "err_right": 1.38,
+    "margin_top": 0.623,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640928,
+      -122.140118
+    ],
+    "pred_right": [
+      47.640918,
+      -122.140126
+    ]
+  },
+  {
+    "frame": 79,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.61,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.59,
+    "err_right": 0.4,
+    "margin_top": 0.623,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640923,
+      -122.140191
+    ],
+    "pred_right": [
+      47.640921,
+      -122.140116
+    ]
+  },
+  {
+    "frame": 79,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.73,
+    "threshold": 7.519,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.27,
+    "err_right": 0.79,
+    "margin_top": 0.623,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640922,
+      -122.140117
+    ],
+    "pred_right": [
+      47.640923,
+      -122.140194
+    ]
+  },
+  {
+    "frame": 80,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 5.62,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.8,
+    "err_right": 0.84,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.64092,
+      -122.14019
+    ],
+    "pred_right": [
+      47.640917,
+      -122.140116
+    ]
+  },
+  {
+    "frame": 80,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.62,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.62,
+    "err_right": 0.96,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640919,
+      -122.140117
+    ],
+    "pred_right": [
+      47.640919,
+      -122.140192
+    ]
+  },
+  {
+    "frame": 80,
+    "object_top": "Parked_14B",
+    "object_right": "Car1",
+    "dist_m": 6.95,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.62,
+    "err_right": 1.38,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.640919,
+      -122.140117
+    ],
+    "pred_right": [
+      47.640981,
+      -122.140133
+    ]
+  },
+  {
+    "frame": 80,
+    "object_top": "Parked_15",
+    "object_right": "Car1",
+    "dist_m": 5.69,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.33,
+    "err_right": 1.38,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641029,
+      -122.140156
+    ],
+    "pred_right": [
+      47.640981,
+      -122.140133
+    ]
+  },
+  {
+    "frame": 81,
+    "object_top": "Parked_14",
+    "object_right": "Parked_14B",
+    "dist_m": 6.51,
+    "threshold": 7.522,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.29,
+    "err_right": 1.66,
+    "margin_top": 0.624,
+    "margin_right": 0.501,
+    "pred_top": [
+      47.640936,
+      -122.140193
+    ],
+    "pred_right": [
+      47.64091,
+      -122.140115
+    ]
+  },
+  {
+    "frame": 81,
+    "object_top": "Parked_14B",
+    "object_right": "Parked_14",
+    "dist_m": 5.83,
+    "threshold": 7.522,
+    "estimated": true,
+    "actual": false,
+    "err_top": 1.45,
+    "err_right": 1.47,
+    "margin_top": 0.624,
+    "margin_right": 0.501,
+    "pred_top": [
+      47.640938,
+      -122.140119
+    ],
+    "pred_right": [
+      47.640913,
+      -122.140187
+    ]
+  },
+  {
+    "frame": 81,
+    "object_top": "Parked_15",
+    "object_right": "Car1",
+    "dist_m": 2.81,
+    "threshold": 7.522,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.63,
+    "err_right": 1.38,
+    "margin_top": 0.624,
+    "margin_right": 0.501,
+    "pred_top": [
+      47.641016,
+      -122.140155
+    ],
+    "pred_right": [
+      47.641039,
+      -122.140139
+    ]
+  },
+  {
+    "frame": 82,
+    "object_top": "Parked_15",
+    "object_right": "Parked_15B",
+    "dist_m": 7.47,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.63,
+    "err_right": 0.81,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641016,
+      -122.140155
+    ],
+    "pred_right": [
+      47.641012,
+      -122.140055
+    ]
+  },
+  {
+    "frame": 82,
+    "object_top": "Parked_15",
+    "object_right": "Car1",
+    "dist_m": 7.41,
+    "threshold": 7.52,
+    "estimated": true,
+    "actual": false,
+    "err_top": 0.63,
+    "err_right": 1.38,
+    "margin_top": 0.624,
+    "margin_right": 0.499,
+    "pred_top": [
+      47.641016,
+      -122.140155
+    ],
+    "pred_right": [
+      47.641082,
+      -122.140143
+    ]
+  },
+  {
+    "frame": 83,
+    "object_top": "Parked_15",
+    "object_right": "Parked_15B",
+    "dist_m": 7.24,
+    "threshold": 7.522,
+    "estimated": true,
+    "actual": false,
+    "err_top": 2.98,
+    "err_right": 1.8,
+    "margin_top": 0.624,
+    "margin_right": 0.501,
+    "pred_top": [
+      47.641044,
+      -122.140158
+    ],
+    "pred_right": [
+      47.641019,
+      -122.14007
+    ]
+  }
+]

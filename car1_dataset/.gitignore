@@ -1,0 +1,19 @@
+
+# Dataset (too large for GitHub)
+dataset/
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Model weights & logs
+*.pth
+*.pt
+logs/
+runs/
+
+# System
+.DS_Store

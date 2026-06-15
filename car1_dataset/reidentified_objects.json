@@ -1,0 +1,1696 @@
+[
+  {
+    "object": "Car1",
+    "frame": 0,
+    "camera": "chase_right",
+    "lat": 47.64146621331709,
+    "lon": -122.14028068694873
+  },
+  {
+    "object": "Car1",
+    "frame": 0,
+    "camera": "chase_top",
+    "lat": 47.641353460971324,
+    "lon": -122.14016497120332
+  },
+  {
+    "object": "Car1",
+    "frame": 1,
+    "camera": "chase_right",
+    "lat": 47.64146251261239,
+    "lon": -122.14028079630162
+  },
+  {
+    "object": "Car1",
+    "frame": 1,
+    "camera": "chase_top",
+    "lat": 47.64134984133605,
+    "lon": -122.14016495877816
+  },
+  {
+    "object": "Car1",
+    "frame": 2,
+    "camera": "chase_right",
+    "lat": 47.64145891772047,
+    "lon": -122.14028066366737
+  },
+  {
+    "object": "Car1",
+    "frame": 2,
+    "camera": "chase_top",
+    "lat": 47.64134609466635,
+    "lon": -122.14016494580765
+  },
+  {
+    "object": "Car1",
+    "frame": 3,
+    "camera": "chase_right",
+    "lat": 47.64145017175619,
+    "lon": -122.14028035204169
+  },
+  {
+    "object": "Car1",
+    "frame": 3,
+    "camera": "chase_top",
+    "lat": 47.641337531135065,
+    "lon": -122.14016491408334
+  },
+  {
+    "object": "Car1",
+    "frame": 4,
+    "camera": "chase_right",
+    "lat": 47.641439908055624,
+    "lon": -122.14027960822362
+  },
+  {
+    "object": "Car1",
+    "frame": 4,
+    "camera": "chase_top",
+    "lat": 47.64132790206911,
+    "lon": -122.1401650858922
+  },
+  {
+    "object": "Car1",
+    "frame": 5,
+    "camera": "chase_right",
+    "lat": 47.64143974923372,
+    "lon": -122.1402802362352
+  },
+  {
+    "object": "Car1",
+    "frame": 5,
+    "camera": "chase_top",
+    "lat": 47.64132707216741,
+    "lon": -122.14016518317199
+  },
+  {
+    "object": "Car1",
+    "frame": 6,
+    "camera": "chase_right",
+    "lat": 47.64145401352128,
+    "lon": -122.14027996179425
+  },
+  {
+    "object": "Car1",
+    "frame": 6,
+    "camera": "chase_top",
+    "lat": 47.64134129468464,
+    "lon": -122.14016505867568
+  },
+  {
+    "object": "Car1",
+    "frame": 7,
+    "camera": "chase_right",
+    "lat": 47.64147971641002,
+    "lon": -122.14028007588449
+  },
+  {
+    "object": "Car1",
+    "frame": 7,
+    "camera": "chase_top",
+    "lat": 47.641366938348106,
+    "lon": -122.14016507967418
+  },
+  {
+    "object": "Car1",
+    "frame": 8,
+    "camera": "chase_right",
+    "lat": 47.64151533038866,
+    "lon": -122.14027997836303
+  },
+  {
+    "object": "Car1",
+    "frame": 8,
+    "camera": "chase_top",
+    "lat": 47.64140267943286,
+    "lon": -122.14016517525963
+  },
+  {
+    "object": "Car1",
+    "frame": 9,
+    "camera": "chase_right",
+    "lat": 47.641560322804715,
+    "lon": -122.14028168057558
+  },
+  {
+    "object": "Car1",
+    "frame": 9,
+    "camera": "chase_top",
+    "lat": 47.64144668635976,
+    "lon": -122.14017076297314
+  },
+  {
+    "object": "Car1",
+    "frame": 10,
+    "camera": "chase_right",
+    "lat": 47.64158976480555,
+    "lon": -122.14025806828434
+  },
+  {
+    "object": "Car1",
+    "frame": 10,
+    "camera": "chase_top",
+    "lat": 47.64148079484831,
+    "lon": -122.14015266247289
+  },
+  {
+    "object": "Car1",
+    "frame": 11,
+    "camera": "chase_right",
+    "lat": 47.64162512462626,
+    "lon": -122.14024689663437
+  },
+  {
+    "object": "Car1",
+    "frame": 11,
+    "camera": "chase_top",
+    "lat": 47.64151644613522,
+    "lon": -122.14014202713037
+  },
+  {
+    "object": "Car1",
+    "frame": 12,
+    "camera": "chase_right",
+    "lat": 47.64166125336917,
+    "lon": -122.14023776722733
+  },
+  {
+    "object": "Car1",
+    "frame": 12,
+    "camera": "chase_top",
+    "lat": 47.641548770358234,
+    "lon": -122.14012871884587
+  },
+  {
+    "object": "Car1",
+    "frame": 13,
+    "camera": "chase_right",
+    "lat": 47.641659435406915,
+    "lon": -122.1402115730338
+  },
+  {
+    "object": "Car1",
+    "frame": 13,
+    "camera": "chase_top",
+    "lat": 47.641568921213036,
+    "lon": -122.14009593459063
+  },
+  {
+    "object": "Car1",
+    "frame": 14,
+    "camera": "chase_right",
+    "lat": 47.64165654833005,
+    "lon": -122.14018241415454
+  },
+  {
+    "object": "Car1",
+    "frame": 14,
+    "camera": "chase_top",
+    "lat": 47.64157853413449,
+    "lon": -122.14006323839595
+  },
+  {
+    "object": "Car1",
+    "frame": 15,
+    "camera": "chase_right",
+    "lat": 47.64165375266075,
+    "lon": -122.14015454970965
+  },
+  {
+    "object": "Car1",
+    "frame": 15,
+    "camera": "chase_top",
+    "lat": 47.641577923142215,
+    "lon": -122.14003525449307
+  },
+  {
+    "object": "Car1",
+    "frame": 16,
+    "camera": "chase_right",
+    "lat": 47.64165252170266,
+    "lon": -122.14011000975597
+  },
+  {
+    "object": "Car1",
+    "frame": 16,
+    "camera": "chase_top",
+    "lat": 47.641578201395376,
+    "lon": -122.13998782093071
+  },
+  {
+    "object": "Car1",
+    "frame": 17,
+    "camera": "chase_right",
+    "lat": 47.64164493337085,
+    "lon": -122.14007086126847
+  },
+  {
+    "object": "Car1",
+    "frame": 17,
+    "camera": "chase_top",
+    "lat": 47.641570693174366,
+    "lon": -122.13994720627856
+  },
+  {
+    "object": "Car1",
+    "frame": 18,
+    "camera": "chase_right",
+    "lat": 47.641644612172314,
+    "lon": -122.14003912300014
+  },
+  {
+    "object": "Car1",
+    "frame": 18,
+    "camera": "chase_top",
+    "lat": 47.64156809803691,
+    "lon": -122.13991762756703
+  },
+  {
+    "object": "Car1",
+    "frame": 19,
+    "camera": "chase_right",
+    "lat": 47.64164135493882,
+    "lon": -122.1399890818
+  },
+  {
+    "object": "Car1",
+    "frame": 19,
+    "camera": "chase_top",
+    "lat": 47.64156530329569,
+    "lon": -122.13986909593848
+  },
+  {
+    "object": "Car1",
+    "frame": 20,
+    "camera": "chase_right",
+    "lat": 47.641641870491476,
+    "lon": -122.13993971874386
+  },
+  {
+    "object": "Car1",
+    "frame": 20,
+    "camera": "chase_top",
+    "lat": 47.64156558830067,
+    "lon": -122.13981823051915
+  },
+  {
+    "object": "Car1",
+    "frame": 21,
+    "camera": "chase_right",
+    "lat": 47.64163120936014,
+    "lon": -122.13990254784957
+  },
+  {
+    "object": "Car1",
+    "frame": 21,
+    "camera": "chase_top",
+    "lat": 47.64155441484961,
+    "lon": -122.13977683377645
+  },
+  {
+    "object": "Car1",
+    "frame": 22,
+    "camera": "chase_right",
+    "lat": 47.64160812387648,
+    "lon": -122.1398687096853
+  },
+  {
+    "object": "Car1",
+    "frame": 22,
+    "camera": "chase_top",
+    "lat": 47.641537835384504,
+    "lon": -122.13972796497235
+  },
+  {
+    "object": "Car1",
+    "frame": 23,
+    "camera": "chase_right",
+    "lat": 47.6415896345154,
+    "lon": -122.1398414709105
+  },
+  {
+    "object": "Car1",
+    "frame": 23,
+    "camera": "chase_top",
+    "lat": 47.64151481609613,
+    "lon": -122.13970276184317
+  },
+  {
+    "object": "Car1",
+    "frame": 24,
+    "camera": "chase_right",
+    "lat": 47.641570581070425,
+    "lon": -122.13979905367694
+  },
+  {
+    "object": "Car1",
+    "frame": 24,
+    "camera": "chase_top",
+    "lat": 47.64149326752515,
+    "lon": -122.13966699869687
+  },
+  {
+    "object": "Car1",
+    "frame": 25,
+    "camera": "chase_right",
+    "lat": 47.64155060018058,
+    "lon": -122.13975687952951
+  },
+  {
+    "object": "Car1",
+    "frame": 25,
+    "camera": "chase_top",
+    "lat": 47.641473185773044,
+    "lon": -122.13962382076886
+  },
+  {
+    "object": "Car1",
+    "frame": 26,
+    "camera": "chase_right",
+    "lat": 47.64152960937452,
+    "lon": -122.13971549738292
+  },
+  {
+    "object": "Car1",
+    "frame": 26,
+    "camera": "chase_top",
+    "lat": 47.641452180243704,
+    "lon": -122.13958242259555
+  },
+  {
+    "object": "Car1",
+    "frame": 27,
+    "camera": "chase_right",
+    "lat": 47.64150719500358,
+    "lon": -122.1396715730274
+  },
+  {
+    "object": "Car1",
+    "frame": 27,
+    "camera": "chase_top",
+    "lat": 47.64142973186666,
+    "lon": -122.13953955325597
+  },
+  {
+    "object": "Car1",
+    "frame": 28,
+    "camera": "chase_right",
+    "lat": 47.641486027546165,
+    "lon": -122.13962403780042
+  },
+  {
+    "object": "Car1",
+    "frame": 28,
+    "camera": "chase_top",
+    "lat": 47.64140845398873,
+    "lon": -122.13949279826176
+  },
+  {
+    "object": "Car1",
+    "frame": 29,
+    "camera": "chase_right",
+    "lat": 47.6414614969645,
+    "lon": -122.13956927904803
+  },
+  {
+    "object": "Car1",
+    "frame": 29,
+    "camera": "chase_top",
+    "lat": 47.641384699487276,
+    "lon": -122.13944473492138
+  },
+  {
+    "object": "Car1",
+    "frame": 30,
+    "camera": "chase_right",
+    "lat": 47.64144968662655,
+    "lon": -122.13950733878129
+  },
+  {
+    "object": "Car1",
+    "frame": 30,
+    "camera": "chase_top",
+    "lat": 47.64137344112646,
+    "lon": -122.13938671155448
+  },
+  {
+    "object": "Car1",
+    "frame": 31,
+    "camera": "chase_right",
+    "lat": 47.641447708170496,
+    "lon": -122.13944991931216
+  },
+  {
+    "object": "Car1",
+    "frame": 31,
+    "camera": "chase_top",
+    "lat": 47.64137138588984,
+    "lon": -122.13932654841959
+  },
+  {
+    "object": "Car1",
+    "frame": 32,
+    "camera": "chase_right",
+    "lat": 47.6414403199407,
+    "lon": -122.13938240618658
+  },
+  {
+    "object": "Car1",
+    "frame": 32,
+    "camera": "chase_top",
+    "lat": 47.64136421491347,
+    "lon": -122.13925947873489
+  },
+  {
+    "object": "Car1",
+    "frame": 33,
+    "camera": "chase_right",
+    "lat": 47.64142702688959,
+    "lon": -122.13932456374008
+  },
+  {
+    "object": "Car1",
+    "frame": 33,
+    "camera": "chase_top",
+    "lat": 47.641350125403264,
+    "lon": -122.13919774099405
+  },
+  {
+    "object": "Car1",
+    "frame": 34,
+    "camera": "chase_right",
+    "lat": 47.641407131820145,
+    "lon": -122.13927499231748
+  },
+  {
+    "object": "Car1",
+    "frame": 34,
+    "camera": "chase_top",
+    "lat": 47.64133006429076,
+    "lon": -122.13914337197626
+  },
+  {
+    "object": "Car1",
+    "frame": 35,
+    "camera": "chase_right",
+    "lat": 47.641376388912526,
+    "lon": -122.1392385605371
+  },
+  {
+    "object": "Car1",
+    "frame": 35,
+    "camera": "chase_top",
+    "lat": 47.641311461514725,
+    "lon": -122.13908763034493
+  },
+  {
+    "object": "Car1",
+    "frame": 36,
+    "camera": "chase_right",
+    "lat": 47.64134620168357,
+    "lon": -122.13921781661226
+  },
+  {
+    "object": "Car1",
+    "frame": 36,
+    "camera": "chase_top",
+    "lat": 47.64127605383964,
+    "lon": -122.13905397297556
+  },
+  {
+    "object": "Car1",
+    "frame": 37,
+    "camera": "chase_right",
+    "lat": 47.64129978082656,
+    "lon": -122.13918515454468
+  },
+  {
+    "object": "Car1",
+    "frame": 37,
+    "camera": "chase_top",
+    "lat": 47.64123095472484,
+    "lon": -122.13902071915025
+  },
+  {
+    "object": "Car1",
+    "frame": 38,
+    "camera": "chase_right",
+    "lat": 47.64125376557405,
+    "lon": -122.1391586781817
+  },
+  {
+    "object": "Car1",
+    "frame": 38,
+    "camera": "chase_top",
+    "lat": 47.641186649680016,
+    "lon": -122.13900009245347
+  },
+  {
+    "object": "Car1",
+    "frame": 39,
+    "camera": "chase_right",
+    "lat": 47.64123601321556,
+    "lon": -122.1390712435304
+  },
+  {
+    "object": "Car1",
+    "frame": 39,
+    "camera": "chase_top",
+    "lat": 47.64115894971294,
+    "lon": -122.13894191589348
+  },
+  {
+    "object": "Car1",
+    "frame": 40,
+    "camera": "chase_right",
+    "lat": 47.64121209352167,
+    "lon": -122.13900758396312
+  },
+  {
+    "object": "Car1",
+    "frame": 40,
+    "camera": "chase_top",
+    "lat": 47.64113439373323,
+    "lon": -122.13887687898344
+  },
+  {
+    "object": "Car1",
+    "frame": 41,
+    "camera": "chase_right",
+    "lat": 47.641185937267245,
+    "lon": -122.13894350371328
+  },
+  {
+    "object": "Car1",
+    "frame": 41,
+    "camera": "chase_top",
+    "lat": 47.64110828582553,
+    "lon": -122.13881253871308
+  },
+  {
+    "object": "Car1",
+    "frame": 42,
+    "camera": "chase_right",
+    "lat": 47.64115682575293,
+    "lon": -122.13887259964346
+  },
+  {
+    "object": "Car1",
+    "frame": 42,
+    "camera": "chase_top",
+    "lat": 47.64107938897266,
+    "lon": -122.13874196487842
+  },
+  {
+    "object": "Car1",
+    "frame": 43,
+    "camera": "chase_right",
+    "lat": 47.641120828770454,
+    "lon": -122.13883152883031
+  },
+  {
+    "object": "Car1",
+    "frame": 43,
+    "camera": "chase_top",
+    "lat": 47.64105494431867,
+    "lon": -122.13867501132842
+  },
+  {
+    "object": "Car1",
+    "frame": 44,
+    "camera": "chase_right",
+    "lat": 47.64107115293631,
+    "lon": -122.13879021577009
+  },
+  {
+    "object": "Car1",
+    "frame": 44,
+    "camera": "chase_top",
+    "lat": 47.641004436046174,
+    "lon": -122.13862716847434
+  },
+  {
+    "object": "Car1",
+    "frame": 45,
+    "camera": "chase_right",
+    "lat": 47.64102969572472,
+    "lon": -122.13875683303408
+  },
+  {
+    "object": "Car1",
+    "frame": 45,
+    "camera": "chase_top",
+    "lat": 47.64096049581229,
+    "lon": -122.13859009811281
+  },
+  {
+    "object": "Car1",
+    "frame": 46,
+    "camera": "chase_right",
+    "lat": 47.64097883373489,
+    "lon": -122.13874701675047
+  },
+  {
+    "object": "Car1",
+    "frame": 46,
+    "camera": "chase_top",
+    "lat": 47.64090512382384,
+    "lon": -122.13857593647751
+  },
+  {
+    "object": "Car1",
+    "frame": 47,
+    "camera": "chase_right",
+    "lat": 47.64092930732247,
+    "lon": -122.13873664850362
+  },
+  {
+    "object": "Car1",
+    "frame": 47,
+    "camera": "chase_top",
+    "lat": 47.64085147553955,
+    "lon": -122.13856070417853
+  },
+  {
+    "object": "Car1",
+    "frame": 48,
+    "camera": "chase_right",
+    "lat": 47.64090530110883,
+    "lon": -122.1387817609919
+  },
+  {
+    "object": "Car1",
+    "frame": 48,
+    "camera": "chase_top",
+    "lat": 47.64081373807801,
+    "lon": -122.13859463664569
+  },
+  {
+    "object": "Car1",
+    "frame": 49,
+    "camera": "chase_right",
+    "lat": 47.64091847022011,
+    "lon": -122.13882506433686
+  },
+  {
+    "object": "Car1",
+    "frame": 49,
+    "camera": "chase_top",
+    "lat": 47.64081216803254,
+    "lon": -122.13863687830882
+  },
+  {
+    "object": "Car1",
+    "frame": 50,
+    "camera": "chase_right",
+    "lat": 47.64090858067106,
+    "lon": -122.13886324938154
+  },
+  {
+    "object": "Car1",
+    "frame": 50,
+    "camera": "chase_top",
+    "lat": 47.64080071129565,
+    "lon": -122.13867348141869
+  },
+  {
+    "object": "Car1",
+    "frame": 51,
+    "camera": "chase_right",
+    "lat": 47.6408974216397,
+    "lon": -122.13891483867329
+  },
+  {
+    "object": "Car1",
+    "frame": 51,
+    "camera": "chase_top",
+    "lat": 47.640788632193726,
+    "lon": -122.13872772653522
+  },
+  {
+    "object": "Car1",
+    "frame": 52,
+    "camera": "chase_right",
+    "lat": 47.64088731537032,
+    "lon": -122.13898086956618
+  },
+  {
+    "object": "Car1",
+    "frame": 52,
+    "camera": "chase_top",
+    "lat": 47.64077742750692,
+    "lon": -122.13879879874098
+  },
+  {
+    "object": "Car1",
+    "frame": 53,
+    "camera": "chase_right",
+    "lat": 47.64087799063724,
+    "lon": -122.13906243528989
+  },
+  {
+    "object": "Car1",
+    "frame": 53,
+    "camera": "chase_top",
+    "lat": 47.640767428737114,
+    "lon": -122.13888602179101
+  },
+  {
+    "object": "Car1",
+    "frame": 54,
+    "camera": "chase_right",
+    "lat": 47.640876903763086,
+    "lon": -122.13915275960169
+  },
+  {
+    "object": "Car1",
+    "frame": 54,
+    "camera": "chase_top",
+    "lat": 47.64076543552953,
+    "lon": -122.13897463912366
+  },
+  {
+    "object": "Car1",
+    "frame": 55,
+    "camera": "chase_right",
+    "lat": 47.64088022059661,
+    "lon": -122.13923471903885
+  },
+  {
+    "object": "Car1",
+    "frame": 55,
+    "camera": "chase_top",
+    "lat": 47.640760127300815,
+    "lon": -122.13906604798107
+  },
+  {
+    "object": "Car1",
+    "frame": 56,
+    "camera": "chase_right",
+    "lat": 47.64089608318087,
+    "lon": -122.13931264868394
+  },
+  {
+    "object": "Car1",
+    "frame": 56,
+    "camera": "chase_top",
+    "lat": 47.64078206609916,
+    "lon": -122.13914735900785
+  },
+  {
+    "object": "Car1",
+    "frame": 57,
+    "camera": "chase_right",
+    "lat": 47.64090434138263,
+    "lon": -122.13942810557813
+  },
+  {
+    "object": "Car1",
+    "frame": 57,
+    "camera": "chase_top",
+    "lat": 47.64079042514388,
+    "lon": -122.13925913979989
+  },
+  {
+    "object": "Car1",
+    "frame": 58,
+    "camera": "chase_right",
+    "lat": 47.64091137835653,
+    "lon": -122.13956333894409
+  },
+  {
+    "object": "Car1",
+    "frame": 58,
+    "camera": "chase_top",
+    "lat": 47.64080039119089,
+    "lon": -122.13939275177714
+  },
+  {
+    "object": "Car1",
+    "frame": 59,
+    "camera": "chase_right",
+    "lat": 47.64091494685713,
+    "lon": -122.13972067434615
+  },
+  {
+    "object": "Car1",
+    "frame": 59,
+    "camera": "chase_top",
+    "lat": 47.64080250838037,
+    "lon": -122.13954892034137
+  },
+  {
+    "object": "Car1",
+    "frame": 60,
+    "camera": "chase_right",
+    "lat": 47.64092260444154,
+    "lon": -122.13988535949204
+  },
+  {
+    "object": "Car1",
+    "frame": 60,
+    "camera": "chase_top",
+    "lat": 47.64080904976093,
+    "lon": -122.13971466160986
+  },
+  {
+    "object": "Car1",
+    "frame": 61,
+    "camera": "chase_right",
+    "lat": 47.640932868615806,
+    "lon": -122.14006703464685
+  },
+  {
+    "object": "Car1",
+    "frame": 61,
+    "camera": "chase_top",
+    "lat": 47.640819016235874,
+    "lon": -122.13989561507393
+  },
+  {
+    "object": "Car1",
+    "frame": 62,
+    "camera": "chase_right",
+    "lat": 47.640914482693184,
+    "lon": -122.14016008793543
+  },
+  {
+    "object": "Car1",
+    "frame": 62,
+    "camera": "chase_top",
+    "lat": 47.64081947956624,
+    "lon": -122.13999967234614
+  },
+  {
+    "object": "Car1",
+    "frame": 63,
+    "camera": "chase_right",
+    "lat": 47.64091222354113,
+    "lon": -122.14013648457161
+  },
+  {
+    "object": "Car1",
+    "frame": 63,
+    "camera": "chase_top",
+    "lat": 47.64080237909324,
+    "lon": -122.13994622435324
+  },
+  {
+    "object": "Car1",
+    "frame": 64,
+    "camera": "chase_right",
+    "lat": 47.64091879765116,
+    "lon": -122.14013793140748
+  },
+  {
+    "object": "Car1",
+    "frame": 64,
+    "camera": "chase_top",
+    "lat": 47.64078824550011,
+    "lon": -122.13993920485
+  },
+  {
+    "object": "Car1",
+    "frame": 65,
+    "camera": "chase_right",
+    "lat": 47.640924183842046,
+    "lon": -122.14015026235442
+  },
+  {
+    "object": "Car1",
+    "frame": 65,
+    "camera": "chase_top",
+    "lat": 47.64079558539904,
+    "lon": -122.13997305912059
+  },
+  {
+    "object": "Car1",
+    "frame": 66,
+    "camera": "chase_right",
+    "lat": 47.64092393220995,
+    "lon": -122.14018087503696
+  },
+  {
+    "object": "Car1",
+    "frame": 66,
+    "camera": "chase_top",
+    "lat": 47.640795149307394,
+    "lon": -122.14000469491853
+  },
+  {
+    "object": "Car1",
+    "frame": 67,
+    "camera": "chase_right",
+    "lat": 47.64092339886701,
+    "lon": -122.1402217854126
+  },
+  {
+    "object": "Car1",
+    "frame": 67,
+    "camera": "chase_top",
+    "lat": 47.640794846047406,
+    "lon": -122.14004532680842
+  },
+  {
+    "object": "Car1",
+    "frame": 68,
+    "camera": "chase_right",
+    "lat": 47.64094213547797,
+    "lon": -122.14028213629317
+  },
+  {
+    "object": "Car1",
+    "frame": 68,
+    "camera": "chase_top",
+    "lat": 47.64081058707587,
+    "lon": -122.14011278276575
+  },
+  {
+    "object": "Car1",
+    "frame": 69,
+    "camera": "chase_right",
+    "lat": 47.64096898460111,
+    "lon": -122.14028254177357
+  },
+  {
+    "object": "Car1",
+    "frame": 69,
+    "camera": "chase_top",
+    "lat": 47.64084336247994,
+    "lon": -122.1401453513407
+  },
+  {
+    "object": "Car1",
+    "frame": 70,
+    "camera": "chase_right",
+    "lat": 47.641001273174325,
+    "lon": -122.14027725645273
+  },
+  {
+    "object": "Car1",
+    "frame": 70,
+    "camera": "chase_top",
+    "lat": 47.6408861767679,
+    "lon": -122.14016194910407
+  },
+  {
+    "object": "Car1",
+    "frame": 71,
+    "camera": "chase_right",
+    "lat": 47.64103909724583,
+    "lon": -122.14026195249178
+  },
+  {
+    "object": "Car1",
+    "frame": 71,
+    "camera": "chase_top",
+    "lat": 47.64092603448965,
+    "lon": -122.14014624178628
+  },
+  {
+    "object": "Parked_01",
+    "frame": 11,
+    "camera": "chase_right",
+    "lat": 47.64160388747012,
+    "lon": -122.14114312583202
+  },
+  {
+    "object": "Parked_01",
+    "frame": 11,
+    "camera": "chase_top",
+    "lat": 47.64148609124982,
+    "lon": -122.1402073790695
+  },
+  {
+    "object": "Parked_01",
+    "frame": 12,
+    "camera": "chase_right",
+    "lat": 47.64157919984952,
+    "lon": -122.14028665513247
+  },
+  {
+    "object": "Parked_01",
+    "frame": 12,
+    "camera": "chase_top",
+    "lat": 47.64150748774921,
+    "lon": -122.14016814467455
+  },
+  {
+    "object": "Parked_01",
+    "frame": 13,
+    "camera": "chase_right",
+    "lat": 47.64159876266206,
+    "lon": -122.14014583514087
+  },
+  {
+    "object": "Parked_01",
+    "frame": 13,
+    "camera": "chase_top",
+    "lat": 47.64152207375732,
+    "lon": -122.14006142836153
+  },
+  {
+    "object": "Parked_01",
+    "frame": 14,
+    "camera": "chase_right",
+    "lat": 47.64161730479898,
+    "lon": -122.1400724357109
+  },
+  {
+    "object": "Parked_01",
+    "frame": 14,
+    "camera": "chase_top",
+    "lat": 47.64155035681233,
+    "lon": -122.13999715163803
+  },
+  {
+    "object": "Parked_02",
+    "frame": 16,
+    "camera": "chase_right",
+    "lat": 47.64158181370509,
+    "lon": -122.14028303751222
+  },
+  {
+    "object": "Parked_02",
+    "frame": 16,
+    "camera": "chase_top",
+    "lat": 47.64152976509222,
+    "lon": -122.14004683559851
+  },
+  {
+    "object": "Parked_02",
+    "frame": 17,
+    "camera": "chase_right",
+    "lat": 47.6415992554594,
+    "lon": -122.14020785341377
+  },
+  {
+    "object": "Parked_02",
+    "frame": 17,
+    "camera": "chase_top",
+    "lat": 47.64152225582348,
+    "lon": -122.13997766123772
+  },
+  {
+    "object": "Parked_02",
+    "frame": 18,
+    "camera": "chase_right",
+    "lat": 47.64159192771114,
+    "lon": -122.14004871260677
+  },
+  {
+    "object": "Parked_02",
+    "frame": 18,
+    "camera": "chase_top",
+    "lat": 47.64151907244558,
+    "lon": -122.13991731527801
+  },
+  {
+    "object": "Parked_02",
+    "frame": 19,
+    "camera": "chase_right",
+    "lat": 47.64159094279028,
+    "lon": -122.13994277914905
+  },
+  {
+    "object": "Parked_02",
+    "frame": 19,
+    "camera": "chase_top",
+    "lat": 47.64151547340497,
+    "lon": -122.13983742981154
+  },
+  {
+    "object": "Parked_02",
+    "frame": 20,
+    "camera": "chase_right",
+    "lat": 47.64160672738774,
+    "lon": -122.13983327912055
+  },
+  {
+    "object": "Parked_02",
+    "frame": 20,
+    "camera": "chase_top",
+    "lat": 47.64152195497453,
+    "lon": -122.13975753085768
+  },
+  {
+    "object": "Parked_02",
+    "frame": 21,
+    "camera": "chase_right",
+    "lat": 47.641600056983265,
+    "lon": -122.13977207077716
+  },
+  {
+    "object": "Parked_02",
+    "frame": 22,
+    "camera": "chase_right",
+    "lat": 47.64159776453985,
+    "lon": -122.1397247820509
+  },
+  {
+    "object": "Parked_03",
+    "frame": 27,
+    "camera": "chase_right",
+    "lat": 47.64143249564543,
+    "lon": -122.14018642516174
+  },
+  {
+    "object": "Parked_03",
+    "frame": 27,
+    "camera": "chase_top",
+    "lat": 47.64138375055193,
+    "lon": -122.13960063101862
+  },
+  {
+    "object": "Parked_03",
+    "frame": 28,
+    "camera": "chase_right",
+    "lat": 47.64140460881329,
+    "lon": -122.13968202518
+  },
+  {
+    "object": "Parked_03",
+    "frame": 28,
+    "camera": "chase_top",
+    "lat": 47.641366253901396,
+    "lon": -122.13952821757981
+  },
+  {
+    "object": "Parked_03",
+    "frame": 29,
+    "camera": "chase_right",
+    "lat": 47.64140175427166,
+    "lon": -122.13954076344955
+  },
+  {
+    "object": "Parked_03",
+    "frame": 29,
+    "camera": "chase_top",
+    "lat": 47.641345772234125,
+    "lon": -122.13943148176541
+  },
+  {
+    "object": "Parked_03",
+    "frame": 30,
+    "camera": "chase_right",
+    "lat": 47.641399938490125,
+    "lon": -122.13943031474393
+  },
+  {
+    "object": "Parked_03",
+    "frame": 30,
+    "camera": "chase_top",
+    "lat": 47.64133020287906,
+    "lon": -122.1393381671683
+  },
+  {
+    "object": "Parked_04",
+    "frame": 42,
+    "camera": "chase_top",
+    "lat": 47.64114898384548,
+    "lon": -122.13881424859325
+  },
+  {
+    "object": "Parked_04",
+    "frame": 43,
+    "camera": "chase_top",
+    "lat": 47.64110936032601,
+    "lon": -122.13872253768636
+  },
+  {
+    "object": "Parked_04",
+    "frame": 44,
+    "camera": "chase_right",
+    "lat": 47.64280770471113,
+    "lon": -122.1393185752174
+  },
+  {
+    "object": "Parked_04",
+    "frame": 44,
+    "camera": "chase_top",
+    "lat": 47.64105737251842,
+    "lon": -122.13861796776759
+  },
+  {
+    "object": "Parked_04",
+    "frame": 45,
+    "camera": "chase_right",
+    "lat": 47.6412262550185,
+    "lon": -122.13863656842402
+  },
+  {
+    "object": "Parked_04",
+    "frame": 45,
+    "camera": "chase_top",
+    "lat": 47.64101724857421,
+    "lon": -122.13853294441913
+  },
+  {
+    "object": "Parked_05",
+    "frame": 46,
+    "camera": "chase_right",
+    "lat": 47.64090379979436,
+    "lon": -122.13882719479668
+  },
+  {
+    "object": "Parked_05",
+    "frame": 46,
+    "camera": "chase_top",
+    "lat": 47.64085551292341,
+    "lon": -122.13862243547915
+  },
+  {
+    "object": "Parked_05",
+    "frame": 47,
+    "camera": "chase_right",
+    "lat": 47.64087186947392,
+    "lon": -122.13867858090609
+  },
+  {
+    "object": "Parked_05",
+    "frame": 48,
+    "camera": "chase_right",
+    "lat": 47.64089672316441,
+    "lon": -122.13863873159953
+  },
+  {
+    "object": "Parked_06",
+    "frame": 31,
+    "camera": "chase_top",
+    "lat": 47.641418829452014,
+    "lon": -122.13938159283246
+  },
+  {
+    "object": "Parked_06",
+    "frame": 32,
+    "camera": "chase_right",
+    "lat": 47.641977048097566,
+    "lon": -122.13949018965738
+  },
+  {
+    "object": "Parked_06",
+    "frame": 32,
+    "camera": "chase_top",
+    "lat": 47.64141033156946,
+    "lon": -122.13924888467695
+  },
+  {
+    "object": "Parked_06",
+    "frame": 33,
+    "camera": "chase_right",
+    "lat": 47.64152536145642,
+    "lon": -122.13920860998233
+  },
+  {
+    "object": "Parked_06",
+    "frame": 33,
+    "camera": "chase_top",
+    "lat": 47.64139918267967,
+    "lon": -122.13914373045182
+  },
+  {
+    "object": "Parked_06",
+    "frame": 34,
+    "camera": "chase_right",
+    "lat": 47.6414392134112,
+    "lon": -122.13912308557056
+  },
+  {
+    "object": "Parked_07",
+    "frame": 34,
+    "camera": "chase_right",
+    "lat": 47.6413090109738,
+    "lon": -122.13933440973562
+  },
+  {
+    "object": "Parked_07",
+    "frame": 34,
+    "camera": "chase_top",
+    "lat": 47.64127130674631,
+    "lon": -122.13918770414698
+  },
+  {
+    "object": "Parked_07",
+    "frame": 35,
+    "camera": "chase_right",
+    "lat": 47.641311665349754,
+    "lon": -122.13917530677887
+  },
+  {
+    "object": "Parked_07",
+    "frame": 35,
+    "camera": "chase_top",
+    "lat": 47.641251835366226,
+    "lon": -122.13904690533343
+  },
+  {
+    "object": "Parked_08",
+    "frame": 48,
+    "camera": "chase_right",
+    "lat": 47.64089191480777,
+    "lon": -122.13922040966578
+  },
+  {
+    "object": "Parked_08",
+    "frame": 48,
+    "camera": "chase_top",
+    "lat": 47.64079000554249,
+    "lon": -122.13864291371718
+  },
+  {
+    "object": "Parked_08",
+    "frame": 49,
+    "camera": "chase_right",
+    "lat": 47.64085426354816,
+    "lon": -122.13881592186
+  },
+  {
+    "object": "Parked_08",
+    "frame": 49,
+    "camera": "chase_top",
+    "lat": 47.64077439480651,
+    "lon": -122.1386437431268
+  },
+  {
+    "object": "Parked_08",
+    "frame": 50,
+    "camera": "chase_right",
+    "lat": 47.64085638562675,
+    "lon": -122.13879370737156
+  },
+  {
+    "object": "Parked_08",
+    "frame": 50,
+    "camera": "chase_top",
+    "lat": 47.640761911629454,
+    "lon": -122.13863460559487
+  },
+  {
+    "object": "Parked_08",
+    "frame": 51,
+    "camera": "chase_right",
+    "lat": 47.640857966550186,
+    "lon": -122.13879791914702
+  },
+  {
+    "object": "Parked_08",
+    "frame": 51,
+    "camera": "chase_top",
+    "lat": 47.6407519114696,
+    "lon": -122.13865658457455
+  },
+  {
+    "object": "Parked_09",
+    "frame": 53,
+    "camera": "chase_top",
+    "lat": 47.64079327940727,
+    "lon": -122.13893447484273
+  },
+  {
+    "object": "Parked_09",
+    "frame": 54,
+    "camera": "chase_right",
+    "lat": 47.64093439675625,
+    "lon": -122.13905456114644
+  },
+  {
+    "object": "Parked_09",
+    "frame": 54,
+    "camera": "chase_top",
+    "lat": 47.64079211379665,
+    "lon": -122.13893327674639
+  },
+  {
+    "object": "Parked_09",
+    "frame": 55,
+    "camera": "chase_right",
+    "lat": 47.64089972498138,
+    "lon": -122.13908319724749
+  },
+  {
+    "object": "Parked_11",
+    "frame": 36,
+    "camera": "chase_right",
+    "lat": 47.641262573991135,
+    "lon": -122.13941272362676
+  },
+  {
+    "object": "Parked_11",
+    "frame": 36,
+    "camera": "chase_top",
+    "lat": 47.6412240171298,
+    "lon": -122.13910875289754
+  },
+  {
+    "object": "Parked_11",
+    "frame": 37,
+    "camera": "chase_right",
+    "lat": 47.641231699700135,
+    "lon": -122.13923683068198
+  },
+  {
+    "object": "Parked_11",
+    "frame": 37,
+    "camera": "chase_top",
+    "lat": 47.64117706008417,
+    "lon": -122.13903615762271
+  },
+  {
+    "object": "Parked_11",
+    "frame": 38,
+    "camera": "chase_right",
+    "lat": 47.641185995652165,
+    "lon": -122.13913295498165
+  },
+  {
+    "object": "Parked_11",
+    "frame": 38,
+    "camera": "chase_top",
+    "lat": 47.64113509639394,
+    "lon": -122.13898218030022
+  },
+  {
+    "object": "Parked_11",
+    "frame": 39,
+    "camera": "chase_right",
+    "lat": 47.64117571540876,
+    "lon": -122.13899839201096
+  },
+  {
+    "object": "Parked_11",
+    "frame": 39,
+    "camera": "chase_top",
+    "lat": 47.64110600667669,
+    "lon": -122.1388945412868
+  },
+  {
+    "object": "Parked_12",
+    "frame": 54,
+    "camera": "chase_top",
+    "lat": 47.64082481392984,
+    "lon": -122.13903741016858
+  },
+  {
+    "object": "Parked_12",
+    "frame": 55,
+    "camera": "chase_right",
+    "lat": 47.64199430088957,
+    "lon": -122.13972461807099
+  },
+  {
+    "object": "Parked_12",
+    "frame": 55,
+    "camera": "chase_top",
+    "lat": 47.64080536022182,
+    "lon": -122.13907725432347
+  },
+  {
+    "object": "Parked_12",
+    "frame": 56,
+    "camera": "chase_right",
+    "lat": 47.64094841655481,
+    "lon": -122.13918266955315
+  },
+  {
+    "object": "Parked_12",
+    "frame": 56,
+    "camera": "chase_top",
+    "lat": 47.64083158785564,
+    "lon": -122.13908290378792
+  },
+  {
+    "object": "Parked_13",
+    "frame": 61,
+    "camera": "chase_right",
+    "lat": 47.64091124292663,
+    "lon": -122.14038768271388
+  },
+  {
+    "object": "Parked_13",
+    "frame": 61,
+    "camera": "chase_top",
+    "lat": 47.64079937468324,
+    "lon": -122.13994184152284
+  },
+  {
+    "object": "Parked_13",
+    "frame": 62,
+    "camera": "chase_right",
+    "lat": 47.640884778700936,
+    "lon": -122.14028594249764
+  },
+  {
+    "object": "Parked_13",
+    "frame": 62,
+    "camera": "chase_top",
+    "lat": 47.64080456286157,
+    "lon": -122.14003511498285
+  },
+  {
+    "object": "Parked_13",
+    "frame": 63,
+    "camera": "chase_right",
+    "lat": 47.64089482936614,
+    "lon": -122.14035025651843
+  },
+  {
+    "object": "Parked_13",
+    "frame": 63,
+    "camera": "chase_top",
+    "lat": 47.64079090796018,
+    "lon": -122.13998175124352
+  },
+  {
+    "object": "Parked_13",
+    "frame": 64,
+    "camera": "chase_right",
+    "lat": 47.64086255488203,
+    "lon": -122.14019633018961
+  },
+  {
+    "object": "Parked_13",
+    "frame": 64,
+    "camera": "chase_top",
+    "lat": 47.640773786863285,
+    "lon": -122.13996255770243
+  },
+  {
+    "object": "Parked_13",
+    "frame": 65,
+    "camera": "chase_right",
+    "lat": 47.640865050863106,
+    "lon": -122.14012831411736
+  },
+  {
+    "object": "Parked_13",
+    "frame": 65,
+    "camera": "chase_top",
+    "lat": 47.64077270243649,
+    "lon": -122.13997238943382
+  },
+  {
+    "object": "Parked_13",
+    "frame": 66,
+    "camera": "chase_right",
+    "lat": 47.64087475004951,
+    "lon": -122.14010981796162
+  },
+  {
+    "object": "Parked_13",
+    "frame": 66,
+    "camera": "chase_top",
+    "lat": 47.64077208749511,
+    "lon": -122.13996808321076
+  },
+  {
+    "object": "Parked_13",
+    "frame": 67,
+    "camera": "chase_right",
+    "lat": 47.6408805011553,
+    "lon": -122.14011133906024
+  },
+  {
+    "object": "Parked_13",
+    "frame": 67,
+    "camera": "chase_top",
+    "lat": 47.64077028424859,
+    "lon": -122.13998679037061
+  },
+  {
+    "object": "Parked_13",
+    "frame": 68,
+    "camera": "chase_right",
+    "lat": 47.640919106844585,
+    "lon": -122.14013160571258
+  },
+  {
+    "object": "Parked_14",
+    "frame": 68,
+    "camera": "chase_right",
+    "lat": 47.64083324578003,
+    "lon": -122.14032803752484
+  },
+  {
+    "object": "Parked_14",
+    "frame": 68,
+    "camera": "chase_top",
+    "lat": 47.64074653887581,
+    "lon": -122.14016670025858
+  },
+  {
+    "object": "Parked_14",
+    "frame": 69,
+    "camera": "chase_top",
+    "lat": 47.64077685690875,
+    "lon": -122.1400806102749
+  },
+  {
+    "object": "Parked_15",
+    "frame": 67,
+    "camera": "chase_right",
+    "lat": 47.64083553680719,
+    "lon": -122.14042999933811
+  },
+  {
+    "object": "Parked_15",
+    "frame": 67,
+    "camera": "chase_top",
+    "lat": 47.64075579086339,
+    "lon": -122.1401105259302
+  },
+  {
+    "object": "Parked_15",
+    "frame": 68,
+    "camera": "chase_right",
+    "lat": 47.640855792081595,
+    "lon": -122.14031359924279
+  },
+  {
+    "object": "Parked_15",
+    "frame": 68,
+    "camera": "chase_top",
+    "lat": 47.64075928073995,
+    "lon": -122.1401350136723
+  },
+  {
+    "object": "Parked_15",
+    "frame": 69,
+    "camera": "chase_right",
+    "lat": 47.64093173000765,
+    "lon": -122.14016809232861
+  },
+  {
+    "object": "Parked_15",
+    "frame": 69,
+    "camera": "chase_top",
+    "lat": 47.640793847383144,
+    "lon": -122.14008719760115
+  },
+  {
+    "object": "Parked_15",
+    "frame": 70,
+    "camera": "chase_right",
+    "lat": 47.64098584165784,
+    "lon": -122.14013385123879
+  }
+]
