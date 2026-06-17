@@ -1,0 +1,25 @@
+# create this file in your repo root
+cat > .gitignore << 'EOF'
+# model weights
+*.pt
+*.pth
+*.onnx
+
+# datasets
+dataset/
+car1_dataset/
+car1_dataset_moving_clean/
+logs/
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+reid_env/
+.env
+
+# outputs
+*.csv
+*.npy
+results/
+EOF
