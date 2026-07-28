@@ -1,0 +1,30 @@
+# Raw external datasets (VeRi-776, VehicleX, CityFlow, etc.)
+dataset/
+
+# Image files anywhere else in the repo
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.webp
+
+# Explicitly keep AirSim crops
+!crops_final/
+!crops_final/**
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+logs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+logs/
+Untitled.ipynb
+Untitled.ipynb
+Untitled.ipynb
+Untitled_local_only.ipynb

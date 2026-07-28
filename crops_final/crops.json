@@ -1,0 +1,5678 @@
+[
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "1_cam_az000_p20.png",
+    "crop_filename": "1_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 382.3,
+      "y0": 258.7,
+      "x1": 642.9,
+      "y1": 420.3,
+      "w": 260.5,
+      "h": 161.6,
+      "cx": 512.6,
+      "cy": 339.5
+    },
+    "bbox_padded": {
+      "x0": 378,
+      "y0": 254,
+      "x1": 646,
+      "y1": 424,
+      "w": 268,
+      "h": 170
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.609945297241211,
+      "pos_y": 8.626127243041992,
+      "pos_z": -5.268585681915283,
+      "ori_w": 0.37478482723236084,
+      "ori_x": -0.17511841654777527,
+      "ori_y": -0.0684160366654396,
+      "ori_z": -0.907848596572876
+    },
+    "quality": {
+      "area": 42113.0,
+      "coverage": 0.0714,
+      "aspect": 1.613
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "1_cam_az036_p24.png",
+    "crop_filename": "1_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 362.7,
+      "y0": 253.9,
+      "x1": 627.9,
+      "y1": 434.0,
+      "w": 265.2,
+      "h": 180.1,
+      "cx": 495.3,
+      "cy": 344.0
+    },
+    "bbox_padded": {
+      "x0": 358,
+      "y0": 249,
+      "x1": 631,
+      "y1": 438,
+      "w": 273,
+      "h": 189
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.4606648683547974,
+      "pos_y": 9.897747039794922,
+      "pos_z": -5.104979038238525,
+      "ori_w": 0.6343380212783813,
+      "ori_x": -0.17279605567455292,
+      "ori_y": -0.1323857307434082,
+      "ori_z": -0.7417754530906677
+    },
+    "quality": {
+      "area": 47762.5,
+      "coverage": 0.081,
+      "aspect": 1.473
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "1_cam_az072_p29.png",
+    "crop_filename": "1_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 352.5,
+      "y0": 235.7,
+      "x1": 702.9,
+      "y1": 494.5,
+      "w": 350.5,
+      "h": 258.8,
+      "cx": 527.7,
+      "cy": 365.1
+    },
+    "bbox_padded": {
+      "x0": 348,
+      "y0": 231,
+      "x1": 706,
+      "y1": 498,
+      "w": 358,
+      "h": 267
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.814903736114502,
+      "pos_y": 7.167529582977295,
+      "pos_z": -4.927249908447266,
+      "ori_w": 0.8261886835098267,
+      "ori_x": -0.1441016048192978,
+      "ori_y": -0.20659294724464417,
+      "ori_z": -0.5039507150650024
+    },
+    "quality": {
+      "area": 90683.5,
+      "coverage": 0.1537,
+      "aspect": 1.354
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "1_cam_az108_p33.png",
+    "crop_filename": "1_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 292.3,
+      "y0": 221.0,
+      "x1": 686.7,
+      "y1": 534.2,
+      "w": 394.3,
+      "h": 313.3,
+      "cx": 489.5,
+      "cy": 377.6
+    },
+    "bbox_padded": {
+      "x0": 288,
+      "y0": 217,
+      "x1": 690,
+      "y1": 538,
+      "w": 402,
+      "h": 321
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.317032337188721,
+      "pos_y": 3.090460777282715,
+      "pos_z": -4.799726963043213,
+      "ori_w": 0.9348370432853699,
+      "ori_x": -0.07692181318998337,
+      "ori_y": -0.265821248292923,
+      "ori_z": -0.22249004244804382
+    },
+    "quality": {
+      "area": 123526.1,
+      "coverage": 0.2094,
+      "aspect": 1.259
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "1_cam_az144_p38.png",
+    "crop_filename": "1_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 318.0,
+      "y0": 217.2,
+      "x1": 745.5,
+      "y1": 531.9,
+      "w": 427.6,
+      "h": 314.7,
+      "cx": 531.8,
+      "cy": 374.6
+    },
+    "bbox_padded": {
+      "x0": 314,
+      "y0": 213,
+      "x1": 749,
+      "y1": 535,
+      "w": 435,
+      "h": 322
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.850160598754883,
+      "pos_y": -0.9555050730705261,
+      "pos_z": -4.748836517333984,
+      "ori_w": 0.9469856023788452,
+      "ori_x": 0.018562408164143562,
+      "ori_y": -0.3119252026081085,
+      "ori_z": 0.0746748223900795
+    },
+    "quality": {
+      "area": 134534.2,
+      "coverage": 0.2281,
+      "aspect": 1.358
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "1_cam_az180_p42.png",
+    "crop_filename": "1_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 262.9,
+      "y0": 183.8,
+      "x1": 761.3,
+      "y1": 576.0,
+      "w": 498.4,
+      "h": 392.2,
+      "cx": 512.1,
+      "cy": 379.9
+    },
+    "bbox_padded": {
+      "x0": 258,
+      "y0": 179,
+      "x1": 765,
+      "y1": 576,
+      "w": 507,
+      "h": 397
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.7032058238983154,
+      "pos_y": -3.6008951663970947,
+      "pos_z": -4.762798309326172,
+      "ori_w": 0.8683708310127258,
+      "ori_x": 0.13438446819782257,
+      "ori_y": -0.31747081875801086,
+      "ori_z": 0.3564901649951935
+    },
+    "quality": {
+      "area": 195472.5,
+      "coverage": 0.3314,
+      "aspect": 1.271
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "1_cam_az216_p47.png",
+    "crop_filename": "1_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 234.0,
+      "y0": 183.3,
+      "x1": 739.3,
+      "y1": 576.0,
+      "w": 505.4,
+      "h": 392.7,
+      "cx": 486.6,
+      "cy": 379.7
+    },
+    "bbox_padded": {
+      "x0": 230,
+      "y0": 179,
+      "x1": 743,
+      "y1": 576,
+      "w": 513,
+      "h": 397
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.8283429145812988,
+      "pos_y": -4.2269673347473145,
+      "pos_z": -4.826805114746094,
+      "ori_w": 0.7042340636253357,
+      "ori_x": 0.26058468222618103,
+      "ori_y": -0.29007524251937866,
+      "ori_z": 0.5933012366294861
+    },
+    "quality": {
+      "area": 198431.3,
+      "coverage": 0.3364,
+      "aspect": 1.287
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "1_cam_az252_p51.png",
+    "crop_filename": "1_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 269.8,
+      "y0": 142.0,
+      "x1": 822.2,
+      "y1": 576.0,
+      "w": 552.5,
+      "h": 434.0,
+      "cx": 546.0,
+      "cy": 359.0
+    },
+    "bbox_padded": {
+      "x0": 265,
+      "y0": 138,
+      "x1": 826,
+      "y1": 576,
+      "w": 561,
+      "h": 438
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.4861868619918823,
+      "pos_y": -3.3378684520721436,
+      "pos_z": -4.899982929229736,
+      "ori_w": 0.47867536544799805,
+      "ori_x": 0.3728044927120209,
+      "ori_y": -0.2135450392961502,
+      "ori_z": 0.7656926512718201
+    },
+    "quality": {
+      "area": 239741.6,
+      "coverage": 0.4065,
+      "aspect": 1.273
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "1_cam_az288_p56.png",
+    "crop_filename": "1_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 197.1,
+      "y0": 117.3,
+      "x1": 778.7,
+      "y1": 576.0,
+      "w": 581.7,
+      "h": 458.7,
+      "cx": 487.9,
+      "cy": 346.6
+    },
+    "bbox_padded": {
+      "x0": 193,
+      "y0": 113,
+      "x1": 782,
+      "y1": 576,
+      "w": 589,
+      "h": 463
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.5458171367645264,
+      "pos_y": -1.4682903289794922,
+      "pos_z": -4.956209182739258,
+      "ori_w": 0.21260634064674377,
+      "ori_x": 0.46563881635665894,
+      "ori_y": -0.10108081996440887,
+      "ori_z": 0.8530895113945007
+    },
+    "quality": {
+      "area": 266779.9,
+      "coverage": 0.4523,
+      "aspect": 1.268
+    }
+  },
+  {
+    "vehicle_label": "1",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "1_cam_az324_p60.png",
+    "crop_filename": "1_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 271.3,
+      "y0": 117.7,
+      "x1": 823.0,
+      "y1": 576.0,
+      "w": 551.7,
+      "h": 458.3,
+      "cx": 547.2,
+      "cy": 346.9
+    },
+    "bbox_padded": {
+      "x0": 267,
+      "y0": 113,
+      "x1": 827,
+      "y1": 576,
+      "w": 560,
+      "h": 463
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.410522937774658,
+      "pos_y": 0.3139297068119049,
+      "pos_z": -4.980430603027344,
+      "ori_w": 0.06300031393766403,
+      "ori_x": -0.510057806968689,
+      "ori_y": -0.044179767370224,
+      "ori_z": -0.8566914200782776
+    },
+    "quality": {
+      "area": 252844.1,
+      "coverage": 0.4287,
+      "aspect": 1.204
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "2_cam_az000_p20.png",
+    "crop_filename": "2_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": false,
+    "bbox_original": {
+      "x0": 391.6,
+      "y0": 259.3,
+      "x1": 632.1,
+      "y1": 406.9,
+      "w": 240.5,
+      "h": 147.6,
+      "cx": 511.9,
+      "cy": 333.1
+    },
+    "bbox_padded": {
+      "x0": 387,
+      "y0": 255,
+      "x1": 636,
+      "y1": 410,
+      "w": 249,
+      "h": 155
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.7722749710083,
+      "pos_y": 8.771096229553223,
+      "pos_z": -4.941038131713867,
+      "ori_w": 0.37706369161605835,
+      "ori_x": -0.1565871238708496,
+      "ori_y": -0.06522729992866516,
+      "ori_z": -0.9105212092399597
+    },
+    "quality": {
+      "area": 35497.8,
+      "coverage": 0.0602,
+      "aspect": 1.629
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "2_cam_az036_p24.png",
+    "crop_filename": "2_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": false,
+    "bbox_original": {
+      "x0": 377.2,
+      "y0": 254.8,
+      "x1": 619.0,
+      "y1": 419.7,
+      "w": 241.7,
+      "h": 164.9,
+      "cx": 498.1,
+      "cy": 337.3
+    },
+    "bbox_padded": {
+      "x0": 373,
+      "y0": 250,
+      "x1": 623,
+      "y1": 423,
+      "w": 250,
+      "h": 173
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6165238618850708,
+      "pos_y": 10.015989303588867,
+      "pos_z": -4.979272365570068,
+      "ori_w": 0.6352304220199585,
+      "ori_x": -0.15409375727176666,
+      "ori_y": -0.13504943251609802,
+      "ori_z": -0.7446469068527222
+    },
+    "quality": {
+      "area": 39872.8,
+      "coverage": 0.0676,
+      "aspect": 1.466
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "2_cam_az072_p29.png",
+    "crop_filename": "2_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 366.0,
+      "y0": 231.6,
+      "x1": 691.7,
+      "y1": 478.8,
+      "w": 325.7,
+      "h": 247.2,
+      "cx": 528.9,
+      "cy": 355.2
+    },
+    "bbox_padded": {
+      "x0": 362,
+      "y0": 227,
+      "x1": 695,
+      "y1": 482,
+      "w": 333,
+      "h": 255
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6513822078704834,
+      "pos_y": 7.265678882598877,
+      "pos_z": -5.026772975921631,
+      "ori_w": 0.8251414895057678,
+      "ori_x": -0.1270643174648285,
+      "ori_y": -0.2147289365530014,
+      "ori_z": -0.5068408250808716
+    },
+    "quality": {
+      "area": 80513.0,
+      "coverage": 0.1365,
+      "aspect": 1.318
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "2_cam_az108_p33.png",
+    "crop_filename": "2_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 315.5,
+      "y0": 216.7,
+      "x1": 679.2,
+      "y1": 509.7,
+      "w": 363.7,
+      "h": 293.0,
+      "cx": 497.3,
+      "cy": 363.2
+    },
+    "bbox_padded": {
+      "x0": 311,
+      "y0": 212,
+      "x1": 683,
+      "y1": 513,
+      "w": 372,
+      "h": 301
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.140444278717041,
+      "pos_y": 3.1787986755371094,
+      "pos_z": -5.063928127288818,
+      "ori_w": 0.9316256046295166,
+      "ori_x": -0.06314590573310852,
+      "ori_y": -0.27849236130714417,
+      "ori_z": -0.22478502988815308
+    },
+    "quality": {
+      "area": 106564.1,
+      "coverage": 0.1807,
+      "aspect": 1.241
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "2_cam_az144_p38.png",
+    "crop_filename": "2_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 344.0,
+      "y0": 206.9,
+      "x1": 728.0,
+      "y1": 509.1,
+      "w": 384.0,
+      "h": 302.3,
+      "cx": 536.0,
+      "cy": 358.0
+    },
+    "bbox_padded": {
+      "x0": 340,
+      "y0": 202,
+      "x1": 732,
+      "y1": 513,
+      "w": 392,
+      "h": 311
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.659715175628662,
+      "pos_y": -0.8658226728439331,
+      "pos_z": -5.082265377044678,
+      "ori_w": 0.9415139555931091,
+      "ori_x": 0.027792377397418022,
+      "ori_y": -0.3277089595794678,
+      "ori_z": 0.07338862866163254
+    },
+    "quality": {
+      "area": 116044.8,
+      "coverage": 0.1967,
+      "aspect": 1.271
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "2_cam_az180_p42.png",
+    "crop_filename": "2_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 281.0,
+      "y0": 174.3,
+      "x1": 743.5,
+      "y1": 576.0,
+      "w": 462.5,
+      "h": 401.7,
+      "cx": 512.2,
+      "cy": 375.2
+    },
+    "bbox_padded": {
+      "x0": 277,
+      "y0": 170,
+      "x1": 747,
+      "y1": 576,
+      "w": 470,
+      "h": 406
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.503142833709717,
+      "pos_y": -3.503415584564209,
+      "pos_z": -5.082683086395264,
+      "ori_w": 0.8611173033714294,
+      "ori_x": 0.13829146325588226,
+      "ori_y": -0.33473172783851624,
+      "ori_z": 0.35680121183395386
+    },
+    "quality": {
+      "area": 185786.2,
+      "coverage": 0.315,
+      "aspect": 1.151
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "2_cam_az216_p47.png",
+    "crop_filename": "2_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 255.4,
+      "y0": 172.6,
+      "x1": 712.3,
+      "y1": 547.6,
+      "w": 456.9,
+      "h": 374.9,
+      "cx": 483.8,
+      "cy": 360.1
+    },
+    "bbox_padded": {
+      "x0": 251,
+      "y0": 168,
+      "x1": 716,
+      "y1": 551,
+      "w": 465,
+      "h": 383
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.6252890229225159,
+      "pos_y": -4.1187520027160645,
+      "pos_z": -5.067911624908447,
+      "ori_w": 0.6957113146781921,
+      "ori_x": 0.25893434882164,
+      "ori_y": -0.3069685399532318,
+      "ori_z": 0.5955745577812195
+    },
+    "quality": {
+      "area": 171337.5,
+      "coverage": 0.2905,
+      "aspect": 1.218
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "2_cam_az252_p51.png",
+    "crop_filename": "2_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 276.5,
+      "y0": 141.2,
+      "x1": 790.8,
+      "y1": 576.0,
+      "w": 514.3,
+      "h": 434.8,
+      "cx": 533.7,
+      "cy": 358.6
+    },
+    "bbox_padded": {
+      "x0": 272,
+      "y0": 137,
+      "x1": 794,
+      "y1": 576,
+      "w": 522,
+      "h": 439
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6869256496429443,
+      "pos_y": -3.2208688259124756,
+      "pos_z": -5.048695087432861,
+      "ori_w": 0.4699379801750183,
+      "ori_x": 0.36589881777763367,
+      "ori_y": -0.2284540981054306,
+      "ori_z": 0.7701201438903809
+    },
+    "quality": {
+      "area": 223617.6,
+      "coverage": 0.3791,
+      "aspect": 1.183
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "2_cam_az288_p56.png",
+    "crop_filename": "2_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 205.2,
+      "y0": 119.4,
+      "x1": 755.9,
+      "y1": 576.0,
+      "w": 550.8,
+      "h": 456.6,
+      "cx": 480.5,
+      "cy": 347.7
+    },
+    "bbox_padded": {
+      "x0": 201,
+      "y0": 115,
+      "x1": 759,
+      "y1": 576,
+      "w": 558,
+      "h": 461
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.740537643432617,
+      "pos_y": -1.3471213579177856,
+      "pos_z": -5.032208442687988,
+      "ori_w": 0.20458757877349854,
+      "ori_x": 0.45435023307800293,
+      "ori_y": -0.11251506954431534,
+      "ori_z": 0.8596802353858948
+    },
+    "quality": {
+      "area": 251449.6,
+      "coverage": 0.4263,
+      "aspect": 1.206
+    }
+  },
+  {
+    "vehicle_label": "2",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "2_cam_az324_p60.png",
+    "crop_filename": "2_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 276.4,
+      "y0": 126.9,
+      "x1": 800.7,
+      "y1": 576.0,
+      "w": 524.3,
+      "h": 449.1,
+      "cx": 538.5,
+      "cy": 351.5
+    },
+    "bbox_padded": {
+      "x0": 272,
+      "y0": 122,
+      "x1": 804,
+      "y1": 576,
+      "w": 532,
+      "h": 454
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.5991601943969727,
+      "pos_y": 0.434770792722702,
+      "pos_z": -5.023688793182373,
+      "ori_w": 0.06912244856357574,
+      "ori_x": -0.4955731928348541,
+      "ori_y": -0.037153661251068115,
+      "ori_z": -0.865013837814331
+    },
+    "quality": {
+      "area": 235463.1,
+      "coverage": 0.3992,
+      "aspect": 1.167
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "3_cam_az000_p20.png",
+    "crop_filename": "3_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": false,
+    "bbox_original": {
+      "x0": 398.1,
+      "y0": 259.2,
+      "x1": 628.0,
+      "y1": 404.7,
+      "w": 229.9,
+      "h": 145.6,
+      "cx": 513.0,
+      "cy": 332.0
+    },
+    "bbox_padded": {
+      "x0": 394,
+      "y0": 255,
+      "x1": 632,
+      "y1": 408,
+      "w": 238,
+      "h": 153
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.538534164428711,
+      "pos_y": 9.191728591918945,
+      "pos_z": -4.567874431610107,
+      "ori_w": 0.383573979139328,
+      "ori_x": -0.16271890699863434,
+      "ori_y": -0.019347909837961197,
+      "ori_z": -0.9088559746742249
+    },
+    "quality": {
+      "area": 33450.4,
+      "coverage": 0.0567,
+      "aspect": 1.58
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "3_cam_az036_p24.png",
+    "crop_filename": "3_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": false,
+    "bbox_original": {
+      "x0": 385.1,
+      "y0": 254.0,
+      "x1": 613.5,
+      "y1": 419.5,
+      "w": 228.4,
+      "h": 165.4,
+      "cx": 499.3,
+      "cy": 336.7
+    },
+    "bbox_padded": {
+      "x0": 381,
+      "y0": 250,
+      "x1": 617,
+      "y1": 423,
+      "w": 236,
+      "h": 173
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.393877625465393,
+      "pos_y": 10.436732292175293,
+      "pos_z": -4.168073654174805,
+      "ori_w": 0.6431738138198853,
+      "ori_x": -0.14596784114837646,
+      "ori_y": -0.0897085890173912,
+      "ori_z": -0.7463063597679138
+    },
+    "quality": {
+      "area": 37800.2,
+      "coverage": 0.0641,
+      "aspect": 1.38
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "3_cam_az072_p29.png",
+    "crop_filename": "3_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 371.7,
+      "y0": 239.3,
+      "x1": 681.3,
+      "y1": 467.8,
+      "w": 309.5,
+      "h": 228.5,
+      "cx": 526.5,
+      "cy": 353.5
+    },
+    "bbox_padded": {
+      "x0": 367,
+      "y0": 235,
+      "x1": 685,
+      "y1": 471,
+      "w": 318,
+      "h": 236
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.8812825679779053,
+      "pos_y": 7.70002555847168,
+      "pos_z": -4.188591957092285,
+      "ori_w": 0.8339083790779114,
+      "ori_x": -0.1057780385017395,
+      "ori_y": -0.17445382475852966,
+      "ori_z": -0.5128096342086792
+    },
+    "quality": {
+      "area": 70743.6,
+      "coverage": 0.1199,
+      "aspect": 1.355
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "3_cam_az108_p33.png",
+    "crop_filename": "3_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 320.8,
+      "y0": 225.9,
+      "x1": 669.7,
+      "y1": 498.4,
+      "w": 349.0,
+      "h": 272.4,
+      "cx": 495.2,
+      "cy": 362.2
+    },
+    "bbox_padded": {
+      "x0": 316,
+      "y0": 221,
+      "x1": 673,
+      "y1": 502,
+      "w": 357,
+      "h": 281
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.385495185852051,
+      "pos_y": 3.6298532485961914,
+      "pos_z": -4.437621593475342,
+      "ori_w": 0.9394882917404175,
+      "ori_x": -0.03104856051504612,
+      "ori_y": -0.24709104001522064,
+      "ori_z": -0.23525261878967285
+    },
+    "quality": {
+      "area": 95075.3,
+      "coverage": 0.1612,
+      "aspect": 1.28
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "3_cam_az144_p38.png",
+    "crop_filename": "3_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 344.2,
+      "y0": 202.1,
+      "x1": 715.8,
+      "y1": 512.2,
+      "w": 371.7,
+      "h": 310.2,
+      "cx": 530.0,
+      "cy": 357.1
+    },
+    "bbox_padded": {
+      "x0": 340,
+      "y0": 198,
+      "x1": 719,
+      "y1": 516,
+      "w": 379,
+      "h": 318
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.922170162200928,
+      "pos_y": -0.400167316198349,
+      "pos_z": -4.804585933685303,
+      "ori_w": 0.9471609592437744,
+      "ori_x": 0.06716620177030563,
+      "ori_y": -0.3081524074077606,
+      "ori_z": 0.058454480022192
+    },
+    "quality": {
+      "area": 115233.2,
+      "coverage": 0.1954,
+      "aspect": 1.198
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "3_cam_az180_p42.png",
+    "crop_filename": "3_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 289.2,
+      "y0": 171.3,
+      "x1": 736.7,
+      "y1": 576.0,
+      "w": 447.5,
+      "h": 404.7,
+      "cx": 512.9,
+      "cy": 373.6
+    },
+    "bbox_padded": {
+      "x0": 285,
+      "y0": 167,
+      "x1": 740,
+      "y1": 576,
+      "w": 455,
+      "h": 409
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.778456687927246,
+      "pos_y": -3.029449462890625,
+      "pos_z": -5.119336128234863,
+      "ori_w": 0.8628481030464172,
+      "ori_x": 0.18097080290317535,
+      "ori_y": -0.3286181092262268,
+      "ori_z": 0.33875197172164917
+    },
+    "quality": {
+      "area": 181103.3,
+      "coverage": 0.307,
+      "aspect": 1.106
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "3_cam_az216_p47.png",
+    "crop_filename": "3_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 271.4,
+      "y0": 170.3,
+      "x1": 699.6,
+      "y1": 540.1,
+      "w": 428.2,
+      "h": 369.8,
+      "cx": 485.5,
+      "cy": 355.2
+    },
+    "bbox_padded": {
+      "x0": 267,
+      "y0": 166,
+      "x1": 703,
+      "y1": 544,
+      "w": 436,
+      "h": 378
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.9055469632148743,
+      "pos_y": -3.644407033920288,
+      "pos_z": -5.289971351623535,
+      "ori_w": 0.692343533039093,
+      "ori_x": 0.30045977234840393,
+      "ori_y": -0.3145476281642914,
+      "ori_z": 0.5757118463516235
+    },
+    "quality": {
+      "area": 158348.4,
+      "coverage": 0.2685,
+      "aspect": 1.158
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "3_cam_az252_p51.png",
+    "crop_filename": "3_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 282.9,
+      "y0": 128.7,
+      "x1": 783.8,
+      "y1": 576.0,
+      "w": 500.9,
+      "h": 447.3,
+      "cx": 533.4,
+      "cy": 352.4
+    },
+    "bbox_padded": {
+      "x0": 278,
+      "y0": 124,
+      "x1": 787,
+      "y1": 576,
+      "w": 509,
+      "h": 452
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.4085508584976196,
+      "pos_y": -2.751354694366455,
+      "pos_z": -5.307522773742676,
+      "ori_w": 0.4608277976512909,
+      "ori_x": 0.4023865759372711,
+      "ori_y": -0.24859701097011566,
+      "ori_z": 0.7509475946426392
+    },
+    "quality": {
+      "area": 224052.6,
+      "coverage": 0.3799,
+      "aspect": 1.12
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "3_cam_az288_p56.png",
+    "crop_filename": "3_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 217.9,
+      "y0": 105.6,
+      "x1": 755.0,
+      "y1": 576.0,
+      "w": 537.1,
+      "h": 470.4,
+      "cx": 486.5,
+      "cy": 340.8
+    },
+    "bbox_padded": {
+      "x0": 213,
+      "y0": 101,
+      "x1": 759,
+      "y1": 576,
+      "w": 546,
+      "h": 475
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.4691808223724365,
+      "pos_y": -0.8852096796035767,
+      "pos_z": -5.18976354598999,
+      "ori_w": 0.18955625593662262,
+      "ori_x": 0.48225823044776917,
+      "ori_y": -0.14274533092975616,
+      "ori_z": 0.8432788252830505
+    },
+    "quality": {
+      "area": 252651.8,
+      "coverage": 0.4284,
+      "aspect": 1.142
+    }
+  },
+  {
+    "vehicle_label": "3",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "3_cam_az324_p60.png",
+    "crop_filename": "3_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 291.6,
+      "y0": 131.8,
+      "x1": 785.2,
+      "y1": 557.4,
+      "w": 493.6,
+      "h": 425.6,
+      "cx": 538.4,
+      "cy": 344.6
+    },
+    "bbox_padded": {
+      "x0": 287,
+      "y0": 127,
+      "x1": 789,
+      "y1": 561,
+      "w": 502,
+      "h": 434
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.3354134559631348,
+      "pos_y": 0.8902036547660828,
+      "pos_z": -5.030976295471191,
+      "ori_w": 0.08904056251049042,
+      "ori_x": -0.5126652717590332,
+      "ori_y": -5.116253305459395e-05,
+      "ori_z": -0.8539590835571289
+    },
+    "quality": {
+      "area": 210076.2,
+      "coverage": 0.3562,
+      "aspect": 1.16
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "4_cam_az000_p20.png",
+    "crop_filename": "4_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 308.5,
+      "y0": 187.2,
+      "x1": 716.4,
+      "y1": 474.0,
+      "w": 407.9,
+      "h": 286.8,
+      "cx": 512.5,
+      "cy": 330.6
+    },
+    "bbox_padded": {
+      "x0": 304,
+      "y0": 183,
+      "x1": 720,
+      "y1": 478,
+      "w": 416,
+      "h": 295
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.883739471435547,
+      "pos_y": 8.609109878540039,
+      "pos_z": -6.0154709815979,
+      "ori_w": 0.367047518491745,
+      "ori_x": -0.16681134700775146,
+      "ori_y": -0.07538209855556488,
+      "ori_z": -0.9120129346847534
+    },
+    "quality": {
+      "area": 116985.7,
+      "coverage": 0.1983,
+      "aspect": 1.422
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "4_cam_az036_p24.png",
+    "crop_filename": "4_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 240.2,
+      "y0": 168.0,
+      "x1": 733.3,
+      "y1": 491.2,
+      "w": 493.0,
+      "h": 323.2,
+      "cx": 486.8,
+      "cy": 329.6
+    },
+    "bbox_padded": {
+      "x0": 236,
+      "y0": 164,
+      "x1": 737,
+      "y1": 495,
+      "w": 501,
+      "h": 331
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.750665545463562,
+      "pos_y": 9.97846794128418,
+      "pos_z": -6.026162147521973,
+      "ori_w": 0.626984179019928,
+      "ori_x": -0.16793015599250793,
+      "ori_y": -0.14161217212677002,
+      "ori_z": -0.7474197149276733
+    },
+    "quality": {
+      "area": 159369.9,
+      "coverage": 0.2702,
+      "aspect": 1.526
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "4_cam_az072_p29.png",
+    "crop_filename": "4_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 265.4,
+      "y0": 131.6,
+      "x1": 856.8,
+      "y1": 576.0,
+      "w": 591.4,
+      "h": 444.4,
+      "cx": 561.1,
+      "cy": 353.8
+    },
+    "bbox_padded": {
+      "x0": 261,
+      "y0": 127,
+      "x1": 860,
+      "y1": 576,
+      "w": 599,
+      "h": 449
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.5644638538360596,
+      "pos_y": 7.321344375610352,
+      "pos_z": -5.946229934692383,
+      "ori_w": 0.8197087049484253,
+      "ori_x": -0.14327795803546906,
+      "ori_y": -0.2171783149242401,
+      "ori_z": -0.5102770328521729
+    },
+    "quality": {
+      "area": 262818.2,
+      "coverage": 0.4456,
+      "aspect": 1.331
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "4_cam_az108_p33.png",
+    "crop_filename": "4_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 110.1,
+      "y0": 102.8,
+      "x1": 798.6,
+      "y1": 576.0,
+      "w": 688.5,
+      "h": 473.2,
+      "cx": 454.4,
+      "cy": 339.4
+    },
+    "bbox_padded": {
+      "x0": 106,
+      "y0": 98,
+      "x1": 802,
+      "y1": 576,
+      "w": 696,
+      "h": 478
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.124427318572998,
+      "pos_y": 3.2796781063079834,
+      "pos_z": -5.8417181968688965,
+      "ori_w": 0.9298712015151978,
+      "ori_x": -0.08018409460783005,
+      "ori_y": -0.2768923342227936,
+      "ori_z": -0.2285621166229248
+    },
+    "quality": {
+      "area": 325798.2,
+      "coverage": 0.5524,
+      "aspect": 1.455
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "4_cam_az144_p38.png",
+    "crop_filename": "4_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 19.0,
+      "y0": 86.1,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1005.0,
+      "h": 489.9,
+      "cx": 521.5,
+      "cy": 331.1
+    },
+    "bbox_padded": {
+      "x0": 15,
+      "y0": 82,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1009,
+      "h": 494
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.714268207550049,
+      "pos_y": -0.771622359752655,
+      "pos_z": -5.746152400970459,
+      "ori_w": 0.9439210891723633,
+      "ori_x": 0.011534527875483036,
+      "ori_y": -0.3225073218345642,
+      "ori_z": 0.06977816671133041
+    },
+    "quality": {
+      "area": 492349.5,
+      "coverage": 0.8347,
+      "aspect": 2.051
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "4_cam_az180_p42.png",
+    "crop_filename": "4_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 62.3,
+      "y0": 39.1,
+      "x1": 973.4,
+      "y1": 576.0,
+      "w": 911.2,
+      "h": 536.9,
+      "cx": 517.9,
+      "cy": 307.5
+    },
+    "bbox_padded": {
+      "x0": 58,
+      "y0": 35,
+      "x1": 977,
+      "y1": 576,
+      "w": 919,
+      "h": 541
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.603968381881714,
+      "pos_y": -3.4457650184631348,
+      "pos_z": -5.688755989074707,
+      "ori_w": 0.8676618933677673,
+      "ori_x": 0.12442837655544281,
+      "ori_y": -0.3267361521720886,
+      "ori_z": 0.35344576835632324
+    },
+    "quality": {
+      "area": 489169.6,
+      "coverage": 0.8293,
+      "aspect": 1.697
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "4_cam_az216_p47.png",
+    "crop_filename": "4_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 17.2,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 558.8,
+      "cx": 512.0,
+      "cy": 296.6
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 13,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 563
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.7372337579727173,
+      "pos_y": -4.111109256744385,
+      "pos_z": -5.681710720062256,
+      "ori_w": 0.7060035467147827,
+      "ori_x": 0.24880291521549225,
+      "ori_y": -0.297314316034317,
+      "ori_z": 0.5926721692085266
+    },
+    "quality": {
+      "area": 572211.2,
+      "coverage": 0.9701,
+      "aspect": 1.832
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "4_cam_az252_p51.png",
+    "crop_filename": "4_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.5903167724609375,
+      "pos_y": -3.2539968490600586,
+      "pos_z": -5.709388256072998,
+      "ori_w": 0.4829922020435333,
+      "ori_x": 0.3605303466320038,
+      "ori_y": -0.21824248135089874,
+      "ori_z": 0.7675328254699707
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "4_cam_az288_p56.png",
+    "crop_filename": "4_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.676447629928589,
+      "pos_y": -1.399449348449707,
+      "pos_z": -5.757071018218994,
+      "ori_w": 0.21922381222248077,
+      "ori_x": 0.45426177978515625,
+      "ori_y": -0.10300996154546738,
+      "ori_z": 0.857307493686676
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "4",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "4_cam_az324_p60.png",
+    "crop_filename": "4_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.5661509037017822,
+      "pos_y": 0.38415536284446716,
+      "pos_z": -5.799361228942871,
+      "ori_w": 0.054483816027641296,
+      "ori_x": -0.5008024573326111,
+      "ori_y": -0.045094918459653854,
+      "ori_z": -0.8626673221588135
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "5_cam_az000_p20.png",
+    "crop_filename": "5_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 387.5,
+      "y0": 245.4,
+      "x1": 636.8,
+      "y1": 413.1,
+      "w": 249.4,
+      "h": 167.6,
+      "cx": 512.1,
+      "cy": 329.3
+    },
+    "bbox_padded": {
+      "x0": 383,
+      "y0": 241,
+      "x1": 640,
+      "y1": 417,
+      "w": 257,
+      "h": 176
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.635503768920898,
+      "pos_y": 8.605561256408691,
+      "pos_z": -5.4324774742126465,
+      "ori_w": 0.37417230010032654,
+      "ori_x": -0.17366914451122284,
+      "ori_y": -0.0713403970003128,
+      "ori_z": -0.9081545472145081
+    },
+    "quality": {
+      "area": 41807.6,
+      "coverage": 0.0709,
+      "aspect": 1.487
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "5_cam_az036_p24.png",
+    "crop_filename": "5_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 371.1,
+      "y0": 238.4,
+      "x1": 624.1,
+      "y1": 426.5,
+      "w": 253.0,
+      "h": 188.1,
+      "cx": 497.6,
+      "cy": 332.4
+    },
+    "bbox_padded": {
+      "x0": 367,
+      "y0": 234,
+      "x1": 628,
+      "y1": 430,
+      "w": 261,
+      "h": 196
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.4856575727462769,
+      "pos_y": 9.878660202026367,
+      "pos_z": -5.310315132141113,
+      "ori_w": 0.6335786581039429,
+      "ori_x": -0.17233750224113464,
+      "ori_y": -0.13559558987617493,
+      "ori_z": -0.7419512867927551
+    },
+    "quality": {
+      "area": 47589.3,
+      "coverage": 0.0807,
+      "aspect": 1.345
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "5_cam_az072_p29.png",
+    "crop_filename": "5_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 360.3,
+      "y0": 217.9,
+      "x1": 700.1,
+      "y1": 482.4,
+      "w": 339.8,
+      "h": 264.6,
+      "cx": 530.2,
+      "cy": 350.2
+    },
+    "bbox_padded": {
+      "x0": 356,
+      "y0": 213,
+      "x1": 704,
+      "y1": 486,
+      "w": 348,
+      "h": 273
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.791090726852417,
+      "pos_y": 7.149819850921631,
+      "pos_z": -5.147043704986572,
+      "ori_w": 0.8253194093704224,
+      "ori_x": -0.14466558396816254,
+      "ori_y": -0.2097623646259308,
+      "ori_z": -0.5039042234420776
+    },
+    "quality": {
+      "area": 89877.1,
+      "coverage": 0.1524,
+      "aspect": 1.285
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "5_cam_az108_p33.png",
+    "crop_filename": "5_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 304.1,
+      "y0": 201.2,
+      "x1": 686.1,
+      "y1": 516.8,
+      "w": 382.0,
+      "h": 315.6,
+      "cx": 495.1,
+      "cy": 359.0
+    },
+    "bbox_padded": {
+      "x0": 300,
+      "y0": 197,
+      "x1": 690,
+      "y1": 520,
+      "w": 390,
+      "h": 323
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.294356822967529,
+      "pos_y": 3.0736207962036133,
+      "pos_z": -5.014149188995361,
+      "ori_w": 0.9339830875396729,
+      "ori_x": -0.07843418419361115,
+      "ori_y": -0.26864805817604065,
+      "ori_z": -0.222152978181839
+    },
+    "quality": {
+      "area": 120559.2,
+      "coverage": 0.2044,
+      "aspect": 1.21
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "5_cam_az144_p38.png",
+    "crop_filename": "5_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 329.1,
+      "y0": 195.2,
+      "x1": 742.6,
+      "y1": 512.3,
+      "w": 413.5,
+      "h": 317.1,
+      "cx": 535.8,
+      "cy": 353.8
+    },
+    "bbox_padded": {
+      "x0": 325,
+      "y0": 191,
+      "x1": 746,
+      "y1": 516,
+      "w": 421,
+      "h": 325
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.828272342681885,
+      "pos_y": -0.9721325039863586,
+      "pos_z": -4.943133354187012,
+      "ori_w": 0.9462435245513916,
+      "ori_x": 0.016275011003017426,
+      "ori_y": -0.31413471698760986,
+      "ori_z": 0.07535025477409363
+    },
+    "quality": {
+      "area": 131120.8,
+      "coverage": 0.2223,
+      "aspect": 1.304
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "5_cam_az180_p42.png",
+    "crop_filename": "5_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 267.8,
+      "y0": 161.6,
+      "x1": 757.2,
+      "y1": 576.0,
+      "w": 489.4,
+      "h": 414.4,
+      "cx": 512.5,
+      "cy": 368.8
+    },
+    "bbox_padded": {
+      "x0": 263,
+      "y0": 157,
+      "x1": 761,
+      "y1": 576,
+      "w": 498,
+      "h": 419
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6816182136535645,
+      "pos_y": -3.6177899837493896,
+      "pos_z": -4.934700012207031,
+      "ori_w": 0.8678866028785706,
+      "ori_x": 0.13156232237815857,
+      "ori_y": -0.3188706338405609,
+      "ori_z": 0.3574712872505188
+    },
+    "quality": {
+      "area": 202807.4,
+      "coverage": 0.3438,
+      "aspect": 1.181
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "5_cam_az216_p47.png",
+    "crop_filename": "5_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 232.6,
+      "y0": 158.7,
+      "x1": 732.8,
+      "y1": 555.7,
+      "w": 500.2,
+      "h": 397.0,
+      "cx": 482.7,
+      "cy": 357.2
+    },
+    "bbox_padded": {
+      "x0": 228,
+      "y0": 154,
+      "x1": 736,
+      "y1": 559,
+      "w": 508,
+      "h": 405
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.8065518140792847,
+      "pos_y": -4.244447708129883,
+      "pos_z": -4.981536865234375,
+      "ori_w": 0.7041109204292297,
+      "ori_x": 0.2575305104255676,
+      "ori_y": -0.29055067896842957,
+      "ori_z": 0.5945469737052917
+    },
+    "quality": {
+      "area": 198579.4,
+      "coverage": 0.3367,
+      "aspect": 1.26
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "5_cam_az252_p51.png",
+    "crop_filename": "5_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 264.2,
+      "y0": 119.8,
+      "x1": 817.1,
+      "y1": 576.0,
+      "w": 552.9,
+      "h": 456.2,
+      "cx": 540.7,
+      "cy": 347.9
+    },
+    "bbox_padded": {
+      "x0": 260,
+      "y0": 115,
+      "x1": 821,
+      "y1": 576,
+      "w": 561,
+      "h": 461
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.508431315422058,
+      "pos_y": -3.355928897857666,
+      "pos_z": -5.0470147132873535,
+      "ori_w": 0.47900229692459106,
+      "ori_x": 0.3698177933692932,
+      "ori_y": -0.21308313310146332,
+      "ori_z": 0.7670639753341675
+    },
+    "quality": {
+      "area": 252233.0,
+      "coverage": 0.4276,
+      "aspect": 1.212
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "5_cam_az288_p56.png",
+    "crop_filename": "5_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 183.6,
+      "y0": 96.3,
+      "x1": 777.1,
+      "y1": 576.0,
+      "w": 593.4,
+      "h": 479.7,
+      "cx": 480.3,
+      "cy": 336.2
+    },
+    "bbox_padded": {
+      "x0": 179,
+      "y0": 92,
+      "x1": 781,
+      "y1": 576,
+      "w": 602,
+      "h": 484
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.568572998046875,
+      "pos_y": -1.4867304563522339,
+      "pos_z": -5.106144428253174,
+      "ori_w": 0.21342594921588898,
+      "ori_x": 0.4630240201950073,
+      "ori_y": -0.09976585954427719,
+      "ori_z": 0.8544617295265198
+    },
+    "quality": {
+      "area": 284702.0,
+      "coverage": 0.4827,
+      "aspect": 1.237
+    }
+  },
+  {
+    "vehicle_label": "5",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "5_cam_az324_p60.png",
+    "crop_filename": "5_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 255.1,
+      "y0": 96.8,
+      "x1": 829.2,
+      "y1": 576.0,
+      "w": 574.1,
+      "h": 479.2,
+      "cx": 542.2,
+      "cy": 336.4
+    },
+    "bbox_padded": {
+      "x0": 251,
+      "y0": 92,
+      "x1": 833,
+      "y1": 576,
+      "w": 582,
+      "h": 484
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.43363356590271,
+      "pos_y": 0.2953804135322571,
+      "pos_z": -5.138877868652344,
+      "ori_w": 0.06171712279319763,
+      "ori_x": -0.5080481767654419,
+      "ori_y": -0.04619019106030464,
+      "ori_z": -0.8578720688819885
+    },
+    "quality": {
+      "area": 275108.7,
+      "coverage": 0.4664,
+      "aspect": 1.198
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "6_cam_az000_p20.png",
+    "crop_filename": "6_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": false,
+    "bbox_original": {
+      "x0": 392.8,
+      "y0": 247.2,
+      "x1": 631.1,
+      "y1": 410.0,
+      "w": 238.3,
+      "h": 162.9,
+      "cx": 511.9,
+      "cy": 328.6
+    },
+    "bbox_padded": {
+      "x0": 388,
+      "y0": 243,
+      "x1": 635,
+      "y1": 414,
+      "w": 247,
+      "h": 171
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.605228424072266,
+      "pos_y": 8.677360534667969,
+      "pos_z": -5.344532489776611,
+      "ori_w": 0.3775753080844879,
+      "ori_x": -0.17059479653835297,
+      "ori_y": -0.07096090912818909,
+      "ori_z": -0.9073581695556641
+    },
+    "quality": {
+      "area": 38795.2,
+      "coverage": 0.0658,
+      "aspect": 1.464
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "6_cam_az036_p24.png",
+    "crop_filename": "6_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": false,
+    "bbox_original": {
+      "x0": 378.4,
+      "y0": 240.5,
+      "x1": 617.8,
+      "y1": 423.0,
+      "w": 239.4,
+      "h": 182.4,
+      "cx": 498.1,
+      "cy": 331.7
+    },
+    "bbox_padded": {
+      "x0": 374,
+      "y0": 236,
+      "x1": 621,
+      "y1": 427,
+      "w": 247,
+      "h": 191
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.4460536241531372,
+      "pos_y": 9.899337768554688,
+      "pos_z": -5.2497735023498535,
+      "ori_w": 0.6362416744232178,
+      "ori_x": -0.16888630390167236,
+      "ori_y": -0.1361365169286728,
+      "ori_z": -0.7403653264045715
+    },
+    "quality": {
+      "area": 43690.5,
+      "coverage": 0.0741,
+      "aspect": 1.312
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "6_cam_az072_p29.png",
+    "crop_filename": "6_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 365.0,
+      "y0": 219.7,
+      "x1": 690.1,
+      "y1": 477.7,
+      "w": 325.1,
+      "h": 258.0,
+      "cx": 527.5,
+      "cy": 348.7
+    },
+    "bbox_padded": {
+      "x0": 361,
+      "y0": 215,
+      "x1": 694,
+      "y1": 481,
+      "w": 333,
+      "h": 266
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.8118913173675537,
+      "pos_y": 7.132593631744385,
+      "pos_z": -5.121556282043457,
+      "ori_w": 0.8269127607345581,
+      "ori_x": -0.14110305905342102,
+      "ori_y": -0.2111225426197052,
+      "ori_z": -0.5017294883728027
+    },
+    "quality": {
+      "area": 83875.8,
+      "coverage": 0.1422,
+      "aspect": 1.26
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "6_cam_az108_p33.png",
+    "crop_filename": "6_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 312.7,
+      "y0": 204.1,
+      "x1": 678.0,
+      "y1": 509.6,
+      "w": 365.3,
+      "h": 305.5,
+      "cx": 495.3,
+      "cy": 356.9
+    },
+    "bbox_padded": {
+      "x0": 308,
+      "y0": 200,
+      "x1": 682,
+      "y1": 513,
+      "w": 374,
+      "h": 313
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.2867584228515625,
+      "pos_y": 3.0382802486419678,
+      "pos_z": -5.016536235809326,
+      "ori_w": 0.9343093037605286,
+      "ori_x": -0.07508257776498795,
+      "ori_y": -0.27059128880500793,
+      "ori_z": -0.21956562995910645
+    },
+    "quality": {
+      "area": 111599.2,
+      "coverage": 0.1892,
+      "aspect": 1.196
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "6_cam_az144_p38.png",
+    "crop_filename": "6_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 339.4,
+      "y0": 197.4,
+      "x1": 730.3,
+      "y1": 508.3,
+      "w": 391.0,
+      "h": 310.9,
+      "cx": 534.8,
+      "cy": 352.9
+    },
+    "bbox_padded": {
+      "x0": 335,
+      "y0": 193,
+      "x1": 734,
+      "y1": 512,
+      "w": 399,
+      "h": 319
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.79231595993042,
+      "pos_y": -1.0043303966522217,
+      "pos_z": -4.959753513336182,
+      "ori_w": 0.9452205896377563,
+      "ori_x": 0.01913655549287796,
+      "ori_y": -0.3163734972476959,
+      "ori_z": 0.07810037583112717
+    },
+    "quality": {
+      "area": 121530.8,
+      "coverage": 0.206,
+      "aspect": 1.257
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "6_cam_az180_p42.png",
+    "crop_filename": "6_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 276.8,
+      "y0": 165.0,
+      "x1": 746.4,
+      "y1": 576.0,
+      "w": 469.6,
+      "h": 411.0,
+      "cx": 511.6,
+      "cy": 370.5
+    },
+    "bbox_padded": {
+      "x0": 272,
+      "y0": 161,
+      "x1": 750,
+      "y1": 576,
+      "w": 478,
+      "h": 415
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6270105838775635,
+      "pos_y": -3.6347477436065674,
+      "pos_z": -4.952242851257324,
+      "ori_w": 0.8656205534934998,
+      "ori_x": 0.13364028930664062,
+      "ori_y": -0.321095734834671,
+      "ori_z": 0.36019277572631836
+    },
+    "quality": {
+      "area": 193005.6,
+      "coverage": 0.3272,
+      "aspect": 1.143
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "6_cam_az216_p47.png",
+    "crop_filename": "6_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 249.1,
+      "y0": 162.7,
+      "x1": 722.1,
+      "y1": 547.2,
+      "w": 473.0,
+      "h": 384.4,
+      "cx": 485.6,
+      "cy": 354.9
+    },
+    "bbox_padded": {
+      "x0": 245,
+      "y0": 158,
+      "x1": 726,
+      "y1": 551,
+      "w": 481,
+      "h": 393
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.7473894357681274,
+      "pos_y": -4.240854263305664,
+      "pos_z": -4.988523960113525,
+      "ori_w": 0.7008156776428223,
+      "ori_x": 0.25863656401634216,
+      "ori_y": -0.29243937134742737,
+      "ori_z": 0.5970290899276733
+    },
+    "quality": {
+      "area": 181868.5,
+      "coverage": 0.3083,
+      "aspect": 1.23
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "6_cam_az252_p51.png",
+    "crop_filename": "6_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 274.0,
+      "y0": 125.1,
+      "x1": 803.8,
+      "y1": 576.0,
+      "w": 529.7,
+      "h": 450.9,
+      "cx": 538.9,
+      "cy": 350.6
+    },
+    "bbox_padded": {
+      "x0": 270,
+      "y0": 121,
+      "x1": 807,
+      "y1": 576,
+      "w": 537,
+      "h": 455
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.561505913734436,
+      "pos_y": -3.335721492767334,
+      "pos_z": -5.039870738983154,
+      "ori_w": 0.4750463664531708,
+      "ori_x": 0.36980003118515015,
+      "ori_y": -0.21441426873207092,
+      "ori_z": 0.7691588997840881
+    },
+    "quality": {
+      "area": 238886.8,
+      "coverage": 0.405,
+      "aspect": 1.175
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "6_cam_az288_p56.png",
+    "crop_filename": "6_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 200.6,
+      "y0": 102.7,
+      "x1": 766.9,
+      "y1": 576.0,
+      "w": 566.2,
+      "h": 473.3,
+      "cx": 483.7,
+      "cy": 339.3
+    },
+    "bbox_padded": {
+      "x0": 196,
+      "y0": 98,
+      "x1": 770,
+      "y1": 576,
+      "w": 574,
+      "h": 478
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.6086196899414062,
+      "pos_y": -1.4588444232940674,
+      "pos_z": -5.086617946624756,
+      "ori_w": 0.20923134684562683,
+      "ori_x": 0.46186670660972595,
+      "ori_y": -0.10034289956092834,
+      "ori_z": 0.8560564517974854
+    },
+    "quality": {
+      "area": 268029.8,
+      "coverage": 0.4544,
+      "aspect": 1.196
+    }
+  },
+  {
+    "vehicle_label": "6",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "6_cam_az324_p60.png",
+    "crop_filename": "6_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 272.2,
+      "y0": 103.1,
+      "x1": 814.8,
+      "y1": 568.1,
+      "w": 542.6,
+      "h": 465.0,
+      "cx": 543.5,
+      "cy": 335.6
+    },
+    "bbox_padded": {
+      "x0": 268,
+      "y0": 99,
+      "x1": 818,
+      "y1": 572,
+      "w": 550,
+      "h": 473
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.4611928462982178,
+      "pos_y": 0.3223858177661896,
+      "pos_z": -5.112761497497559,
+      "ori_w": 0.06568099558353424,
+      "ori_x": -0.5058073401451111,
+      "ori_y": -0.04638839140534401,
+      "ori_z": -0.8588905930519104
+    },
+    "quality": {
+      "area": 252309.0,
+      "coverage": 0.4278,
+      "aspect": 1.167
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "7_cam_az000_p20.png",
+    "crop_filename": "7_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 365.5,
+      "y0": 246.7,
+      "x1": 659.0,
+      "y1": 420.3,
+      "w": 293.5,
+      "h": 173.6,
+      "cx": 512.2,
+      "cy": 333.5
+    },
+    "bbox_padded": {
+      "x0": 361,
+      "y0": 242,
+      "x1": 663,
+      "y1": 424,
+      "w": 302,
+      "h": 182
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.799715042114258,
+      "pos_y": 8.806541442871094,
+      "pos_z": -4.8663434982299805,
+      "ori_w": 0.376259982585907,
+      "ori_x": -0.15391458570957184,
+      "ori_y": -0.0609586201608181,
+      "ori_z": -0.9116045236587524
+    },
+    "quality": {
+      "area": 50951.6,
+      "coverage": 0.0864,
+      "aspect": 1.691
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "7_cam_az036_p24.png",
+    "crop_filename": "7_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 333.4,
+      "y0": 239.9,
+      "x1": 643.7,
+      "y1": 434.2,
+      "w": 310.2,
+      "h": 194.3,
+      "cx": 488.6,
+      "cy": 337.0
+    },
+    "bbox_padded": {
+      "x0": 329,
+      "y0": 235,
+      "x1": 647,
+      "y1": 438,
+      "w": 318,
+      "h": 203
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.648154854774475,
+      "pos_y": 10.075201988220215,
+      "pos_z": -4.90737771987915,
+      "ori_w": 0.6346092224121094,
+      "ori_x": -0.15045952796936035,
+      "ori_y": -0.13185660541057587,
+      "ori_z": -0.7464897036552429
+    },
+    "quality": {
+      "area": 60291.3,
+      "coverage": 0.1022,
+      "aspect": 1.597
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "7_cam_az072_p29.png",
+    "crop_filename": "7_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 326.0,
+      "y0": 213.0,
+      "x1": 727.9,
+      "y1": 515.3,
+      "w": 401.9,
+      "h": 302.3,
+      "cx": 526.9,
+      "cy": 364.2
+    },
+    "bbox_padded": {
+      "x0": 322,
+      "y0": 209,
+      "x1": 731,
+      "y1": 519,
+      "w": 409,
+      "h": 310
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6285736560821533,
+      "pos_y": 7.342767238616943,
+      "pos_z": -4.992439270019531,
+      "ori_w": 0.8246922492980957,
+      "ori_x": -0.12289037555456161,
+      "ori_y": -0.2129286229610443,
+      "ori_z": -0.5093545913696289
+    },
+    "quality": {
+      "area": 121494.4,
+      "coverage": 0.206,
+      "aspect": 1.329
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "7_cam_az108_p33.png",
+    "crop_filename": "7_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 245.3,
+      "y0": 197.1,
+      "x1": 706.7,
+      "y1": 566.2,
+      "w": 461.4,
+      "h": 369.1,
+      "cx": 476.0,
+      "cy": 381.6
+    },
+    "bbox_padded": {
+      "x0": 241,
+      "y0": 193,
+      "x1": 710,
+      "y1": 570,
+      "w": 469,
+      "h": 377
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.130856037139893,
+      "pos_y": 3.2646210193634033,
+      "pos_z": -5.074328422546387,
+      "ori_w": 0.9312598705291748,
+      "ori_x": -0.05885674059391022,
+      "ori_y": -0.27827194333076477,
+      "ori_z": -0.22771835327148438
+    },
+    "quality": {
+      "area": 170302.7,
+      "coverage": 0.2887,
+      "aspect": 1.25
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "7_cam_az144_p38.png",
+    "crop_filename": "7_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 261.5,
+      "y0": 184.9,
+      "x1": 794.5,
+      "y1": 572.0,
+      "w": 533.0,
+      "h": 387.1,
+      "cx": 528.0,
+      "cy": 378.4
+    },
+    "bbox_padded": {
+      "x0": 257,
+      "y0": 180,
+      "x1": 798,
+      "y1": 576,
+      "w": 541,
+      "h": 396
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.663271427154541,
+      "pos_y": -0.7811880707740784,
+      "pos_z": -5.130825519561768,
+      "ori_w": 0.9411438703536987,
+      "ori_x": 0.031735859811306,
+      "ori_y": -0.32908979058265686,
+      "ori_z": 0.07029204070568085
+    },
+    "quality": {
+      "area": 206324.3,
+      "coverage": 0.3498,
+      "aspect": 1.377
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "7_cam_az180_p42.png",
+    "crop_filename": "7_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 215.9,
+      "y0": 148.7,
+      "x1": 809.6,
+      "y1": 576.0,
+      "w": 593.7,
+      "h": 427.3,
+      "cx": 512.8,
+      "cy": 362.3
+    },
+    "bbox_padded": {
+      "x0": 211,
+      "y0": 144,
+      "x1": 813,
+      "y1": 576,
+      "w": 602,
+      "h": 432
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.5153098106384277,
+      "pos_y": -3.425710439682007,
+      "pos_z": -5.152303218841553,
+      "ori_w": 0.8606694340705872,
+      "ori_x": 0.14153647422790527,
+      "ori_y": -0.33758047223091125,
+      "ori_z": 0.3539137542247772
+    },
+    "quality": {
+      "area": 253688.0,
+      "coverage": 0.4301,
+      "aspect": 1.389
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "7_cam_az216_p47.png",
+    "crop_filename": "7_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 171.8,
+      "y0": 144.8,
+      "x1": 811.5,
+      "y1": 576.0,
+      "w": 639.7,
+      "h": 431.2,
+      "cx": 491.6,
+      "cy": 360.4
+    },
+    "bbox_padded": {
+      "x0": 167,
+      "y0": 140,
+      "x1": 815,
+      "y1": 576,
+      "w": 648,
+      "h": 436
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.6395138502120972,
+      "pos_y": -4.050593376159668,
+      "pos_z": -5.137516021728516,
+      "ori_w": 0.6951011419296265,
+      "ori_x": 0.26117295026779175,
+      "ori_y": -0.31099733710289,
+      "ori_z": 0.593214750289917
+    },
+    "quality": {
+      "area": 275838.6,
+      "coverage": 0.4677,
+      "aspect": 1.484
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "7_cam_az252_p51.png",
+    "crop_filename": "7_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 234.4,
+      "y0": 106.1,
+      "x1": 896.4,
+      "y1": 576.0,
+      "w": 661.9,
+      "h": 469.9,
+      "cx": 565.4,
+      "cy": 341.1
+    },
+    "bbox_padded": {
+      "x0": 230,
+      "y0": 102,
+      "x1": 900,
+      "y1": 576,
+      "w": 670,
+      "h": 474
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6755688190460205,
+      "pos_y": -3.160524606704712,
+      "pos_z": -5.104806900024414,
+      "ori_w": 0.4691806435585022,
+      "ori_x": 0.3669891655445099,
+      "ori_y": -0.23326732218265533,
+      "ori_z": 0.7686187624931335
+    },
+    "quality": {
+      "area": 311073.8,
+      "coverage": 0.5274,
+      "aspect": 1.409
+    }
+  },
+  {
+    "vehicle_label": "7",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "7_cam_az288_p56.png",
+    "crop_filename": "7_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 133.1,
+      "y0": 74.1,
+      "x1": 828.6,
+      "y1": 576.0,
+      "w": 695.5,
+      "h": 501.9,
+      "cx": 480.8,
+      "cy": 325.1
+    },
+    "bbox_padded": {
+      "x0": 129,
+      "y0": 70,
+      "x1": 832,
+      "y1": 576,
+      "w": 703,
+      "h": 506
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.735243797302246,
+      "pos_y": -1.2904890775680542,
+      "pos_z": -5.067992687225342,
+      "ori_w": 0.20367345213890076,
+      "ori_x": 0.45425108075141907,
+      "ori_y": -0.11763030290603638,
+      "ori_z": 0.8592649102210999
+    },
+    "quality": {
+      "area": 349071.5,
+      "coverage": 0.5918,
+      "aspect": 1.386
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "8_cam_az000_p20.png",
+    "crop_filename": "8_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 358.6,
+      "y0": 235.2,
+      "x1": 666.3,
+      "y1": 425.3,
+      "w": 307.7,
+      "h": 190.1,
+      "cx": 512.4,
+      "cy": 330.3
+    },
+    "bbox_padded": {
+      "x0": 354,
+      "y0": 231,
+      "x1": 670,
+      "y1": 429,
+      "w": 316,
+      "h": 198
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.815759658813477,
+      "pos_y": 8.711566925048828,
+      "pos_z": -5.168105602264404,
+      "ori_w": 0.3736102283000946,
+      "ori_x": -0.15803685784339905,
+      "ori_y": -0.0655260756611824,
+      "ori_z": -0.9116721153259277
+    },
+    "quality": {
+      "area": 58493.8,
+      "coverage": 0.0992,
+      "aspect": 1.619
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "8_cam_az036_p24.png",
+    "crop_filename": "8_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 319.3,
+      "y0": 226.3,
+      "x1": 649.9,
+      "y1": 439.5,
+      "w": 330.5,
+      "h": 213.3,
+      "cx": 484.6,
+      "cy": 332.9
+    },
+    "bbox_padded": {
+      "x0": 315,
+      "y0": 222,
+      "x1": 653,
+      "y1": 443,
+      "w": 338,
+      "h": 221
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6691702604293823,
+      "pos_y": 10.008235931396484,
+      "pos_z": -5.1981353759765625,
+      "ori_w": 0.63243567943573,
+      "ori_x": -0.15599529445171356,
+      "ori_y": -0.1349366456270218,
+      "ori_z": -0.7466476559638977
+    },
+    "quality": {
+      "area": 70483.9,
+      "coverage": 0.1195,
+      "aspect": 1.551
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "8_cam_az072_p29.png",
+    "crop_filename": "8_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 312.7,
+      "y0": 198.6,
+      "x1": 738.0,
+      "y1": 525.5,
+      "w": 425.3,
+      "h": 326.9,
+      "cx": 525.3,
+      "cy": 362.0
+    },
+    "bbox_padded": {
+      "x0": 308,
+      "y0": 194,
+      "x1": 742,
+      "y1": 529,
+      "w": 434,
+      "h": 335
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.618607759475708,
+      "pos_y": 7.296101093292236,
+      "pos_z": -5.230154991149902,
+      "ori_w": 0.8233062028884888,
+      "ori_x": -0.12930822372436523,
+      "ori_y": -0.21425582468509674,
+      "ori_z": -0.5094513893127441
+    },
+    "quality": {
+      "area": 139030.6,
+      "coverage": 0.2357,
+      "aspect": 1.301
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "8_cam_az108_p33.png",
+    "crop_filename": "8_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 219.0,
+      "y0": 181.3,
+      "x1": 714.9,
+      "y1": 576.0,
+      "w": 495.9,
+      "h": 394.7,
+      "cx": 466.9,
+      "cy": 378.7
+    },
+    "bbox_padded": {
+      "x0": 215,
+      "y0": 177,
+      "x1": 718,
+      "y1": 576,
+      "w": 503,
+      "h": 399
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.137292385101318,
+      "pos_y": 3.2273032665252686,
+      "pos_z": -5.252819538116455,
+      "ori_w": 0.9309455156326294,
+      "ori_x": -0.06553211063146591,
+      "ori_y": -0.27780288457870483,
+      "ori_z": -0.22775325179100037
+    },
+    "quality": {
+      "area": 195731.7,
+      "coverage": 0.3318,
+      "aspect": 1.256
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "8_cam_az144_p38.png",
+    "crop_filename": "8_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 224.4,
+      "y0": 171.1,
+      "x1": 820.2,
+      "y1": 576.0,
+      "w": 595.8,
+      "h": 404.9,
+      "cx": 522.3,
+      "cy": 373.6
+    },
+    "bbox_padded": {
+      "x0": 220,
+      "y0": 167,
+      "x1": 824,
+      "y1": 576,
+      "w": 604,
+      "h": 409
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.6859307289123535,
+      "pos_y": -0.8207327723503113,
+      "pos_z": -5.261509895324707,
+      "ori_w": 0.9420713186264038,
+      "ori_x": 0.025453396141529083,
+      "ori_y": -0.32695797085762024,
+      "ori_z": 0.07037253677845001
+    },
+    "quality": {
+      "area": 241239.4,
+      "coverage": 0.409,
+      "aspect": 1.471
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "8_cam_az180_p42.png",
+    "crop_filename": "8_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 191.1,
+      "y0": 133.7,
+      "x1": 835.9,
+      "y1": 576.0,
+      "w": 644.8,
+      "h": 442.3,
+      "cx": 513.5,
+      "cy": 354.9
+    },
+    "bbox_padded": {
+      "x0": 187,
+      "y0": 129,
+      "x1": 839,
+      "y1": 576,
+      "w": 652,
+      "h": 447
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.5485422611236572,
+      "pos_y": -3.473893404006958,
+      "pos_z": -5.258575916290283,
+      "ori_w": 0.862850546836853,
+      "ori_x": 0.13625667989253998,
+      "ori_y": -0.33408182859420776,
+      "ori_z": 0.3539949059486389
+    },
+    "quality": {
+      "area": 285195.0,
+      "coverage": 0.4835,
+      "aspect": 1.458
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "8_cam_az216_p47.png",
+    "crop_filename": "8_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 132.6,
+      "y0": 128.0,
+      "x1": 863.4,
+      "y1": 576.0,
+      "w": 730.8,
+      "h": 448.0,
+      "cx": 498.0,
+      "cy": 352.0
+    },
+    "bbox_padded": {
+      "x0": 128,
+      "y0": 124,
+      "x1": 867,
+      "y1": 576,
+      "w": 739,
+      "h": 452
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.6752052903175354,
+      "pos_y": -4.110050678253174,
+      "pos_z": -5.2468085289001465,
+      "ori_w": 0.6984443664550781,
+      "ori_x": 0.2574032247066498,
+      "ori_y": -0.3065823018550873,
+      "ori_z": 0.5932338237762451
+    },
+    "quality": {
+      "area": 327398.4,
+      "coverage": 0.5551,
+      "aspect": 1.631
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "8_cam_az252_p51.png",
+    "crop_filename": "8_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 219.5,
+      "y0": 85.8,
+      "x1": 946.5,
+      "y1": 576.0,
+      "w": 727.0,
+      "h": 490.2,
+      "cx": 583.0,
+      "cy": 330.9
+    },
+    "bbox_padded": {
+      "x0": 215,
+      "y0": 81,
+      "x1": 950,
+      "y1": 576,
+      "w": 735,
+      "h": 495
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.643486499786377,
+      "pos_y": -3.22891902923584,
+      "pos_z": -5.233590602874756,
+      "ori_w": 0.47338011860847473,
+      "ori_x": 0.3650815486907959,
+      "ori_y": -0.2284131944179535,
+      "ori_z": 0.7684101462364197
+    },
+    "quality": {
+      "area": 356375.4,
+      "coverage": 0.6042,
+      "aspect": 1.483
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "8_cam_az288_p56.png",
+    "crop_filename": "8_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 103.6,
+      "y0": 49.3,
+      "x1": 861.4,
+      "y1": 576.0,
+      "w": 757.8,
+      "h": 526.7,
+      "cx": 482.5,
+      "cy": 312.6
+    },
+    "bbox_padded": {
+      "x0": 99,
+      "y0": 45,
+      "x1": 865,
+      "y1": 576,
+      "w": 766,
+      "h": 531
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.710681200027466,
+      "pos_y": -1.3628281354904175,
+      "pos_z": -5.223608016967773,
+      "ori_w": 0.2083771824836731,
+      "ori_x": 0.4543653130531311,
+      "ori_y": -0.11289355903863907,
+      "ori_z": 0.8587118983268738
+    },
+    "quality": {
+      "area": 399133.3,
+      "coverage": 0.6767,
+      "aspect": 1.439
+    }
+  },
+  {
+    "vehicle_label": "8",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "8_cam_az324_p60.png",
+    "crop_filename": "8_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 173.1,
+      "y0": 47.1,
+      "x1": 961.1,
+      "y1": 576.0,
+      "w": 788.1,
+      "h": 528.9,
+      "cx": 567.1,
+      "cy": 311.6
+    },
+    "bbox_padded": {
+      "x0": 169,
+      "y0": 43,
+      "x1": 965,
+      "y1": 576,
+      "w": 796,
+      "h": 533
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.5822410583496094,
+      "pos_y": 0.4200586974620819,
+      "pos_z": -5.2194504737854,
+      "ori_w": 0.06537846475839615,
+      "ori_x": -0.49648651480674744,
+      "ori_y": -0.03641190007328987,
+      "ori_z": -0.8648126721382141
+    },
+    "quality": {
+      "area": 416773.2,
+      "coverage": 0.7066,
+      "aspect": 1.49
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "10_cam_az000_p20.png",
+    "crop_filename": "10_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 315.8,
+      "y0": 165.8,
+      "x1": 710.8,
+      "y1": 463.6,
+      "w": 395.0,
+      "h": 297.8,
+      "cx": 513.3,
+      "cy": 314.7
+    },
+    "bbox_padded": {
+      "x0": 311,
+      "y0": 161,
+      "x1": 714,
+      "y1": 467,
+      "w": 403,
+      "h": 306
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.748891830444336,
+      "pos_y": 8.836716651916504,
+      "pos_z": -6.23248291015625,
+      "ori_w": 0.3754117488861084,
+      "ori_x": -0.15922659635543823,
+      "ori_y": -0.05747174099087715,
+      "ori_z": -0.9112682938575745
+    },
+    "quality": {
+      "area": 117631.0,
+      "coverage": 0.1994,
+      "aspect": 1.326
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "10_cam_az036_p24.png",
+    "crop_filename": "10_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 258.6,
+      "y0": 141.4,
+      "x1": 739.9,
+      "y1": 480.8,
+      "w": 481.3,
+      "h": 339.3,
+      "cx": 499.2,
+      "cy": 311.1
+    },
+    "bbox_padded": {
+      "x0": 254,
+      "y0": 137,
+      "x1": 743,
+      "y1": 484,
+      "w": 489,
+      "h": 347
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.601240873336792,
+      "pos_y": 10.126921653747559,
+      "pos_z": -6.182878494262695,
+      "ori_w": 0.6344373226165771,
+      "ori_x": -0.1545964628458023,
+      "ori_y": -0.1269533634185791,
+      "ori_z": -0.7466405034065247
+    },
+    "quality": {
+      "area": 163353.2,
+      "coverage": 0.277,
+      "aspect": 1.418
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "10_cam_az072_p29.png",
+    "crop_filename": "10_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 279.5,
+      "y0": 100.9,
+      "x1": 865.7,
+      "y1": 576.0,
+      "w": 586.3,
+      "h": 475.1,
+      "cx": 572.6,
+      "cy": 338.5
+    },
+    "bbox_padded": {
+      "x0": 275,
+      "y0": 96,
+      "x1": 869,
+      "y1": 576,
+      "w": 594,
+      "h": 480
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6843819618225098,
+      "pos_y": 7.410520553588867,
+      "pos_z": -6.208539962768555,
+      "ori_w": 0.825344443321228,
+      "ori_x": -0.125495046377182,
+      "ori_y": -0.20713938772678375,
+      "ori_z": -0.5100498199462891
+    },
+    "quality": {
+      "area": 278503.6,
+      "coverage": 0.4722,
+      "aspect": 1.234
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "10_cam_az108_p33.png",
+    "crop_filename": "10_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 133.1,
+      "y0": 67.8,
+      "x1": 805.0,
+      "y1": 576.0,
+      "w": 671.9,
+      "h": 508.2,
+      "cx": 469.0,
+      "cy": 321.9
+    },
+    "bbox_padded": {
+      "x0": 129,
+      "y0": 63,
+      "x1": 809,
+      "y1": 576,
+      "w": 680,
+      "h": 513
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.1998162269592285,
+      "pos_y": 3.3400826454162598,
+      "pos_z": -6.26793098449707,
+      "ori_w": 0.9326706528663635,
+      "ori_x": -0.05971825495362282,
+      "ori_y": -0.27221181988716125,
+      "ori_z": -0.22904136776924133
+    },
+    "quality": {
+      "area": 341459.6,
+      "coverage": 0.5789,
+      "aspect": 1.322
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "10_cam_az144_p38.png",
+    "crop_filename": "10_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 42.2,
+      "y0": 25.2,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 981.8,
+      "h": 550.8,
+      "cx": 533.1,
+      "cy": 300.6
+    },
+    "bbox_padded": {
+      "x0": 38,
+      "y0": 21,
+      "x1": 1024,
+      "y1": 576,
+      "w": 986,
+      "h": 555
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.745211124420166,
+      "pos_y": -0.7069856524467468,
+      "pos_z": -6.338430881500244,
+      "ori_w": 0.9432231187820435,
+      "ori_x": 0.03264014795422554,
+      "ori_y": -0.32341092824935913,
+      "ori_z": 0.06833814084529877
+    },
+    "quality": {
+      "area": 540775.4,
+      "coverage": 0.9168,
+      "aspect": 1.782
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "10_cam_az180_p42.png",
+    "crop_filename": "10_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 49.8,
+      "y0": 0.0,
+      "x1": 979.7,
+      "y1": 576.0,
+      "w": 929.9,
+      "h": 576.0,
+      "cx": 514.7,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 45,
+      "y0": 0,
+      "x1": 983,
+      "y1": 576,
+      "w": 938,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6056911945343018,
+      "pos_y": -3.357893466949463,
+      "pos_z": -6.391745090484619,
+      "ori_w": 0.8631171584129333,
+      "ori_x": 0.14408844709396362,
+      "ori_y": -0.3328540325164795,
+      "ori_z": 0.3513908088207245
+    },
+    "quality": {
+      "area": 535622.4,
+      "coverage": 0.9081,
+      "aspect": 1.614
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "10_cam_az216_p47.png",
+    "crop_filename": "10_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.7318359017372131,
+      "pos_y": -3.9914355278015137,
+      "pos_z": -6.413639068603516,
+      "ori_w": 0.6976262331008911,
+      "ori_x": 0.26506492495536804,
+      "ori_y": -0.307716965675354,
+      "ori_z": 0.590227484703064
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "10_cam_az252_p51.png",
+    "crop_filename": "10_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.5861575603485107,
+      "pos_y": -3.1083898544311523,
+      "pos_z": -6.407620429992676,
+      "ori_w": 0.47138750553131104,
+      "ori_x": 0.3718431890010834,
+      "ori_y": -0.23171894252300262,
+      "ori_z": 0.7653971314430237
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "10_cam_az288_p56.png",
+    "crop_filename": "10_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.6518614292144775,
+      "pos_y": -1.241623878479004,
+      "pos_z": -6.380042552947998,
+      "ori_w": 0.20522093772888184,
+      "ori_x": 0.4595623016357422,
+      "ori_y": -0.11794315278530121,
+      "ori_z": 0.8560235500335693
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "10",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "10_cam_az324_p60.png",
+    "crop_filename": "10_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.5219929218292236,
+      "pos_y": 0.5408985614776611,
+      "pos_z": -6.3492631912231445,
+      "ori_w": 0.0694676861166954,
+      "ori_x": -0.49968287348747253,
+      "ori_y": -0.03016158565878868,
+      "ori_z": -0.8628913760185242
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "11_cam_az000_p20.png",
+    "crop_filename": "11_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 333.4,
+      "y0": 211.0,
+      "x1": 696.5,
+      "y1": 450.8,
+      "w": 363.1,
+      "h": 239.9,
+      "cx": 515.0,
+      "cy": 330.9
+    },
+    "bbox_padded": {
+      "x0": 329,
+      "y0": 207,
+      "x1": 700,
+      "y1": 454,
+      "w": 371,
+      "h": 247
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.707684516906738,
+      "pos_y": 9.050251007080078,
+      "pos_z": -5.253781318664551,
+      "ori_w": 0.3762418031692505,
+      "ori_x": -0.1575356423854828,
+      "ori_y": -0.029298193752765656,
+      "ori_z": -0.9125602841377258
+    },
+    "quality": {
+      "area": 87071.4,
+      "coverage": 0.1476,
+      "aspect": 1.514
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "11_cam_az036_p24.png",
+    "crop_filename": "11_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 281.8,
+      "y0": 196.3,
+      "x1": 700.9,
+      "y1": 470.2,
+      "w": 419.1,
+      "h": 273.8,
+      "cx": 491.4,
+      "cy": 333.2
+    },
+    "bbox_padded": {
+      "x0": 277,
+      "y0": 192,
+      "x1": 704,
+      "y1": 474,
+      "w": 427,
+      "h": 282
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.573500156402588,
+      "pos_y": 10.391436576843262,
+      "pos_z": -5.007536888122559,
+      "ori_w": 0.6363357901573181,
+      "ori_x": -0.14486388862133026,
+      "ori_y": -0.10083663463592529,
+      "ori_z": -0.7509481906890869
+    },
+    "quality": {
+      "area": 114791.5,
+      "coverage": 0.1946,
+      "aspect": 1.53
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "11_cam_az072_p29.png",
+    "crop_filename": "11_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 294.2,
+      "y0": 169.0,
+      "x1": 807.4,
+      "y1": 567.1,
+      "w": 513.2,
+      "h": 398.1,
+      "cx": 550.8,
+      "cy": 368.0
+    },
+    "bbox_padded": {
+      "x0": 290,
+      "y0": 165,
+      "x1": 811,
+      "y1": 571,
+      "w": 521,
+      "h": 406
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.735199213027954,
+      "pos_y": 7.721330642700195,
+      "pos_z": -5.081985950469971,
+      "ori_w": 0.8280810117721558,
+      "ori_x": -0.10894199460744858,
+      "ori_y": -0.1856888085603714,
+      "ori_z": -0.5176225304603577
+    },
+    "quality": {
+      "area": 204304.9,
+      "coverage": 0.3464,
+      "aspect": 1.289
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "11_cam_az108_p33.png",
+    "crop_filename": "11_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 170.9,
+      "y0": 145.7,
+      "x1": 763.4,
+      "y1": 576.0,
+      "w": 592.4,
+      "h": 430.3,
+      "cx": 467.1,
+      "cy": 360.9
+    },
+    "bbox_padded": {
+      "x0": 166,
+      "y0": 141,
+      "x1": 767,
+      "y1": 576,
+      "w": 601,
+      "h": 435
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.286614894866943,
+      "pos_y": 3.6794283390045166,
+      "pos_z": -5.31156063079834,
+      "ori_w": 0.9353550672531128,
+      "ori_x": -0.038118936121463776,
+      "ori_y": -0.2575041353702545,
+      "ori_z": -0.23947758972644806
+    },
+    "quality": {
+      "area": 254952.8,
+      "coverage": 0.4323,
+      "aspect": 1.377
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "11_cam_az144_p38.png",
+    "crop_filename": "11_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 131.8,
+      "y0": 104.9,
+      "x1": 937.0,
+      "y1": 576.0,
+      "w": 805.2,
+      "h": 471.1,
+      "cx": 534.4,
+      "cy": 340.4
+    },
+    "bbox_padded": {
+      "x0": 127,
+      "y0": 100,
+      "x1": 941,
+      "y1": 576,
+      "w": 814,
+      "h": 476
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.868552207946777,
+      "pos_y": -0.3615981936454773,
+      "pos_z": -5.604351997375488,
+      "ori_w": 0.9451334476470947,
+      "ori_x": 0.05691162124276161,
+      "ori_y": -0.31685441732406616,
+      "ori_z": 0.05556220933794975
+    },
+    "quality": {
+      "area": 379329.7,
+      "coverage": 0.6431,
+      "aspect": 1.709
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "11_cam_az180_p42.png",
+    "crop_filename": "11_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 125.3,
+      "y0": 61.8,
+      "x1": 916.1,
+      "y1": 576.0,
+      "w": 790.8,
+      "h": 514.2,
+      "cx": 520.7,
+      "cy": 318.9
+    },
+    "bbox_padded": {
+      "x0": 121,
+      "y0": 57,
+      "x1": 920,
+      "y1": 576,
+      "w": 799,
+      "h": 519
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.753445863723755,
+      "pos_y": -3.022463083267212,
+      "pos_z": -5.8363494873046875,
+      "ori_w": 0.8633536696434021,
+      "ori_x": 0.16866539418697357,
+      "ori_y": -0.3349688947200775,
+      "ori_z": 0.33759185671806335
+    },
+    "quality": {
+      "area": 406629.4,
+      "coverage": 0.6894,
+      "aspect": 1.538
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "11_cam_az216_p47.png",
+    "crop_filename": "11_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 46.1,
+      "x1": 984.1,
+      "y1": 576.0,
+      "w": 984.1,
+      "h": 529.9,
+      "cx": 492.0,
+      "cy": 311.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 42,
+      "x1": 988,
+      "y1": 576,
+      "w": 988,
+      "h": 534
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.8860381245613098,
+      "pos_y": -3.676234006881714,
+      "pos_z": -5.943380355834961,
+      "ori_w": 0.6954814791679382,
+      "ori_x": 0.28742942214012146,
+      "ori_y": -0.3181418776512146,
+      "ori_z": 0.5766069889068604
+    },
+    "quality": {
+      "area": 521474.6,
+      "coverage": 0.8841,
+      "aspect": 1.857
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "11_cam_az252_p51.png",
+    "crop_filename": "11_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 119.2,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 904.8,
+      "h": 576.0,
+      "cx": 571.6,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 115,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 909,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.4393014907836914,
+      "pos_y": -2.8127689361572266,
+      "pos_z": -5.932273864746094,
+      "ori_w": 0.46654844284057617,
+      "ori_x": 0.39003434777259827,
+      "ori_y": -0.24926695227622986,
+      "ori_z": 0.7537053227424622
+    },
+    "quality": {
+      "area": 521164.8,
+      "coverage": 0.8836,
+      "aspect": 1.571
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "11_cam_az288_p56.png",
+    "crop_filename": "11_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 941.8,
+      "y1": 576.0,
+      "w": 941.8,
+      "h": 576.0,
+      "cx": 470.9,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 945,
+      "y1": 576,
+      "w": 945,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.5215299129486084,
+      "pos_y": -0.958425760269165,
+      "pos_z": -5.825067520141602,
+      "ori_w": 0.19752541184425354,
+      "ori_x": 0.471934050321579,
+      "ori_y": -0.14066371321678162,
+      "ori_z": 0.8476294279098511
+    },
+    "quality": {
+      "area": 542476.8,
+      "coverage": 0.9197,
+      "aspect": 1.635
+    }
+  },
+  {
+    "vehicle_label": "11",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "11_cam_az324_p60.png",
+    "crop_filename": "11_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.407737970352173,
+      "pos_y": 0.820904016494751,
+      "pos_z": -5.6976447105407715,
+      "ori_w": 0.0794038325548172,
+      "ori_x": -0.5054260492324829,
+      "ori_y": -0.004595946986228228,
+      "ori_z": -0.8591963648796082
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "12_cam_az000_p20.png",
+    "crop_filename": "12_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 219.9,
+      "y0": 184.1,
+      "x1": 809.5,
+      "y1": 576.0,
+      "w": 589.6,
+      "h": 391.9,
+      "cx": 514.7,
+      "cy": 380.0
+    },
+    "bbox_padded": {
+      "x0": 215,
+      "y0": 180,
+      "x1": 813,
+      "y1": 576,
+      "w": 598,
+      "h": 396
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.889423370361328,
+      "pos_y": 8.81369686126709,
+      "pos_z": -5.68253755569458,
+      "ori_w": 0.373496413230896,
+      "ori_x": -0.15859977900981903,
+      "ori_y": -0.054237328469753265,
+      "ori_z": -0.9123622179031372
+    },
+    "quality": {
+      "area": 231064.2,
+      "coverage": 0.3918,
+      "aspect": 1.504
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "12_cam_az036_p24.png",
+    "crop_filename": "12_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 48.7,
+      "y0": 164.1,
+      "x1": 946.2,
+      "y1": 576.0,
+      "w": 897.4,
+      "h": 411.9,
+      "cx": 497.5,
+      "cy": 370.0
+    },
+    "bbox_padded": {
+      "x0": 44,
+      "y0": 160,
+      "x1": 950,
+      "y1": 576,
+      "w": 906,
+      "h": 416
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.7487109899520874,
+      "pos_y": 10.141222953796387,
+      "pos_z": -5.6201090812683105,
+      "ori_w": 0.632965087890625,
+      "ori_x": -0.15333200991153717,
+      "ori_y": -0.1241217777132988,
+      "ori_z": -0.7486242651939392
+    },
+    "quality": {
+      "area": 369680.2,
+      "coverage": 0.6268,
+      "aspect": 2.179
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "12_cam_az072_p29.png",
+    "crop_filename": "12_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 14.8,
+      "y0": 124.2,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1009.2,
+      "h": 451.8,
+      "cx": 519.4,
+      "cy": 350.1
+    },
+    "bbox_padded": {
+      "x0": 10,
+      "y0": 120,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1014,
+      "h": 456
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.5511763095855713,
+      "pos_y": 7.452902793884277,
+      "pos_z": -5.657865524291992,
+      "ori_w": 0.8244372606277466,
+      "ori_x": -0.12379585206508636,
+      "ori_y": -0.20501109957695007,
+      "ori_z": -0.5127847790718079
+    },
+    "quality": {
+      "area": 455956.6,
+      "coverage": 0.773,
+      "aspect": 2.234
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "12_cam_az108_p33.png",
+    "crop_filename": "12_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 93.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 483.0,
+      "cx": 512.0,
+      "cy": 334.5
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 89,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 487
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.088076591491699,
+      "pos_y": 3.3961923122406006,
+      "pos_z": -5.739343166351318,
+      "ori_w": 0.9323330521583557,
+      "ori_x": -0.0577746145427227,
+      "ori_y": -0.27104416489601135,
+      "ori_z": -0.23227624595165253
+    },
+    "quality": {
+      "area": 494592.0,
+      "coverage": 0.8385,
+      "aspect": 2.12
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "12_cam_az144_p38.png",
+    "crop_filename": "12_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 53.2,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 522.8,
+      "cx": 512.0,
+      "cy": 314.6
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 49,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 527
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.654864311218262,
+      "pos_y": -0.6527299880981445,
+      "pos_z": -5.8339691162109375,
+      "ori_w": 0.9434158205986023,
+      "ori_x": 0.034585874527692795,
+      "ori_y": -0.323356956243515,
+      "ori_z": 0.06488942354917526
+    },
+    "quality": {
+      "area": 535347.2,
+      "coverage": 0.9076,
+      "aspect": 1.959
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "12_cam_az180_p42.png",
+    "crop_filename": "12_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.6,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 575.4,
+      "cx": 512.0,
+      "cy": 288.3
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.529388189315796,
+      "pos_y": -3.314512252807617,
+      "pos_z": -5.904436111450195,
+      "ori_w": 0.8637319803237915,
+      "ori_x": 0.14587441086769104,
+      "ori_y": -0.33395475149154663,
+      "ori_z": 0.3480831980705261
+    },
+    "quality": {
+      "area": 589209.6,
+      "coverage": 0.999,
+      "aspect": 1.78
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "12_cam_az216_p47.png",
+    "crop_filename": "12_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.6589291095733643,
+      "pos_y": -3.963045120239258,
+      "pos_z": -5.932161331176758,
+      "ori_w": 0.6985070109367371,
+      "ori_x": 0.26651522517204285,
+      "ori_y": -0.30989834666252136,
+      "ori_z": 0.5873845815658569
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "12_cam_az252_p51.png",
+    "crop_filename": "12_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6636914014816284,
+      "pos_y": -3.092273235321045,
+      "pos_z": -5.922650337219238,
+      "ori_w": 0.472390353679657,
+      "ori_x": 0.3728904724121094,
+      "ori_y": -0.23477856814861298,
+      "ori_z": 0.7633342146873474
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "12_cam_az288_p56.png",
+    "crop_filename": "12_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.739241361618042,
+      "pos_y": -1.2313419580459595,
+      "pos_z": -5.884878635406494,
+      "ori_w": 0.20616590976715088,
+      "ori_x": 0.46015849709510803,
+      "ori_y": -0.1215968057513237,
+      "ori_z": 0.8549643158912659
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "12",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "12_cam_az324_p60.png",
+    "crop_filename": "12_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1024.0,
+      "y1": 576.0,
+      "w": 1024.0,
+      "h": 576.0,
+      "cx": 512.0,
+      "cy": 288.0
+    },
+    "bbox_padded": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 1024,
+      "y1": 576,
+      "w": 1024,
+      "h": 576
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.6187939643859863,
+      "pos_y": 0.5516279339790344,
+      "pos_z": -5.843524932861328,
+      "ori_w": 0.06867358833551407,
+      "ori_x": -0.49986374378204346,
+      "ori_y": -0.02628229558467865,
+      "ori_z": -0.8629770874977112
+    },
+    "quality": {
+      "area": 589824.0,
+      "coverage": 1.0,
+      "aspect": 1.778
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "13_cam_az000_p20.png",
+    "crop_filename": "13_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 364.1,
+      "y0": 235.1,
+      "x1": 660.2,
+      "y1": 423.9,
+      "w": 296.2,
+      "h": 188.8,
+      "cx": 512.2,
+      "cy": 329.5
+    },
+    "bbox_padded": {
+      "x0": 360,
+      "y0": 231,
+      "x1": 664,
+      "y1": 427,
+      "w": 304,
+      "h": 196
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.796008110046387,
+      "pos_y": 8.753132820129395,
+      "pos_z": -5.180186748504639,
+      "ori_w": 0.3755519688129425,
+      "ori_x": -0.15589208900928497,
+      "ori_y": -0.06533423066139221,
+      "ori_z": -0.911257266998291
+    },
+    "quality": {
+      "area": 55903.7,
+      "coverage": 0.0948,
+      "aspect": 1.568
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "13_cam_az036_p24.png",
+    "crop_filename": "13_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 330.5,
+      "y0": 226.2,
+      "x1": 645.9,
+      "y1": 437.8,
+      "w": 315.4,
+      "h": 211.6,
+      "cx": 488.2,
+      "cy": 332.0
+    },
+    "bbox_padded": {
+      "x0": 326,
+      "y0": 222,
+      "x1": 649,
+      "y1": 441,
+      "w": 323,
+      "h": 219
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6443356275558472,
+      "pos_y": 10.020800590515137,
+      "pos_z": -5.231172561645508,
+      "ori_w": 0.6339204907417297,
+      "ori_x": -0.15366321802139282,
+      "ori_y": -0.13538524508476257,
+      "ori_z": -0.7457903623580933
+    },
+    "quality": {
+      "area": 66738.6,
+      "coverage": 0.1132,
+      "aspect": 1.491
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "13_cam_az072_p29.png",
+    "crop_filename": "13_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 322.4,
+      "y0": 197.8,
+      "x1": 732.3,
+      "y1": 518.9,
+      "w": 409.9,
+      "h": 321.1,
+      "cx": 527.4,
+      "cy": 358.3
+    },
+    "bbox_padded": {
+      "x0": 318,
+      "y0": 193,
+      "x1": 736,
+      "y1": 522,
+      "w": 418,
+      "h": 329
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6322078704833984,
+      "pos_y": 7.287273406982422,
+      "pos_z": -5.2878947257995605,
+      "ori_w": 0.8241397738456726,
+      "ori_x": -0.1269761621952057,
+      "ori_y": -0.21527038514614105,
+      "ori_z": -0.5082611441612244
+    },
+    "quality": {
+      "area": 131618.9,
+      "coverage": 0.2231,
+      "aspect": 1.277
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "13_cam_az108_p33.png",
+    "crop_filename": "13_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 237.6,
+      "y0": 180.2,
+      "x1": 710.8,
+      "y1": 569.7,
+      "w": 473.2,
+      "h": 389.5,
+      "cx": 474.2,
+      "cy": 374.9
+    },
+    "bbox_padded": {
+      "x0": 233,
+      "y0": 176,
+      "x1": 714,
+      "y1": 573,
+      "w": 481,
+      "h": 397
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.134200096130371,
+      "pos_y": 3.20833683013916,
+      "pos_z": -5.329280853271484,
+      "ori_w": 0.9310176968574524,
+      "ori_x": -0.06341210752725601,
+      "ori_y": -0.27922314405441284,
+      "ori_z": -0.22631707787513733
+    },
+    "quality": {
+      "area": 184311.4,
+      "coverage": 0.3125,
+      "aspect": 1.215
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "13_cam_az144_p38.png",
+    "crop_filename": "13_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 249.5,
+      "y0": 168.0,
+      "x1": 806.2,
+      "y1": 573.4,
+      "w": 556.7,
+      "h": 405.4,
+      "cx": 527.8,
+      "cy": 370.7
+    },
+    "bbox_padded": {
+      "x0": 245,
+      "y0": 164,
+      "x1": 810,
+      "y1": 576,
+      "w": 565,
+      "h": 412
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.666318893432617,
+      "pos_y": -0.8377954363822937,
+      "pos_z": -5.346582412719727,
+      "ori_w": 0.9413391947746277,
+      "ori_x": 0.027182945981621742,
+      "ori_y": -0.32858604192733765,
+      "ori_z": 0.0719221904873848
+    },
+    "quality": {
+      "area": 225686.2,
+      "coverage": 0.3826,
+      "aspect": 1.373
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "13_cam_az180_p42.png",
+    "crop_filename": "13_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 204.6,
+      "y0": 131.1,
+      "x1": 820.6,
+      "y1": 576.0,
+      "w": 616.0,
+      "h": 444.9,
+      "cx": 512.6,
+      "cy": 353.5
+    },
+    "bbox_padded": {
+      "x0": 200,
+      "y0": 127,
+      "x1": 824,
+      "y1": 576,
+      "w": 624,
+      "h": 449
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.518158435821533,
+      "pos_y": -3.482241153717041,
+      "pos_z": -5.343055248260498,
+      "ori_w": 0.8613902926445007,
+      "ori_x": 0.13742119073867798,
+      "ori_y": -0.33570659160614014,
+      "ori_z": 0.3555604815483093
+    },
+    "quality": {
+      "area": 274058.4,
+      "coverage": 0.4646,
+      "aspect": 1.385
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "13_cam_az216_p47.png",
+    "crop_filename": "13_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 149.7,
+      "y0": 125.1,
+      "x1": 834.9,
+      "y1": 576.0,
+      "w": 685.2,
+      "h": 450.9,
+      "cx": 492.3,
+      "cy": 350.6
+    },
+    "bbox_padded": {
+      "x0": 145,
+      "y0": 121,
+      "x1": 838,
+      "y1": 576,
+      "w": 693,
+      "h": 455
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.6423090100288391,
+      "pos_y": -4.106736183166504,
+      "pos_z": -5.323150157928467,
+      "ori_w": 0.6963922381401062,
+      "ori_x": 0.25790026783943176,
+      "ori_y": -0.30798307061195374,
+      "ori_z": 0.5947030782699585
+    },
+    "quality": {
+      "area": 308956.7,
+      "coverage": 0.5238,
+      "aspect": 1.52
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "13_cam_az252_p51.png",
+    "crop_filename": "13_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 222.5,
+      "y0": 85.6,
+      "x1": 920.4,
+      "y1": 576.0,
+      "w": 697.9,
+      "h": 490.4,
+      "cx": 571.4,
+      "cy": 330.8
+    },
+    "bbox_padded": {
+      "x0": 218,
+      "y0": 81,
+      "x1": 924,
+      "y1": 576,
+      "w": 706,
+      "h": 495
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6727149486541748,
+      "pos_y": -3.2162184715270996,
+      "pos_z": -5.299872398376465,
+      "ori_w": 0.4709693193435669,
+      "ori_x": 0.36484014987945557,
+      "ori_y": -0.22943457961082458,
+      "ori_z": 0.769700825214386
+    },
+    "quality": {
+      "area": 342250.2,
+      "coverage": 0.5803,
+      "aspect": 1.423
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "13_cam_az288_p56.png",
+    "crop_filename": "13_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 108.8,
+      "y0": 51.9,
+      "x1": 845.4,
+      "y1": 576.0,
+      "w": 736.5,
+      "h": 524.1,
+      "cx": 477.1,
+      "cy": 313.9
+    },
+    "bbox_padded": {
+      "x0": 104,
+      "y0": 47,
+      "x1": 849,
+      "y1": 576,
+      "w": 745,
+      "h": 529
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.7322566509246826,
+      "pos_y": -1.3458341360092163,
+      "pos_z": -5.2816009521484375,
+      "ori_w": 0.20586688816547394,
+      "ori_x": 0.45340287685394287,
+      "ori_y": -0.11339902877807617,
+      "ori_z": 0.8597588539123535
+    },
+    "quality": {
+      "area": 386052.1,
+      "coverage": 0.6545,
+      "aspect": 1.405
+    }
+  },
+  {
+    "vehicle_label": "13",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "13_cam_az324_p60.png",
+    "crop_filename": "13_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 178.8,
+      "y0": 52.2,
+      "x1": 942.3,
+      "y1": 576.0,
+      "w": 763.4,
+      "h": 523.8,
+      "cx": 560.6,
+      "cy": 314.1
+    },
+    "bbox_padded": {
+      "x0": 174,
+      "y0": 48,
+      "x1": 946,
+      "y1": 576,
+      "w": 772,
+      "h": 528
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.596538543701172,
+      "pos_y": 0.4364994764328003,
+      "pos_z": -5.273412704467773,
+      "ori_w": 0.06770043075084686,
+      "ori_x": -0.49486586451530457,
+      "ori_y": -0.036446746438741684,
+      "ori_z": -0.8655611276626587
+    },
+    "quality": {
+      "area": 399921.3,
+      "coverage": 0.678,
+      "aspect": 1.458
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az000_p20",
+    "azimuth": 0,
+    "elevation": 20,
+    "source_image": "9_cam_az000_p20.png",
+    "crop_filename": "9_cam_az000_p20_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 361.4,
+      "y0": 237.6,
+      "x1": 663.0,
+      "y1": 425.8,
+      "w": 301.6,
+      "h": 188.2,
+      "cx": 512.2,
+      "cy": 331.7
+    },
+    "bbox_padded": {
+      "x0": 357,
+      "y0": 233,
+      "x1": 667,
+      "y1": 429,
+      "w": 310,
+      "h": 196
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 8.773497581481934,
+      "pos_y": 8.793111801147461,
+      "pos_z": -5.111390590667725,
+      "ori_w": 0.3765685260295868,
+      "ori_x": -0.1559673249721527,
+      "ori_y": -0.06235906481742859,
+      "ori_z": -0.9110333323478699
+    },
+    "quality": {
+      "area": 56761.1,
+      "coverage": 0.0962,
+      "aspect": 1.603
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az036_p24",
+    "azimuth": 36,
+    "elevation": 24,
+    "source_image": "9_cam_az036_p24.png",
+    "crop_filename": "9_cam_az036_p24_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 329.0,
+      "y0": 229.1,
+      "x1": 651.5,
+      "y1": 439.9,
+      "w": 322.4,
+      "h": 210.8,
+      "cx": 490.3,
+      "cy": 334.5
+    },
+    "bbox_padded": {
+      "x0": 325,
+      "y0": 225,
+      "x1": 655,
+      "y1": 443,
+      "w": 330,
+      "h": 218
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6203572750091553,
+      "pos_y": 10.053245544433594,
+      "pos_z": -5.136817455291748,
+      "ori_w": 0.6349299550056458,
+      "ori_x": -0.1527571976184845,
+      "ori_y": -0.1325436681509018,
+      "ori_z": -0.7456281781196594
+    },
+    "quality": {
+      "area": 67983.0,
+      "coverage": 0.1153,
+      "aspect": 1.53
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az072_p29",
+    "azimuth": 72,
+    "elevation": 29,
+    "source_image": "9_cam_az072_p29.png",
+    "crop_filename": "9_cam_az072_p29_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 323.3,
+      "y0": 201.0,
+      "x1": 739.5,
+      "y1": 521.9,
+      "w": 416.2,
+      "h": 320.9,
+      "cx": 531.4,
+      "cy": 361.4
+    },
+    "bbox_padded": {
+      "x0": 319,
+      "y0": 197,
+      "x1": 743,
+      "y1": 525,
+      "w": 424,
+      "h": 328
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.6533701419830322,
+      "pos_y": 7.314329624176025,
+      "pos_z": -5.195427894592285,
+      "ori_w": 0.8250470161437988,
+      "ori_x": -0.12518353760242462,
+      "ori_y": -0.21284054219722748,
+      "ori_z": -0.5082572102546692
+    },
+    "quality": {
+      "area": 133558.6,
+      "coverage": 0.2264,
+      "aspect": 1.297
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az108_p33",
+    "azimuth": 108,
+    "elevation": 33,
+    "source_image": "9_cam_az108_p33.png",
+    "crop_filename": "9_cam_az108_p33_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 239.2,
+      "y0": 183.2,
+      "x1": 715.7,
+      "y1": 570.8,
+      "w": 476.4,
+      "h": 387.6,
+      "cx": 477.4,
+      "cy": 377.0
+    },
+    "bbox_padded": {
+      "x0": 235,
+      "y0": 179,
+      "x1": 719,
+      "y1": 574,
+      "w": 484,
+      "h": 395
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -6.151069164276123,
+      "pos_y": 3.2329654693603516,
+      "pos_z": -5.253445625305176,
+      "ori_w": 0.9316743016242981,
+      "ori_x": -0.060920123010873795,
+      "ori_y": -0.27741795778274536,
+      "ori_z": -0.22651927173137665
+    },
+    "quality": {
+      "area": 184691.4,
+      "coverage": 0.3131,
+      "aspect": 1.229
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az144_p38",
+    "azimuth": 144,
+    "elevation": 38,
+    "source_image": "9_cam_az144_p38.png",
+    "crop_filename": "9_cam_az144_p38_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 251.6,
+      "y0": 169.0,
+      "x1": 811.7,
+      "y1": 572.7,
+      "w": 560.1,
+      "h": 403.6,
+      "cx": 531.7,
+      "cy": 370.8
+    },
+    "bbox_padded": {
+      "x0": 247,
+      "y0": 165,
+      "x1": 815,
+      "y1": 576,
+      "w": 568,
+      "h": 411
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -5.67888069152832,
+      "pos_y": -0.8124916553497314,
+      "pos_z": -5.294829845428467,
+      "ori_w": 0.9416416883468628,
+      "ori_x": 0.030114298686385155,
+      "ori_y": -0.32756128907203674,
+      "ori_z": 0.07146796584129333
+    },
+    "quality": {
+      "area": 226112.4,
+      "coverage": 0.3834,
+      "aspect": 1.387
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az180_p42",
+    "azimuth": 180,
+    "elevation": 42,
+    "source_image": "9_cam_az180_p42.png",
+    "crop_filename": "9_cam_az180_p42_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 204.2,
+      "y0": 131.7,
+      "x1": 820.9,
+      "y1": 576.0,
+      "w": 616.7,
+      "h": 444.3,
+      "cx": 512.5,
+      "cy": 353.8
+    },
+    "bbox_padded": {
+      "x0": 200,
+      "y0": 127,
+      "x1": 824,
+      "y1": 576,
+      "w": 624,
+      "h": 449
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -3.5278732776641846,
+      "pos_y": -3.4545702934265137,
+      "pos_z": -5.3117804527282715,
+      "ori_w": 0.8612370491027832,
+      "ori_x": 0.14049497246742249,
+      "ori_y": -0.3355267345905304,
+      "ori_z": 0.35489949584007263
+    },
+    "quality": {
+      "area": 273999.8,
+      "coverage": 0.4645,
+      "aspect": 1.388
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az216_p47",
+    "azimuth": 216,
+    "elevation": 47,
+    "source_image": "9_cam_az216_p47.png",
+    "crop_filename": "9_cam_az216_p47_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 145.9,
+      "y0": 125.9,
+      "x1": 829.4,
+      "y1": 576.0,
+      "w": 683.4,
+      "h": 450.1,
+      "cx": 487.7,
+      "cy": 350.9
+    },
+    "bbox_padded": {
+      "x0": 141,
+      "y0": 121,
+      "x1": 833,
+      "y1": 576,
+      "w": 692,
+      "h": 455
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": -0.6513119339942932,
+      "pos_y": -4.076030731201172,
+      "pos_z": -5.302802085876465,
+      "ori_w": 0.6957340240478516,
+      "ori_x": 0.2607998549938202,
+      "ori_y": -0.3086264729499817,
+      "ori_z": 0.5938748121261597
+    },
+    "quality": {
+      "area": 307643.4,
+      "coverage": 0.5216,
+      "aspect": 1.519
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az252_p51",
+    "azimuth": 252,
+    "elevation": 51,
+    "source_image": "9_cam_az252_p51.png",
+    "crop_filename": "9_cam_az252_p51_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 216.5,
+      "y0": 86.3,
+      "x1": 915.2,
+      "y1": 576.0,
+      "w": 698.8,
+      "h": 489.7,
+      "cx": 565.9,
+      "cy": 331.1
+    },
+    "bbox_padded": {
+      "x0": 212,
+      "y0": 82,
+      "x1": 919,
+      "y1": 576,
+      "w": 707,
+      "h": 494
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 1.6628047227859497,
+      "pos_y": -3.1831343173980713,
+      "pos_z": -5.2804412841796875,
+      "ori_w": 0.4698140621185303,
+      "ori_x": 0.3672846853733063,
+      "ori_y": -0.23080527782440186,
+      "ori_z": 0.7688339352607727
+    },
+    "quality": {
+      "area": 342153.4,
+      "coverage": 0.5801,
+      "aspect": 1.427
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az288_p56",
+    "azimuth": 288,
+    "elevation": 56,
+    "source_image": "9_cam_az288_p56.png",
+    "crop_filename": "9_cam_az288_p56_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 98.9,
+      "y0": 54.1,
+      "x1": 842.1,
+      "y1": 576.0,
+      "w": 743.2,
+      "h": 521.9,
+      "cx": 470.5,
+      "cy": 315.1
+    },
+    "bbox_padded": {
+      "x0": 94,
+      "y0": 50,
+      "x1": 846,
+      "y1": 576,
+      "w": 752,
+      "h": 526
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.720376491546631,
+      "pos_y": -1.3117287158966064,
+      "pos_z": -5.2543182373046875,
+      "ori_w": 0.20426444709300995,
+      "ori_x": 0.45515069365501404,
+      "ori_y": -0.11531814932823181,
+      "ori_z": 0.8589619398117065
+    },
+    "quality": {
+      "area": 387876.1,
+      "coverage": 0.6576,
+      "aspect": 1.424
+    }
+  },
+  {
+    "vehicle_label": "9",
+    "camera": "cam_az324_p60",
+    "azimuth": 324,
+    "elevation": 60,
+    "source_image": "9_cam_az324_p60.png",
+    "crop_filename": "9_cam_az324_p60_crop0.png",
+    "crop_width": 256,
+    "crop_height": 256,
+    "resized_down": true,
+    "bbox_original": {
+      "x0": 169.2,
+      "y0": 58.2,
+      "x1": 940.5,
+      "y1": 576.0,
+      "w": 771.3,
+      "h": 517.8,
+      "cx": 554.9,
+      "cy": 317.1
+    },
+    "bbox_padded": {
+      "x0": 165,
+      "y0": 54,
+      "x1": 944,
+      "y1": 576,
+      "w": 779,
+      "h": 522
+    },
+    "padding": 4,
+    "camera_pose": {
+      "pos_x": 2.582761764526367,
+      "pos_y": 0.47038108110427856,
+      "pos_z": -5.2357025146484375,
+      "ori_w": 0.06961475312709808,
+      "ori_x": -0.49576646089553833,
+      "ori_y": -0.03418080136179924,
+      "ori_z": -0.8649861812591553
+    },
+    "quality": {
+      "area": 399379.1,
+      "coverage": 0.6771,
+      "aspect": 1.49
+    }
+  }
+]

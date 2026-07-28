@@ -1,0 +1,85 @@
+model_arch: MBR_4B
+LAI: False
+n_cams: 20
+n_views: 8
+backbone: ibn #-D
+torch_seed: 0 #0 # 3407
+epoch_freeze_L1toL3: 10
+freeze_triplet_branches: 0
+freeze_backbone_warmup: False  ## for circle
+branch_layer: 3
+validation_period: 10
+###GPU Settings
+half_precision: False
+parallel: False
+gpu: 
+####LOSSES
+mean_losses: False
+softmax_loss: torch_ce
+label_smoothing: 0.1
+metric_loss: fastreidtriplet #Batch_hard_triplet #Batch_hard_triplet #SupCon #RLL
+metric_loss_trans: fastreidtriplet
+hard_mining: True
+triplet_norm: False
+triplet_margin: 0.3 # None for Soft Margin Triplet Loss with Batch Hard
+triplet_margin_trans: 0.3
+p_rerase: 0.0
+circle_softmax: False
+margin_circle: 0.35
+scale_circle: 64
+group_norm: False
+pretrain_gropnorm: False
+gn_init: kaiming
+pretrain_ongroups: True
+# 
+##DATA
+ROOT_DIR: /mnt/DATADISK/Datasets/vehicle/VERIWILD/images/   # unused by the VehicleX branch, left as-is
+BATCH_SIZE: 48 #48
+NUM_INSTANCES: 8 #8
+num_workers_train: 16
+num_workers_teste: 8
+y_length: 256
+x_length: 256
+n_mean: [0.5, 0.5, 0.5]
+n_std: [0.5, 0.5, 0.5]
+p_hflip: 0.5
+####VERIWILD 3067306711 Veri776 770 Market 1501 VehicleX <fill in from vehiclex_train_ids.txt>
+dataset: VehicleX
+n_classes: 1158
+query_dir: /home/jovyan/ReID/dataset/VeRi/image_query/       # unused by the VehicleX branch, left as-is
+teste_dir: /home/jovyan/ReID/dataset/VeRi/image_test/        # unused by the VehicleX branch, left as-is
+train_dir: dataset/vehiclex_data/AIC21_Track2_ReID_Simulation/sys_image_train
+query_list_file: /home/jovyan/ReID/dataset/VeRi/name_query.txt   # unused by the VehicleX branch, left as-is
+gallery_list_file: /home/jovyan/ReID/dataset/VeRi/name_test.txt  # unused by the VehicleX branch, left as-is
+train_list_file: dataset/vehiclex_data/AIC21_Track2_ReID_Simulation/train_label.xml
+test_keypoint: /home/jovyan/ReID/dataset/VeRi/keypoint_orient_test.txt   # unused by the VehicleX branch, left as-is
+train_keypoint: /home/jovyan/ReID/dataset/VeRi/keypoint_orient_train.txt # unused by the VehicleX branch, left as-is
+### VehicleX-specific settings (all optional — defaults shown match code fallbacks)
+vehiclex_pitch_min: 20
+vehiclex_pitch_max: 60
+vehiclex_preflight: True
+vehiclex_min_images_per_val_id: 8
+### Define an optimizer settings
+optimizer: Adam #Adam SGD
+lr: 0.0001 #3.5e-5 original Adam 0.0001
+weight_decay:  0.0005
+bias_lr_factor: 1
+momentum: 0.9
+###scheduler settings
+sched_name: Warm_MultiStep
+min_lr: 0.000001
+num_epochs: 100
+milestones: [40, 70]  # adjusted for longer training
+gamma: 0.1
+warmup_factor: 0.0
+warmup_iters: 10
+warmup_method: linear
+alpha_ce: 0.6 #aka alpha
+beta_tri: 1.0  #aka beta
+gamma_ce: 0.4
+gamma_t: 0.4
+#####Experiment 
+pool: GAP   ###GeM    HMP   GAP
+pool_tripletb: GAP
+pool_trans: GAP
+linear_num: False #1024 #False or value
